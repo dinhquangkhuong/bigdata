@@ -17,9 +17,6 @@ board_content: Element = org_page.html.find(".boxcontent", first=True) # type: i
 board_links = board_content.find("ul > li > a.boardlink") # type: ignore
 board_urls = map(paserBoardLink, board_links) # type: ignore
 
-
-
-
 with open("test-all.json", "a") as outfile:
   for url in board_urls:
       for i in range(1, 11):

@@ -1,0 +1,13 @@
+
+version: "3.3"
+  
+services:
+  superset_server:
+    build:
+      context: ./superset/.
+      dockerfile: Dockerfile
+    tty: true
+    network_mode: "host"
+    ports:
+      - "8088:8088"
+

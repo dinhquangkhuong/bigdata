@@ -13,5 +13,8 @@ containers:
 	docker-compose up
 
 clean:
+	rm -rf consumer/__pycache__/
+	rm -rf producer/__pycache__/
+	rm -rf __pycache__/
 	docker-compose down
 

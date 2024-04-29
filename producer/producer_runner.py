@@ -1,5 +1,4 @@
 from requests_html import HTMLSession
-from producer import produce_non_archive
 import subprocess
 
 def paserBoardLink(board_link):
@@ -19,7 +18,7 @@ main_url = "https://boards.4chan.org"
 
 for url in board_urls:
   topic = url.split("/")[-2]
-  subprocess.run(["./producer.sh", main_url, topic])
+  subprocess.Popen(["./producer.sh", main_url, topic])
   # produce_non_archive(session, main_url, "a")
   # break
 

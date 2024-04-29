@@ -1,4 +1,3 @@
-from requests import session
 from requests_html import HTML, HTMLSession
 
 def getPath(tag):
@@ -13,7 +12,7 @@ def parseReplyInfo(reply):
   userName = reply.find(".name", first=True).text
   dateTime = postInfo.find(".dateTime", first=True).text
   postMessage = reply.find(".postMessage", first=True)
-  postMessageReplyTos = map(parseReplyReply, postMessage.find(".quotelink"))
+  postMessageReplyTos = list(map(parseReplyReply, postMessage.find(".quotelink")))
 
   postMessageText = postMessage.xpath("//blockquote/text()")
 

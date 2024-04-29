@@ -3,18 +3,14 @@ PYTHON=python3
 initdb:
 	$(PYTHON) database
 
-producers:
+producer:
 	$(PYTHON) producer/producer_runner.py
 
-consumers:
+consumer:
 	$(PYTHON) consumer/consumer_runner.py
-
-containers:
-	docker-compose up
 
 clean:
 	rm -rf consumer/__pycache__/
 	rm -rf producer/__pycache__/
 	rm -rf __pycache__/
-	docker-compose down
 

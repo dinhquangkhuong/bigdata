@@ -1,6 +1,12 @@
 import psycopg2
+import os
+from dotenv import load_dotenv
 
-conn = psycopg2.connect("postgres://khuong:12@127.0.0.1:5432/bigdata")
+load_dotenv(".env")
+database_url = os.getenv("DATABASE_URL")
+conn = psycopg2.connect(database_url)
+
+print(database_url, conn)
 
 cur = conn.cursor()
 

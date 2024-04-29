@@ -1,6 +1,6 @@
 PYTHON=python3
 
-initdb:
+db:
 	$(PYTHON) database
 
 producer:

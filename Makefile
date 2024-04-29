@@ -1,4 +1,4 @@
-PYTHON=python3
+include .env
 
 db:
 	$(PYTHON) database

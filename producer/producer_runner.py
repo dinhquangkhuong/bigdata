@@ -1,5 +1,6 @@
 from requests_html import HTMLSession
-import subprocess
+from threading import Thread
+from producer import produce_data
 
 def paserBoardLink(board_link):
   return "https:" + board_link.attrs['href']
@@ -16,10 +17,12 @@ board_urls = map(paserBoardLink, board_links) # type: ignore
 
 main_url = "https://boards.4chan.org"
 
+# def produce_data(session: HTMLSession, board_url, topic):
+produce_data_session = lambda topic: produce_data(session, main_url, topic) 
 for url in board_urls:
   topic = url.split("/")[-2]
-  subprocess.Popen(["./producer.sh", main_url, topic])
-  # produce_non_archive(session, main_url, "a")
+  produce_data_session_topic = lambda : produce_data_session(topic)
+  Thread(target=produce_data_session_topic).start()
   # break
 
 

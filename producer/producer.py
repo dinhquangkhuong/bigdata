@@ -21,7 +21,7 @@ def produce_page(session: HTMLSession, kafka_producer: KafkaProducer, topic, boa
     parseThreadInfoWith(thread)
 
 
-def produce_non_archive(session: HTMLSession, board_url, topic):
+def produce_data(session: HTMLSession, board_url, topic):
   kafka_producer = KafkaProducer(bootstrap_servers='localhost:9092')
   produce_page(session, kafka_producer, topic, board_url, "")
   for page_num in range(2, 11):

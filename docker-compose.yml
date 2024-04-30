@@ -5,7 +5,15 @@ services:
     build:
       context: ./container/.
       dockerfile: Kafka
-    tty: true
     ports:
       - "9092:9092"
+  superset:
+    build:
+      context: ./container/.
+      dockerfile: Superset
+    tty: true
+    network_mode: "host"
+    ports:
+      - "8088:8088"
+
     

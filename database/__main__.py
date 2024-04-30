@@ -6,8 +6,6 @@ load_dotenv(".env")
 database_url = os.getenv("DATABASE_URL")
 conn = psycopg2.connect(database_url)
 
-print(database_url, conn)
-
 cur = conn.cursor()
 
 cur.execute("""

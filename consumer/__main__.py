@@ -1,8 +1,6 @@
 from requests_html import HTMLSession
-from kafka import KafkaConsumer
 from threading import Thread
 from consumer import collect_data
-
 
 def paserBoardLink(board_link):
   return "https:" + board_link.attrs['href']
@@ -19,10 +17,6 @@ board_urls = map(paserBoardLink, board_links) # type: ignore
 
 for url in board_urls:
   topic = url.split("/")[-2]
-  collect_topic = lambda : collect_data(topic)
+  collect_topic = lambda : collect_data(topic, session)
   Thread(target=collect_topic).start()
 
-
-  
-# for url in board_urls:
-#   subprocess.run(["pkill", "customer-will-be-kill"])

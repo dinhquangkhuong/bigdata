@@ -10,7 +10,6 @@ def takeThreadText(session: HTMLSession, kafka_producer: KafkaProducer, topic, b
 
 def produce_page(session: HTMLSession, kafka_producer: KafkaProducer, topic, board_url,  page_num):
   page_url = "{url}/{topic}/{page_num}".format(url=board_url, topic=topic, page_num=page_num)
-  print(page_url)
 
   res = session.get(page_url)
   htmlRes = HTML(html=res.text)
@@ -19,7 +18,6 @@ def produce_page(session: HTMLSession, kafka_producer: KafkaProducer, topic, boa
   
   for thread in threads:
     parseThreadInfoWith(thread)
-
 
 def produce_data(session: HTMLSession, board_url, topic):
   kafka_producer = KafkaProducer(bootstrap_servers='localhost:9092')

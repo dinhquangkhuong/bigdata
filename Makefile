@@ -4,13 +4,11 @@ db:
 	$(PYTHON) database
 
 producer:
-	$(PYTHON) producer/producer_runner.py
-
+	$(PYTHON) src/producer
 consumer:
-	$(PYTHON) consumer/consumer_runner.py
+	$(PYTHON) src/consumer 
 
 clean:
-	rm -rf consumer/__pycache__/
-	rm -rf producer/__pycache__/
-	rm -rf __pycache__/
+	rm -rf src/consumer/__pycache__/
+	rm -rf src/producer/__pycache__/
 

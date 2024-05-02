@@ -1,3 +1,19 @@
+# from typing import Any, List
+#
+# def __printOne__(values: List[Any]):
+#   for value in values[:-1]:
+#     print("\"", value, "\",")
+#
+#   print("\"", values[-1], "\"")
+#
+#
+# def toCsvInStdOut(headers: List[str], values: List[List[Any]]):
+#   __printOne__(headers)
+#
+#   for value in values:
+#     __printOne__(value)
+#
+
 def convertDataStr(databseUrl: str):
   splitProtocol = databseUrl.split("://")
   splitDatabase = splitProtocol[1].split("/")

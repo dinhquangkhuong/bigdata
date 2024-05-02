@@ -4,13 +4,13 @@ services:
   kafka:
     build:
       context: ./container/.
-      dockerfile: Kafka
+      dockerfile: Kafka.dockerfile
     ports:
       - "9092:9092"
   superset:
     build:
       context: ./container/.
-      dockerfile: Superset
+      dockerfile: Superset.dockerfile
     tty: true
     network_mode: "host"
     ports:

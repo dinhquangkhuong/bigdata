@@ -7,54 +7,48 @@ load_dotenv(".env")
 
 session = HTMLSession()
 
-url = "http://localhost:8088"
+superset_url = getenv("SUPERSET_URL")
+database_url = getenv("DATABASE_URL")
+
+if superset_url is None:
+  superset_url = "http://localhost:8088/"
+
 login_api = "/api/v1/security/login"
 post_database_api = "/api/v1/database"
-
-database_url = getenv("DATABASE_URL") 
-
 assert database_url is not None, "database url not set"
+
 database_data = convertDataStr(database_url)
 database_data['expose_in_sqllab'] = True # type: ignore
 
-# { 
-#   "database_name": "bigdata",
-#   "username": "khuong",
-#   "password": "12",
-#   "expose_in_sqllab": True,
-#   "sqlalchemy_uri": database_url
-# }
+def authUser(name: str, password):
+  user = {
+    "username": name,
+    "password": password,
+    "provider": "db",
+    "refresh": True,
+  }
+  login_res = session.post(superset_url + login_api, json=user)
 
-user = {
-  "username": "admin",
-  "password": "admin",
-  "provider": "db",
-  "refresh": True,
-}
+  jwt_token = login_res.json()['access_token']
 
-login_res = session.post(url + login_api, json=user)
+  header_jwt = {
+    "Authorization": f"Bearer {jwt_token}", 
+  }
 
-jwt_token = login_res.json()['access_token']
+  csrf_token = session.get(
+    url=superset_url + '/api/v1/security/csrf_token/',
+    headers=header_jwt,
+  ).json()["result"]
 
-header_jwt = {
-  "Authorization": f"Bearer {jwt_token}", 
-}
+  return {
+    'Accept': 'application/json',
+    'X-CSRFToken': csrf_token,
+    'Authorization': f'Bearer {jwt_token}',
+  }
 
-csrf_token = session.get(
-  url=url + '/api/v1/security/csrf_token/',
-  headers=header_jwt,
-).json()["result"]
+def createUserSkel(name: str, password: str):
+  headers = authUser(name, password) 
+  database_res = session.post(superset_url + "/api/v1/database", json=database_data, headers=headers)
 
 
-data_data = {
-  'csrftoken': csrf_token,
-}
-
-headers = {
-  'Accept': 'application/json',
-  'X-CSRFToken': csrf_token,
-  'Authorization': f'Bearer {jwt_token}',
-}
-
-database_res = session.post(url + "/api/v1/database", json=database_data, headers=headers)
 

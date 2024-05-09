@@ -1,19 +1,35 @@
 version: '3.3'
 
 services:
-  kafka:
-    build:
-      context: ./container/.
-      dockerfile: Kafka.dockerfile
-    ports:
-      - "9092:9092"
+  # kafka:
+  #   build:
+  #     context: ./container/.
+  #     dockerfile: Kafka.dockerfile
+  #   ports:
+  #     - "9092:9092"
   superset:
     build:
       context: ./container/.
       dockerfile: Superset.dockerfile
-    tty: true
+      tty: true
     network_mode: "host"
     ports:
       - "8088:8088"
+  # cassandradb:
+  #   image: cassandra:jammy
+  #   ports:
+  #     - "9042:9042"
+  # presto:
+  #   build:
+  #     context: ./container/.
+  #     dockerfile: Presto.dockerfile
+  #   environment:
+  #     DB_HOST: cassandradb
+  #   env_file:
+  #     - .env
+  #   # image: prestodb/presto:latest
+  #   ports:
+  #     - "8080:8080"
+  #     
 
     

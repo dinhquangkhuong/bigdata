@@ -1,4 +1,4 @@
-Đại học Quốc gia Hà NộiVNU
+Đại học Quốc gia Hà Nội
 Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội
 Trường Đại học Giáo dục - Đại học Quốc gia Hà Nội
 Trường Đại học Kinh tế- Đại học Quốc gia Hà Nội
@@ -11,15 +11,15 @@ Trường Đại học Luật - Đại học Quốc gia Hà Nội
 Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội
 Trường Quốc tế - Đại học Quốc gia Hà Nội
 Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội
-Đại học Quốc gia Thành phố Hồ Chí MinhVNU-HCM
-Trường Đại học An Giang - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Bách khoa - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Công nghệ Thông tin - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Kinh tế – Luật - Đại học Quốc gia Thành phố Hồ Chí Minh
-Trường Đại học Quốc tế - Đại học Quốc gia Thành phố Hồ Chí Minh
-Đại học Thái NguyênTNU
+Đại học Quốc gia TP HCM
+Trường Đại học An Giang - Đại học Quốc gia TP HCM
+Trường Đại học Bách khoa - Đại học Quốc gia TP HCM
+Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM
+Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM
+Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP HCM
+Trường Đại học Kinh tế – Luật - Đại học Quốc gia TP HCM
+Trường Đại học Quốc tế - Đại học Quốc gia TP HCM
+Đại học Thái Nguyên
 Trường Đại học Công nghệ Thông tin và Truyền thông - Đại học Thái Nguyên
 Trường Đại học Khoa học - Đại học Thái Nguyên
 Trường Đại học Kinh tế và Quản trị kinh doanh - Đại học Thái Nguyên
@@ -29,7 +29,7 @@ Trường Đại học Sư phạm - Đại học Thái Nguyên
 Trường Đại học Y Dược - Đại học Thái Nguyên
 Trường Ngoại ngữ - Đại học Thái Nguyên
 Trường Cao đẳng Kinh tế - Kỹ thuật - Đại học Thái Nguyên
-Đại học HuếHueUni
+Đại học Huế
 Trường Đại học Khoa học - Đại học Huế
 Trường Đại học Kinh tế - Đại học Huế
 Trường Đại học Luật - Đại học Huế
@@ -39,23 +39,23 @@ Trường Đại học Nông Lâm - Đại học Huế
 Trường Đại học Sư phạm - Đại học Huế
 Trường Đại học Y Dược - Đại học Huế
 Trường Du lịch - Đại học Huế
-Đại học Đà NẵngUDN
+Đại học Đà Nẵng
 Trường Đại học Bách khoa - Đại học Đà Nẵng
 Trường Đại học Kinh tế - Đại học Đà Nẵng
 Trường Đại học Sư phạm - Đại học Đà Nẵng
 Trường Đại học Ngoại ngữ - Đại học Đà Nẵng
 Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng
-Trường Đại học Công nghệ thông tin và Truyền thông Việt – Hàn[b] - Đại học Đà Nẵng
+Trường Đại học Công nghệ thông tin và Truyền thông Việt – Hàn - Đại học Đà Nẵng
 Đại học Bách khoa Hà Nội
 Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội
 Trường Vật liệu - Đại học Bách khoa Hà Nội
 Trường Cơ khí - Đại học Bách khoa Hà Nội
 Trường Hóa và Khoa học sự sống - Đại học Bách khoa Hà Nội
 Trường Điện – Điện tử - Đại học Bách khoa Hà Nội
-Đại học Kinh tế Thành phố Hồ Chí Minh
-Trường Kinh doanh - Đại học Kinh tế Thành phố Hồ Chí Minh
-Trường Kinh tế, Luật và Quản lý nhà nước - Đại học Kinh tế Thành phố Hồ Chí Minh
-Trường Công nghệ và Thiết kế - Đại học Kinh tế Thành phố Hồ Chí Minh
+Đại học Kinh tế TP HCM
+Trường Kinh doanh - Đại học Kinh tế TP HCM
+Trường Kinh tế, Luật và Quản lý nhà nước - Đại học Kinh tế TP HCM
+Trường Công nghệ và Thiết kế - Đại học Kinh tế TP HCM
 Học viện Quản lý giáo dục
 Trường Đại học Hà Nội
 Trường Đại học Giao thông Vận tải
@@ -63,19 +63,20 @@ Trường Đại học Kinh tế Quốc dân
 Trường Đại học Mỏ – Địa chất
 Trường Đại học Mở Hà Nội
 Trường Đại học Mỹ thuật Công nghiệp
-Trường Đại học Ngoại thương[d]
+Trường Đại học Ngoại thương phía Bắc
+Trường Đại học Ngoại thương phía Nam
 Trường Đại học Sư phạm Hà Nội
 Trường Đại học Sư phạm Hà Nội 2
 Trường Đại học Sư phạm Nghệ thuật Trung ương
 Trường Đại học Sư phạm Thể dục Thể thao Hà Nội
 Trường Đại học Thương mại
 Trường Đại học Xây dựng Hà Nội
-Trường Đại học Luật Thành phố Hồ Chí Minh
-Trường Đại học Mở Thành phố Hồ Chí Minh
-Trường Đại học Nông Lâm Thành phố Hồ Chí Minh
-Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh
-Trường Đại học Sư phạm Thành phố Hồ Chí Minh
-Trường Đại học Sư phạm Thể dục Thể thao Thành phố Hồ Chí Minh
+Trường Đại học Luật TP HCM
+Trường Đại học Mở TP HCM
+Trường Đại học Nông Lâm TP HCM
+Trường Đại học Sư phạm Kỹ thuật TP HCM
+Trường Đại học Sư phạm TP HCM
+Trường Đại học Sư phạm Thể dục Thể thao TP HCM
 Trường Đại học Vinh
 Trường Đại học Cần Thơ
 Trường Đại học Đà Lạt
@@ -86,12 +87,12 @@ Trường Đại học Quy Nhơn
 Trường Đại học Sư phạm Kỹ thuật Hưng Yên
 Trường Đại học Tây Bắc
 Trường Đại học Tây Nguyên
-Trường Đại học Việt Đức[e]
+Trường Đại học Việt Đức
 Trường Đại học Y Hà Nội
 Trường Đại học Dược Hà Nội
 Trường Đại học Y tế Công cộng
 Học viện Y – Dược học cổ truyền Việt Nam
-Đại học Y Dược Thành phố Hồ Chí Minh[f]
+Đại học Y Dược TP HCM
 Trường Đại học Y Dược Hải Phòng
 Trường Đại học Y Dược Thái Bình
 Trường Đại học Y Dược Cần Thơ
@@ -103,10 +104,10 @@ Học viện Múa Việt Nam
 Trường Đại học Văn hóa Hà Nội
 Trường Đại học Mỹ thuật Việt Nam
 Trường Đại học Sân khấu – Điện ảnh Hà Nội
-Trường Đại học Sân khấu – Điện ảnh Thành phố Hồ Chí Minh
-Trường Đại học Mỹ thuật Thành phố Hồ Chí Minh
-Trường Đại học Thể dục Thể thao Thành phố Hồ Chí Minh
-Trường Đại học Văn hóa Thành phố Hồ Chí Minh
+Trường Đại học Sân khấu – Điện ảnh TP HCM
+Trường Đại học Mỹ thuật TP HCM
+Trường Đại học Thể dục Thể thao TP HCM
+Trường Đại học Văn hóa TP HCM
 Học viện Âm nhạc Huế
 Trường Đại học Thể dục Thể thao Bắc Ninh
 Trường Đại học Thể dục Thể thao Đà Nẵng
@@ -114,17 +115,17 @@ Trường Đại học Công nghiệp Hà Nội
 Trường Đại học Công nghiệp Việt–Hung
 Trường Đại học Kinh tế – Kỹ thuật Công nghiệp
 Trường Đại học Điện lực
-Trường Đại học Công nghiệp Thành phố Hồ Chí Minh
-Trường Đại học Công Thương Thành phố Hồ Chí Minh
+Trường Đại học Công nghiệp TP HCM
+Trường Đại học Công Thương TP HCM
 Trường Đại học Công nghiệp Quảng Ninh
 Trường Đại học Công nghiệp Việt Trì
 Trường Đại học Sao Đỏ
 Trường Đại học Công nghệ Giao thông Vận tải
-Trường Đại học Giao thông vận tải Thành phố Hồ Chí Minh
+Trường Đại học Giao thông vận tải TP HCM
 Học viện Hàng không Việt Nam
 Trường Đại học Hàng hải Việt Nam
 Trường Đại học Kiến trúc Hà Nội
-Trường Đại học Kiến trúc Thành phố Hồ Chí Minh
+Trường Đại học Kiến trúc TP HCM
 Trường Đại học Xây dựng Miền Trung
 Trường Đại học Xây dựng Miền Tây
 Trường Đại học Lao động – Xã hội
@@ -140,23 +141,23 @@ Trường Đại học Tài chính – Marketing
 Trường Đại học Tài chính – Kế toán
 Trường Đại học Tài chính – Quản trị kinh doanh
 Học viện Phật giáo Việt Nam tại Hà Nội
-Học viện Phật giáo Việt Nam tại Thành phố Hồ Chí Minh
+Học viện Phật giáo Việt Nam tại TP HCM
 Học viện Phật giáo Việt Nam tại Huế
 Học viện Phật giáo Nam tông Khmer
-Học viện Chính trị Quốc gia Hồ Chí Minh[g]
+Học viện Chính trị Quốc gia HCM
 Học viện Báo chí và Tuyên truyền
 Trường Đại học Tài nguyên và Môi trường Hà Nội
-Trường Đại học Tài nguyên và Môi trường Thành phố Hồ Chí Minh
+Trường Đại học Tài nguyên và Môi trường TP HCM
 Học viện Chính sách và Phát triển
 Học viện Khoa học, Công nghệ và Đổi mới sáng tạo
 Học viện Ngoại giao
-Học viện Hành chính Quốc gia (Việt Nam)[h]
+Học viện Hành chính Quốc gia (Việt Nam)
 Học viện Công nghệ Bưu chính Viễn thông
 Trường Đại học Luật Hà Nội
 Học viện Công giáo Việt Nam
 Trường Thánh kinh Thần học Hà Nội
 Học viện Ngân hàng
-Trường Đại học Ngân hàng Thành phố Hồ Chí Minh
+Trường Đại học Ngân hàng TP HCM
 Trường Đại học Dầu khí Việt Nam
 Trường Đại học Công nghiệp Dệt may Hà Nội
 Học viện Tòa án
@@ -166,11 +167,11 @@ Học viện Thanh thiếu niên Việt Nam
 Học viện Phụ nữ Việt Nam
 Học viện Dân tộc
 Học viện Khoa học và Công nghệ
-Trường Đại học Khoa học và Công nghệ Hà Nội[i]
+Trường Đại học Khoa học và Công nghệ Hà Nội
 Học viện Khoa học Xã hội
 Trường Đại học Kiểm sát Hà Nội
 Trường Đại học Thủ đô Hà Nội
-Học viện Cán bộ Thành phố Hồ Chí Minh
+Học viện Cán bộ TP HCM
 Trường Đại học Sài Gòn
 Trường Đại học Y khoa Phạm Ngọc Thạch
 Trường Đại học Hải Phòng
@@ -209,14 +210,14 @@ Trường Đại học Tài chính – Ngân hàng Hà Nội
 Trường Đại học Thành Đô
 Trường Đại học Thăng Long
 Trường Đại học VinUni
-Trường Đại học Công nghệ Thành phố Hồ Chí Minh
+Trường Đại học Công nghệ TP HCM
 Trường Đại học Gia Định
 Trường Đại học Hoa Sen
-Trường Đại học Hùng Vương Thành phố Hồ Chí Minh
-Trường Đại học Kinh tế – Tài chính Thành phố Hồ Chí Minh
-Trường Đại học Ngoại ngữ – Tin học Thành phố Hồ Chí Minh
+Trường Đại học Hùng Vương TP HCM
+Trường Đại học Kinh tế – Tài chính TP HCM
+Trường Đại học Ngoại ngữ – Tin học TP HCM
 Trường Đại học Nguyễn Tất Thành
-Trường Đại học Quản lý và Công nghệ Thành phố Hồ Chí Minh
+Trường Đại học Quản lý và Công nghệ TP HCM
 Trường Đại học Quốc tế Hồng Bàng
 Trường Đại học Quốc tế Sài Gòn
 Trường Đại học Văn Hiến
@@ -239,7 +240,7 @@ Trường Đại học Y Dược Buôn Ma Thuột
 Trường Đại học Công nghệ Đồng Nai
 Trường Đại học Công nghệ Miền Đông
 Trường Đại học Lạc Hồng
-Trường Đại học Hà Hoa Tiên[j]
+Trường Đại học Hà Hoa Tiên
 Trường Đại học Thành Đông
 Trường Đại học Võ Trường Toản
 Trường Đại học Chu Văn An
@@ -265,7 +266,7 @@ Học viện Phòng không – Không quân
 Học viện Quân y
 Học viện Quốc phòng
 Trường Đại học Sĩ quan Chính trị
-Trường Đại học Trần Quốc Tuấn /Trường Đại học Sĩ quan Lục quân1
+Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn
 Trường Đại học Sĩ quan Thông tin - liên lạc
 Trường Đại học Sĩ quan Pháo binh
 Trường Đại học Sĩ quan Phòng hóa
@@ -275,12 +276,12 @@ Trường Cao đẳng Công nghiệp Quốc phòng
 Trường Cao đẳng Công nghệ và Kỹ thuật Ô tô
 Trường Cao đẳng Quân y 1
 Trường Đại học Sĩ quan Tăng – Thiết giáp
-Trường Đại học Nguyễn Huệ / Trường Đại học Sĩ quan Lục quân 2
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ
 Học viện Lục quân
 Học viện Hải quân
 Trường Sĩ quan Không quân
-Trường Đại học Ngô Quyền / Trường Đại học Sĩ quan Công Binh
-Trường Đại học Trần Đại Nghĩa / Trường Đại học Sĩ quan Kỹ thuật Quân sự Vin - hem - pích
+Trường Đại học Ngô Quyền 
+Trường Đại học Trần Đại Nghĩa 
 Trường Cao đẳng Quân y 2
 Trường Cao đẳng Kỹ thuật Hải quân
 Học viện An ninh nhân dân
@@ -295,7 +296,7 @@ Trường Đại học Quốc tế RMIT Việt Nam
 Trường Đại học Fulbright Việt Nam
 Trường Đại học Mỹ tại Việt Nam
 Trường Đại học Anh Quốc – Việt Nam
-Trường Dự bị Đại học Thành phố Hồ Chí Minh
+Trường Dự bị Đại học TP HCM
 Trường Dự bị Đại học Dân tộc Trung ương Nha Trang
 Trường Dự bị Đại học Dân tộc Sầm Sơn
 Trường Dự bị Đại học Dân tộc Trung ương
@@ -317,7 +318,7 @@ Trường Cao đẳng Sư phạm Thái Bình
 Trường Cao đẳng Sư phạm Thừa Thiên Huế
 Trường Cao đẳng Sư phạm Trung ương
 Trường Cao đẳng Sư phạm Trung ương Nha Trang
-Trường Cao đẳng Sư phạm Trung ương Thành phố Hồ Chí Minh
+Trường Cao đẳng Sư phạm Trung ương TP HCM
 Trường Cao đẳng Thái Nguyên
 Trường Cao đẳng Yên Bái
 Trường Cao đẳng Bắc Kạn
@@ -452,24 +453,24 @@ Trường Cao đẳng Bình Phước
 Trường Cao đẳng Bách khoa Nam Sài Gòn
 Trường Cao đẳng Công nghệ Thủ Đức
 Trường Cao đẳng Công nghiệp Cao su
-Trường Cao đẳng Công Thương Thành phố Hồ Chí Minh
-Trường Cao đẳng Điện lực Thành phố Hồ Chí Minh
-Trường Cao đẳng Giao thông vận tải Thành phố Hồ Chí Minh
+Trường Cao đẳng Công Thương TP HCM
+Trường Cao đẳng Điện lực TP HCM
+Trường Cao đẳng Giao thông vận tải TP HCM
 Trường Cao đẳng Giao thông vận tải Trung ương III
 Trường Cao đẳng Giao thông vận tải Trung ương VI
-Trường Cao đẳng Kinh tế – Công nghệ Thành phố Hồ Chí Minh
+Trường Cao đẳng Kinh tế – Công nghệ TP HCM
 Trường Cao đẳng Kinh tế Đối ngoại
-Trường Cao đẳng Kinh tế – Kỹ thuật Thành phố Hồ Chí Minh
+Trường Cao đẳng Kinh tế – Kỹ thuật TP HCM
 Trường Cao đẳng Kinh tế – Kỹ thuật Vinatex
-Trường Cao đẳng Kinh tế Thành phố Hồ Chí Minh
+Trường Cao đẳng Kinh tế TP HCM
 Trường Cao đẳng Kỹ thuật Cao Thắng
 Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa – Vũng Tàu
-Trường Cao đẳng Lý Tự Trọng Thành phố Hồ Chí Minh
+Trường Cao đẳng Lý Tự Trọng TP HCM
 Trường Cao đẳng Mỹ thuật trang trí Đồng Nai
 Trường Cao đẳng Phát thanh Truyền hình II
 Trường Cao đẳng Thống kê II
-Trường Cao đẳng Văn hóa Nghệ thuật Thành phố Hồ Chí Minh
-Trường Cao đẳng Xây dựng Thành phố Hồ Chí Minh
+Trường Cao đẳng Văn hóa Nghệ thuật TP HCM
+Trường Cao đẳng Xây dựng TP HCM
 Trường Cao đẳng Cơ điện và Nông nghiệp Nam Bộ
 Trường Cao đẳng Cộng đồng Đồng Tháp
 Trường Cao đẳng Kiên Giang
@@ -486,14 +487,14 @@ Trường Cao đẳng Bách Việt
 Trường Cao đẳng Bán công Công nghệ và Quản trị doanh nghiệp
 Trường Cao đẳng Công nghệ Bắc Hà
 Trường Cao đẳng Công nghệ Hà Nội
-Trường Cao đẳng Công nghệ thông tin Thành phố Hồ Chí Minh
+Trường Cao đẳng Công nghệ thông tin TP HCM
 Trường Cao đẳng Công nghệ và Quản trị Sonadezi
 Trường Cao đẳng Công nghệ và Thương mại Hà Nội
 Trường Cao đẳng Đại Việt – Hà Nội
 Trường Cao đẳng Đại Việt Đà Nẵng
 Trường Cao đẳng Dược Hà Nội
 Trường Cao đẳng Hoan Châu
-Trường Cao đẳng Kinh tế Công nghệ Thành phố Hồ Chí Minh
+Trường Cao đẳng Kinh tế Công nghệ TP HCM
 Trường Cao đẳng Kinh tế Kỹ thuật Đông Du – Đà Nẵng
 Trường Cao đẳng Kinh tế Kỹ thuật Hà Nội
 Trường Cao đẳng Kỹ thuật Công nghệ Bách Khoa
@@ -512,10 +513,10 @@ Trường Cao đẳng Văn hoá Nghệ thuật và Du lịch Sài Gòn
 Trường Cao đẳng Viễn Đông
 Trường Cao đẳng Việt – Anh
 Trường Cao đẳng Việt Mỹ
-Trường Cao đẳng Y Dược Hồ Chí Minh
+Trường Cao đẳng Y Dược HCM
 Trường Cao đẳng Y Dược Hợp Lực – Thanh Hóa
 Trường Cao đẳng Y Dược Pasteur Hà Nội
-Trường Cao đẳng Y Dược Pasteur Thành phố Hồ Chí Minh
+Trường Cao đẳng Y Dược Pasteur TP HCM
 Trường Cao đẳng Y Dược Pasteur Yên Bái
 Trường Cao đẳng Y Dược Phú Thọ
 Trường Cao đẳng Y Dược Sài Gòn
@@ -554,13 +555,13 @@ Trường Cao đẳng Kỹ nghệ II
 Trường Cao đẳng Kỹ thuật Nguyễn Trường Tộ
 Trường Cao đẳng nghề Công nghệ thông tin iSPACE
 Trường Cao đẳng nghề Du lịch Sài Gòn
-Trường Cao đẳng Nghề Hàng hải Thành phố Hồ Chí Minh
-Trường Cao đẳng Nghề Kinh tế kỹ thuật Thành phố Hồ Chí Minh
+Trường Cao đẳng Nghề Hàng hải TP HCM
+Trường Cao đẳng Nghề Kinh tế kỹ thuật TP HCM
 Trường Cao đẳng nghề Sài Gòn
 Trường Cao đẳng nghề số 7 – Bộ Quốc phòng
-Trường Cao đẳng Nghề Thành phố Hồ Chí Minh
-Trường Cao đẳng Quốc tế Thành phố Hồ Chí Minh
-Trường Cao đẳng Thủ Thiêm – TP. Hồ Chí Minh
+Trường Cao đẳng Nghề TP HCM
+Trường Cao đẳng Quốc tế TP HCM
+Trường Cao đẳng Thủ Thiêm – TP. HCM
 Trường Cao đẳng nghề Nông nghiệp và Phát triển nông thôn Thanh Hóa
 Trường Cao đẳng Cơ điện Phú Thọ
 Trường Cao đẳng Cơ điện và Xây dựng Bắc Ninh

@@ -1,0 +1,708 @@
+Đại học Quốc gia Hà Nội
+Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội
+Trường Đại học Giáo dục - Đại học Quốc gia Hà Nội
+Trường Đại học Kinh tế- Đại học Quốc gia Hà Nội
+Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội
+Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội
+Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội
+Trường Đại học Y Dược - Đại học Quốc gia Hà Nội
+Trường Đại học Việt Nhật - Đại học Quốc gia Hà Nội
+Trường Đại học Luật - Đại học Quốc gia Hà Nội
+Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội
+Trường Quốc tế - Đại học Quốc gia Hà Nội
+Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội
+Đại học Quốc gia TP HCM
+Trường Đại học An Giang - Đại học Quốc gia TP HCM
+Trường Đại học Bách khoa - Đại học Quốc gia TP HCM
+Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM
+Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM
+Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP HCM
+Trường Đại học Kinh tế – Luật - Đại học Quốc gia TP HCM
+Trường Đại học Quốc tế - Đại học Quốc gia TP HCM
+Đại học Thái Nguyên
+Trường Đại học Công nghệ Thông tin và Truyền thông - Đại học Thái Nguyên
+Trường Đại học Khoa học - Đại học Thái Nguyên
+Trường Đại học Kinh tế và Quản trị kinh doanh - Đại học Thái Nguyên
+Trường Đại học Kỹ thuật Công nghiệp - Đại học Thái Nguyên
+Trường Đại học Nông Lâm - Đại học Thái Nguyên
+Trường Đại học Sư phạm - Đại học Thái Nguyên
+Trường Đại học Y Dược - Đại học Thái Nguyên
+Trường Ngoại ngữ - Đại học Thái Nguyên
+Trường Cao đẳng Kinh tế - Kỹ thuật - Đại học Thái Nguyên
+Đại học Huế
+Trường Đại học Khoa học - Đại học Huế
+Trường Đại học Kinh tế - Đại học Huế
+Trường Đại học Luật - Đại học Huế
+Trường Đại học Nghệ thuật - Đại học Huế
+Trường Đại học Ngoại ngữ - Đại học Huế
+Trường Đại học Nông Lâm - Đại học Huế
+Trường Đại học Sư phạm - Đại học Huế
+Trường Đại học Y Dược - Đại học Huế
+Trường Du lịch - Đại học Huế
+Đại học Đà Nẵng
+Trường Đại học Bách khoa - Đại học Đà Nẵng
+Trường Đại học Kinh tế - Đại học Đà Nẵng
+Trường Đại học Sư phạm - Đại học Đà Nẵng
+Trường Đại học Ngoại ngữ - Đại học Đà Nẵng
+Trường Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng
+Trường Đại học Công nghệ thông tin và Truyền thông Việt – Hàn - Đại học Đà Nẵng
+Đại học Bách khoa Hà Nội
+Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội
+Trường Vật liệu - Đại học Bách khoa Hà Nội
+Trường Cơ khí - Đại học Bách khoa Hà Nội
+Trường Hóa và Khoa học sự sống - Đại học Bách khoa Hà Nội
+Trường Điện – Điện tử - Đại học Bách khoa Hà Nội
+Đại học Kinh tế TP HCM
+Trường Kinh doanh - Đại học Kinh tế TP HCM
+Trường Kinh tế, Luật và Quản lý nhà nước - Đại học Kinh tế TP HCM
+Trường Công nghệ và Thiết kế - Đại học Kinh tế TP HCM
+Học viện Quản lý giáo dục
+Trường Đại học Hà Nội
+Trường Đại học Giao thông Vận tải
+Trường Đại học Kinh tế Quốc dân
+Trường Đại học Mỏ – Địa chất
+Trường Đại học Mở Hà Nội
+Trường Đại học Mỹ thuật Công nghiệp
+Trường Đại học Ngoại thương phía Bắc
+Trường Đại học Ngoại thương phía Nam
+Trường Đại học Sư phạm Hà Nội
+Trường Đại học Sư phạm Hà Nội 2
+Trường Đại học Sư phạm Nghệ thuật Trung ương
+Trường Đại học Sư phạm Thể dục Thể thao Hà Nội
+Trường Đại học Thương mại
+Trường Đại học Xây dựng Hà Nội
+Trường Đại học Luật TP HCM
+Trường Đại học Mở TP HCM
+Trường Đại học Nông Lâm TP HCM
+Trường Đại học Sư phạm Kỹ thuật TP HCM
+Trường Đại học Sư phạm TP HCM
+Trường Đại học Sư phạm Thể dục Thể thao TP HCM
+Trường Đại học Vinh
+Trường Đại học Cần Thơ
+Trường Đại học Đà Lạt
+Trường Đại học Đồng Tháp
+Trường Đại học Kiên Giang
+Trường Đại học Nha Trang
+Trường Đại học Quy Nhơn
+Trường Đại học Sư phạm Kỹ thuật Hưng Yên
+Trường Đại học Tây Bắc
+Trường Đại học Tây Nguyên
+Trường Đại học Việt Đức
+Trường Đại học Y Hà Nội
+Trường Đại học Dược Hà Nội
+Trường Đại học Y tế Công cộng
+Học viện Y – Dược học cổ truyền Việt Nam
+Đại học Y Dược TP HCM
+Trường Đại học Y Dược Hải Phòng
+Trường Đại học Y Dược Thái Bình
+Trường Đại học Y Dược Cần Thơ
+Trường Đại học Điều dưỡng Nam Định
+Trường Đại học Kỹ thuật Y tế Hải Dương
+Trường Đại học Kỹ thuật Y Dược Đà Nẵng
+Học viện Âm nhạc Quốc gia Việt Nam
+Học viện Múa Việt Nam
+Trường Đại học Văn hóa Hà Nội
+Trường Đại học Mỹ thuật Việt Nam
+Trường Đại học Sân khấu – Điện ảnh Hà Nội
+Trường Đại học Sân khấu – Điện ảnh TP HCM
+Trường Đại học Mỹ thuật TP HCM
+Trường Đại học Thể dục Thể thao TP HCM
+Trường Đại học Văn hóa TP HCM
+Học viện Âm nhạc Huế
+Trường Đại học Thể dục Thể thao Bắc Ninh
+Trường Đại học Thể dục Thể thao Đà Nẵng
+Trường Đại học Công nghiệp Hà Nội
+Trường Đại học Công nghiệp Việt–Hung
+Trường Đại học Kinh tế – Kỹ thuật Công nghiệp
+Trường Đại học Điện lực
+Trường Đại học Công nghiệp TP HCM
+Trường Đại học Công Thương TP HCM
+Trường Đại học Công nghiệp Quảng Ninh
+Trường Đại học Công nghiệp Việt Trì
+Trường Đại học Sao Đỏ
+Trường Đại học Công nghệ Giao thông Vận tải
+Trường Đại học Giao thông vận tải TP HCM
+Học viện Hàng không Việt Nam
+Trường Đại học Hàng hải Việt Nam
+Trường Đại học Kiến trúc Hà Nội
+Trường Đại học Kiến trúc TP HCM
+Trường Đại học Xây dựng Miền Trung
+Trường Đại học Xây dựng Miền Tây
+Trường Đại học Lao động – Xã hội
+Trường Đại học Sư phạm Kỹ thuật Nam Định
+Trường Đại học Sư phạm Kỹ thuật Vinh
+Trường Đại học Sư phạm Kỹ thuật Vĩnh Long
+Học viện Nông nghiệp Việt Nam
+Trường Đại học Lâm nghiệp
+Trường Đại học Thủy lợi
+Trường Đại học Nông Lâm Bắc Giang
+Học viện Tài chính
+Trường Đại học Tài chính – Marketing
+Trường Đại học Tài chính – Kế toán
+Trường Đại học Tài chính – Quản trị kinh doanh
+Học viện Phật giáo Việt Nam tại Hà Nội
+Học viện Phật giáo Việt Nam tại TP HCM
+Học viện Phật giáo Việt Nam tại Huế
+Học viện Phật giáo Nam tông Khmer
+Học viện Chính trị Quốc gia HCM
+Học viện Báo chí và Tuyên truyền
+Trường Đại học Tài nguyên và Môi trường Hà Nội
+Trường Đại học Tài nguyên và Môi trường TP HCM
+Học viện Chính sách và Phát triển
+Học viện Khoa học, Công nghệ và Đổi mới sáng tạo
+Học viện Ngoại giao
+Học viện Hành chính Quốc gia (Việt Nam)
+Học viện Công nghệ Bưu chính Viễn thông
+Trường Đại học Luật Hà Nội
+Học viện Công giáo Việt Nam
+Trường Thánh kinh Thần học Hà Nội
+Học viện Ngân hàng
+Trường Đại học Ngân hàng TP HCM
+Trường Đại học Dầu khí Việt Nam
+Trường Đại học Công nghiệp Dệt may Hà Nội
+Học viện Tòa án
+Trường Đại học Công đoàn
+Trường Đại học Tôn Đức Thắng
+Học viện Thanh thiếu niên Việt Nam
+Học viện Phụ nữ Việt Nam
+Học viện Dân tộc
+Học viện Khoa học và Công nghệ
+Trường Đại học Khoa học và Công nghệ Hà Nội
+Học viện Khoa học Xã hội
+Trường Đại học Kiểm sát Hà Nội
+Trường Đại học Thủ đô Hà Nội
+Học viện Cán bộ TP HCM
+Trường Đại học Sài Gòn
+Trường Đại học Y khoa Phạm Ngọc Thạch
+Trường Đại học Hải Phòng
+Trường Đại học Kỹ thuật – Công nghệ Cần Thơ
+Trường Đại học Bạc Liêu
+Trường Đại học Thủ Dầu Một
+Trường Đại học Đồng Nai
+Trường Đại học Hà Tĩnh
+Trường Đại học Hải Dương
+Trường Đại học Khánh Hòa
+Trường Đại học Kinh tế Nghệ An
+Trường Đại học Y khoa Vinh
+Trường Đại học Hoa Lư
+Trường Đại học Hùng Vương
+Trường Đại học Phú Yên
+Trường Đại học Quảng Bình
+Trường Đại học Quảng Nam
+Trường Đại học Phạm Văn Đồng
+Trường Đại học Hạ Long
+Trường Đại học Thái Bình
+Trường Đại học Hồng Đức
+Trường Đại học Văn hóa, Thể thao và Du lịch Thanh Hóa
+Trường Đại học Tiền Giang
+Trường Đại học Trà Vinh
+Trường Đại học Tân Trào
+Trường Đại học CMC
+Trường Đại học Công nghệ và Quản lý hữu nghị
+Trường Đại học Đại Nam
+Trường Đại học Đông Đô
+Trường Đại học FPT
+Trường Đại học Hòa Bình
+Trường Đại học Kinh doanh và Công nghệ Hà Nội
+Trường Đại học Nguyễn Trãi
+Trường Đại học Phenikaa
+Trường Đại học Tài chính – Ngân hàng Hà Nội
+Trường Đại học Thành Đô
+Trường Đại học Thăng Long
+Trường Đại học VinUni
+Trường Đại học Công nghệ TP HCM
+Trường Đại học Gia Định
+Trường Đại học Hoa Sen
+Trường Đại học Hùng Vương TP HCM
+Trường Đại học Kinh tế – Tài chính TP HCM
+Trường Đại học Ngoại ngữ – Tin học TP HCM
+Trường Đại học Nguyễn Tất Thành
+Trường Đại học Quản lý và Công nghệ TP HCM
+Trường Đại học Quốc tế Hồng Bàng
+Trường Đại học Quốc tế Sài Gòn
+Trường Đại học Văn Hiến
+Trường Đại học Văn Lang
+Trường Đại học Bà Rịa – Vũng Tàu
+Trường Đại học Công nghệ Đông Á
+Trường Đại học Kinh Bắc
+Trường Đại học Quốc tế Bắc Hà
+Trường Đại học Bình Dương
+Trường Đại học Kinh tế – Kỹ thuật Bình Dương
+Trường Đại học Quốc tế Miền Đông
+Trường Đại học Quang Trung
+Trường Đại học Phan Thiết
+Trường Đại học Nam Cần Thơ
+Trường Đại học Tây Đô
+Trường Đại học Duy Tân
+Trường Đại học Đông Á
+Trường Đại học Kiến trúc Đà Nẵng
+Trường Đại học Y Dược Buôn Ma Thuột
+Trường Đại học Công nghệ Đồng Nai
+Trường Đại học Công nghệ Miền Đông
+Trường Đại học Lạc Hồng
+Trường Đại học Hà Hoa Tiên
+Trường Đại học Thành Đông
+Trường Đại học Võ Trường Toản
+Trường Đại học Chu Văn An
+Trường Đại học Thái Bình Dương
+Trường Đại học Yersin Đà Lạt
+Trường Đại học Kinh tế Công nghiệp Long An
+Trường Đại học Tân Tạo
+Trường Đại học Lương Thế Vinh
+Trường Đại học Công nghệ Vạn Xuân
+Trường Đại học Công nghiệp Vinh
+Trường Đại học Phan Châu Trinh
+Trường Đại học Kinh tế – Công nghệ Thái Nguyên
+Trường Đại học Phú Xuân
+Trường Đại học Cửu Long
+Trường Đại học Trưng Vương
+Học viện Biên phòng
+Học viện Chính trị Quân đội Nhân dân Việt Nam
+Học viện Hậu cần
+Học viện Khoa học Quân sự
+Học viện Kỹ thuật Mật mã
+Học viện Kỹ thuật Quân sự
+Học viện Phòng không – Không quân
+Học viện Quân y
+Học viện Quốc phòng
+Trường Đại học Sĩ quan Chính trị
+Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn
+Trường Đại học Sĩ quan Thông tin - liên lạc
+Trường Đại học Sĩ quan Pháo binh
+Trường Đại học Sĩ quan Phòng hóa
+Trường Đại học Sĩ quan Đặc công
+Trường Đại học Văn hoá Nghệ thuật Quân đội
+Trường Cao đẳng Công nghiệp Quốc phòng
+Trường Cao đẳng Công nghệ và Kỹ thuật Ô tô
+Trường Cao đẳng Quân y 1
+Trường Đại học Sĩ quan Tăng – Thiết giáp
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ
+Học viện Lục quân
+Học viện Hải quân
+Trường Sĩ quan Không quân
+Trường Đại học Ngô Quyền 
+Trường Đại học Trần Đại Nghĩa 
+Trường Cao đẳng Quân y 2
+Trường Cao đẳng Kỹ thuật Hải quân
+Học viện An ninh nhân dân
+Học viện Cảnh sát nhân dân
+Học viện Chính trị - Công an Nhân dân
+Học viện Quốc tế
+Trường Đại học Phòng cháy chữa cháy
+Trường Đại học Kỹ thuật – Hậu cần - Công an Nhân dân
+Trường Đại học An ninh nhân dân
+Trường Đại học Cảnh sát nhân dân
+Trường Đại học Quốc tế RMIT Việt Nam
+Trường Đại học Fulbright Việt Nam
+Trường Đại học Mỹ tại Việt Nam
+Trường Đại học Anh Quốc – Việt Nam
+Trường Dự bị Đại học TP HCM
+Trường Dự bị Đại học Dân tộc Trung ương Nha Trang
+Trường Dự bị Đại học Dân tộc Sầm Sơn
+Trường Dự bị Đại học Dân tộc Trung ương
+Trường Cao đẳng Sư phạm Bà Rịa – Vũng Tàu
+Trường Cao đẳng Sư phạm Bắc Ninh
+Trường Cao đẳng Sư phạm Cao Bằng
+Trường Cao đẳng Sư phạm Đắk Lắk
+Trường Cao đẳng Sư phạm Điện Biên
+Trường Cao đẳng Sư phạm Gia Lai
+Trường Cao đẳng Sư phạm Hòa Bình
+Trường Cao đẳng Sư phạm Kiên Giang
+Trường Cao đẳng Sư phạm Lạng Sơn
+Trường Cao đẳng Sư phạm Long An
+Trường Cao đẳng Sư phạm Nam Định
+Trường Cao đẳng Sư phạm Nghệ An
+Trường Cao đẳng Sư phạm Quảng Trị
+Trường Cao đẳng Sư phạm Tây Ninh
+Trường Cao đẳng Sư phạm Thái Bình
+Trường Cao đẳng Sư phạm Thừa Thiên Huế
+Trường Cao đẳng Sư phạm Trung ương
+Trường Cao đẳng Sư phạm Trung ương Nha Trang
+Trường Cao đẳng Sư phạm Trung ương TP HCM
+Trường Cao đẳng Thái Nguyên
+Trường Cao đẳng Yên Bái
+Trường Cao đẳng Bắc Kạn
+Trường Cao đẳng Bến Tre
+Trường Cao đẳng Bình Định
+Trường Cao đẳng Bình Phước
+Trường Cao đẳng Cần Thơ
+Trường Cao đẳng Cộng đồng Cà Mau
+Trường Cao đẳng Cộng đồng Hà Nội
+Trường Cao đẳng Cộng đồng Hậu Giang
+Trường Cao đẳng Cộng đồng Hưng Yên
+Trường Cao đẳng Cộng đồng Lai Châu
+Trường Cao đẳng Cộng đồng Sóc Trăng
+Trường Cao đẳng Đà Lạt
+Trường Cao đẳng Ngô Gia Tự Bắc Giang
+Trường Cao đẳng Sơn La
+Trường Cao đẳng Vĩnh Long
+Trường Cao đẳng Vĩnh Phúc
+Trường Cao đẳng Đại Việt Sài Gòn
+Trường Cao đẳng Y tế Điện Biên
+Trường Cao đẳng Y tế Lạng Sơn
+Trường Cao đẳng Y tế Phú Thọ
+Trường Cao đẳng Y tế Quảng Ninh
+Trường Cao đẳng Y tế Sơn La
+Trường Cao đẳng Y tế Thái Nguyên
+Trường Cao đẳng Y tế Bắc Ninh
+Trường Cao đẳng Y tế Bạch Mai
+Trường Cao đẳng Y tế Đắk Lắk
+Trường Cao đẳng Y tế Đặng Văn Ngữ
+Trường Cao đẳng Y tế Hà Đông
+Trường Cao đẳng Y tế Hà Nam
+Trường Cao đẳng Y tế Hà Nội
+Trường Cao đẳng Y tế Hải Dương
+Trường Cao đẳng Y tế Hải Phòng
+Trường Cao đẳng Y tế Hưng Yên
+Trường Cao đẳng Y tế Lâm Đồng
+Trường Cao đẳng Y tế Ninh Bình
+Trường Cao đẳng Y tế Thái Bình
+Trường Cao đẳng Y – Dược Hợp Lực
+Trường Cao đẳng Y tế Hà Tĩnh
+Trường Cao đẳng Y tế Quảng Trị
+Trường Cao đẳng Y tế Huế
+Trường Cao đẳng Y tế Quảng Bình
+Trường Cao đẳng Y tế Thanh Hóa
+Trường Cao đẳng Y tế Bình Định
+Trường Cao đẳng Y tế Đặng Thùy Trâm
+Trường Cao đẳng Y tế Khánh Hòa
+Trường Cao đẳng Y tế Phú Yên
+Trường Cao đẳng Y tế Quảng Nam
+Trường Cao đẳng Y tế Bình Dương
+Trường Cao đẳng Y tế Đồng Nai
+Trường Cao đẳng Y tế Bạc Liêu
+Trường Cao đẳng Y tế Cà Mau
+Trường Cao đẳng Y tế Cần Thơ
+Trường Cao đẳng Y tế Đồng Tháp
+Trường Cao đẳng Y tế Kiên Giang
+Trường Cao đẳng Y tế Tiền Giang
+Trường Cao đẳng Y tế Trà Vinh
+Trường Cao đẳng Cơ khí – Luyện kim
+Trường Cao đẳng Công nghệ và Kinh tế Công nghiệp
+Trường Cao đẳng Công nghiệp Thái Nguyên
+Trường Cao đẳng Công nghiệp Thực phẩm
+Trường Cao đẳng Công nghiệp và Xây dựng
+Trường Cao đẳng Công nghiệp Việt Đức
+Trường Cao đẳng Kinh tế – Tài chính Thái Nguyên
+Trường Cao đẳng Kinh tế Kỹ thuật Điện Biên
+Trường Cao đẳng Kinh tế Kỹ thuật Phú Thọ
+Trường Cao đẳng Kỹ thuật Công nghiệp
+Trường Cao đẳng Nông Lâm Đông Bắc
+Trường Cao đẳng Thương mại và Du lịch Thái Nguyên
+Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Hạ Long
+Trường Cao đẳng Văn hóa Nghệ thuật Tây Bắc
+Trường Cao đẳng Văn hóa Nghệ thuật Việt Bắc
+Trường Cao đẳng Cộng đồng Hà Tây
+Trường Cao đẳng Cộng đồng Hải Phòng
+Trường Cao đẳng Công nghệ và Kinh tế Hà Nội
+Trường Cao đẳng Công nghệ Viettronics
+Trường Cao đẳng Công nghiệp Hưng Yên
+Trường Cao đẳng Công nghiệp Nam Định
+Trường Cao đẳng Công nghiệp và Thương mại
+Trường Cao đẳng Điện tử – Điện lạnh Hà Nội
+Trường Cao đẳng Du lịch Hà Nội
+Trường Cao đẳng Dược Trung ương Hải Dương
+Trường Cao đẳng Hàng hải I
+Trường Cao đẳng Kinh tế – Kỹ thuật Thương mại
+Trường Cao đẳng Kinh tế – Kỹ thuật Trung ương
+Trường Cao đẳng Kinh tế – Kỹ thuật Vĩnh Phúc
+Trường Cao đẳng Kinh tế Công nghiệp Hà Nội
+Trường Cao đẳng Kinh tế và Công nghệ thực phẩm
+Trường Cao đẳng Kinh tế, Kỹ thuật và Thủy sản
+Trường Cao đẳng Múa Việt Nam
+Trường Cao đẳng Nghệ thuật Hà Nội
+Trường Cao đẳng Nông nghiệp và Phát triển nông thôn Bắc Bộ
+Trường Cao đẳng Phát thanh - Truyền hình I
+Trường Cao đẳng Thống kê
+Trường Cao đẳng Thông tin và Truyền thông
+Trường Cao đẳng Thương mại và Du lịch Hà Nội
+Trường Cao đẳng Thủy lợi Bắc Bộ
+Trường Cao đẳng Truyền hình
+Trường Cao đẳng Văn hóa Nghệ thuật Thái Bình
+Trường Cao đẳng Văn hóa Nghệ thuật và Du lịch Nam Định
+Trường Cao đẳng Vĩnh Phúc
+Trường Cao đẳng Xây dựng công trình đô thị
+Trường Cao đẳng Xây dựng Nam Định
+Trường Cao đẳng Xây dựng số 1
+Trường Cao đẳng Công nghiệp Huế
+Trường Cao đẳng Giao thông Huế
+Trường Cao đẳng Giao thông vận tải Trung ương IV
+Trường Cao đẳng Luật miền Trung
+Trường Cao đẳng Kinh tế Kỹ thuật Công thương
+Trường Cao đẳng Kỹ thuật Công – Nông nghiệp Quảng Bình
+Trường Cao đẳng Nông nghiệp Thanh Hóa
+Trường Cao đẳng Nguyễn Du
+Trường Cao đẳng Thể dục Thể thao Thanh Hóa
+Trường Cao đẳng Văn hóa Nghệ thuật Nghệ An
+Trường Cao đẳng Bình Thuận
+Trường Cao đẳng Công nghệ, Kinh tế và Thủy lợi miền Trung
+Trường Cao đẳng Công thương Miền Trung
+Trường Cao đẳng Điện lực miền Trung
+Trường Cao đẳng Giao thông vận tải Trung ương V
+Trường Cao đẳng Kinh tế – Kế hoạch Đà Nẵng
+Trường Cao đẳng Kỹ thuật Công nghệ Quy Nhơn
+Trường Cao đẳng Lương thực - Thực phẩm
+Trường Cao đẳng Quảng Nam
+Trường Cao đẳng Thương mại
+Trường Cao đẳng Văn hóa – Nghệ thuật Đà Nẵng
+Trường Cao đẳng Cộng đồng Đắk Nông
+Trường Cao đẳng Công nghệ và Kinh tế Bảo Lộc
+Trường Cao đẳng Văn hóa Nghệ thuật Đắk Lắk
+Trường Cao đẳng Kon Tum
+Trường Cao đẳng Bình Phước
+Trường Cao đẳng Bách khoa Nam Sài Gòn
+Trường Cao đẳng Công nghệ Thủ Đức
+Trường Cao đẳng Công nghiệp Cao su
+Trường Cao đẳng Công Thương TP HCM
+Trường Cao đẳng Điện lực TP HCM
+Trường Cao đẳng Giao thông vận tải TP HCM
+Trường Cao đẳng Giao thông vận tải Trung ương III
+Trường Cao đẳng Giao thông vận tải Trung ương VI
+Trường Cao đẳng Kinh tế – Công nghệ TP HCM
+Trường Cao đẳng Kinh tế Đối ngoại
+Trường Cao đẳng Kinh tế – Kỹ thuật TP HCM
+Trường Cao đẳng Kinh tế – Kỹ thuật Vinatex
+Trường Cao đẳng Kinh tế TP HCM
+Trường Cao đẳng Kỹ thuật Cao Thắng
+Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa – Vũng Tàu
+Trường Cao đẳng Lý Tự Trọng TP HCM
+Trường Cao đẳng Mỹ thuật trang trí Đồng Nai
+Trường Cao đẳng Phát thanh Truyền hình II
+Trường Cao đẳng Thống kê II
+Trường Cao đẳng Văn hóa Nghệ thuật TP HCM
+Trường Cao đẳng Xây dựng TP HCM
+Trường Cao đẳng Cơ điện và Nông nghiệp Nam Bộ
+Trường Cao đẳng Cộng đồng Đồng Tháp
+Trường Cao đẳng Kiên Giang
+Trường Cao đẳng Kinh tế – Kỹ thuật Bạc Liêu
+Trường Cao đẳng Kinh tế – Kỹ thuật Cần Thơ
+Trường Cao đẳng Nông nghiệp Nam Bộ
+Trường Cao đẳng Văn hóa Nghệ thuật Cần Thơ
+Trường Cao đẳng Kỹ thuật Quảng Trị
+Trường Cao đẳng ASEAN
+Trường Cao đẳng Âu Lạc Huế
+Trường Cao đẳng Bách khoa Đà Nẵng
+Trường Cao đẳng Bách khoa Hưng Yên
+Trường Cao đẳng Bách Việt
+Trường Cao đẳng Bán công Công nghệ và Quản trị doanh nghiệp
+Trường Cao đẳng Công nghệ Bắc Hà
+Trường Cao đẳng Công nghệ Hà Nội
+Trường Cao đẳng Công nghệ thông tin TP HCM
+Trường Cao đẳng Công nghệ và Quản trị Sonadezi
+Trường Cao đẳng Công nghệ và Thương mại Hà Nội
+Trường Cao đẳng Đại Việt – Hà Nội
+Trường Cao đẳng Đại Việt Đà Nẵng
+Trường Cao đẳng Dược Hà Nội
+Trường Cao đẳng Hoan Châu
+Trường Cao đẳng Kinh tế Công nghệ TP HCM
+Trường Cao đẳng Kinh tế Kỹ thuật Đông Du – Đà Nẵng
+Trường Cao đẳng Kinh tế Kỹ thuật Hà Nội
+Trường Cao đẳng Kỹ thuật Công nghệ Bách Khoa
+Trường Cao đẳng Kỹ thuật Công nghệ Vạn Xuân
+Trường Cao đẳng Lạc Việt – Đà Nẵng
+Trường Cao đẳng Miền Nam
+Trường Cao đẳng Ngoại ngữ – Công nghệ Việt Nhật
+Trường Cao đẳng Phương Đông – Đà Nẵng
+Trường Cao đẳng Phương Đông – Quảng Nam
+Trường Cao đẳng Quảng Ngãi
+Trường cao đẳng Quốc tế BTEC FPT
+Trường Cao đẳng Quốc tế Pegasus
+Trường Cao đẳng Tâm Trí
+Trường Cao đẳng Tư thục Đức Trí – Đà Nẵng
+Trường Cao đẳng Văn hoá Nghệ thuật và Du lịch Sài Gòn
+Trường Cao đẳng Viễn Đông
+Trường Cao đẳng Việt – Anh
+Trường Cao đẳng Việt Mỹ
+Trường Cao đẳng Y Dược HCM
+Trường Cao đẳng Y Dược Hợp Lực – Thanh Hóa
+Trường Cao đẳng Y Dược Pasteur Hà Nội
+Trường Cao đẳng Y Dược Pasteur TP HCM
+Trường Cao đẳng Y Dược Pasteur Yên Bái
+Trường Cao đẳng Y Dược Phú Thọ
+Trường Cao đẳng Y Dược Sài Gòn
+Trường Cao đẳng Y khoa Phạm Ngọc Thạch
+Trường Cao đẳng Cơ Điện và Công nghệ thực phẩm Hà Nội
+Trường Cao đẳng Điện lực miền Bắc
+Trường Cao đẳng Đường sắt
+Trường Cao đẳng Giao thông vận tải Trung ương I
+Trường Cao đẳng Kỹ thuật trang thiết bị Y tế
+Trường Cao đẳng nghề An ninh – Công nghệ
+Trường Cao đẳng nghề Bách khoa Hà Nội(Hactech)
+Trường Cao đẳng nghề Bách Khoa
+Trường Cao đẳng nghề Cơ điện Hà Nội
+Trường Cao đẳng nghề Công nghệ cao Hà Nội
+Trường Cao đẳng nghề Công nghệ và Kinh tế Hà Nội
+Trường Cao đẳng nghề Công nghiệp Hà Nội
+Trường Cao đẳng nghề Hùng Vương
+Trường Cao đẳng nghề Kinh doanh và Công nghệ Hà Nội
+Trường Cao đẳng nghề Kỹ thuật – Công nghệ – Kinh tế Simco Sông Đà
+Trường Cao đẳng nghề Kỹ thuật Công nghệ
+Trường Cao đẳng nghề Kỹ thuật Mỹ nghệ Việt Nam
+Trường Cao đẳng Nghề Kỹ thuật và Nghiệp vụ Hà Nội
+Trường Cao đẳng nghề Long Biên
+Trường Cao đẳng nghề Nguyễn Trãi
+Trường Cao đẳng nghề Quốc tế Hà Nội
+Trường Cao đẳng nghề số 17 – Bộ Quốc phòng
+Trường Cao đẳng nghề Thăng Long
+Trường Cao đẳng nghề Trần Hưng Đạo
+Trường Cao đẳng nghề Văn Lang Hà Nội
+Trường Cao đẳng nghề Việt Nam – Hàn Quốc Thành phố Hà Nội
+Trường Cao đẳng Phú Châu
+Trường Cao đẳng Thực hành FPT
+Trường Cao đẳng Giao thông vận tải Đường thủy II
+Trường Cao đẳng Kinh tế – Kỹ thuật Thủ Đức
+Trường Cao đẳng Kỹ nghệ II
+Trường Cao đẳng Kỹ thuật Nguyễn Trường Tộ
+Trường Cao đẳng nghề Công nghệ thông tin iSPACE
+Trường Cao đẳng nghề Du lịch Sài Gòn
+Trường Cao đẳng Nghề Hàng hải TP HCM
+Trường Cao đẳng Nghề Kinh tế kỹ thuật TP HCM
+Trường Cao đẳng nghề Sài Gòn
+Trường Cao đẳng nghề số 7 – Bộ Quốc phòng
+Trường Cao đẳng Nghề TP HCM
+Trường Cao đẳng Quốc tế TP HCM
+Trường Cao đẳng Thủ Thiêm – TP. HCM
+Trường Cao đẳng nghề Nông nghiệp và Phát triển nông thôn Thanh Hóa
+Trường Cao đẳng Cơ điện Phú Thọ
+Trường Cao đẳng Cơ điện và Xây dựng Bắc Ninh
+Trường Cao đẳng Cơ giới Xây dựng
+Trường Cao đẳng Cơ khí Nông nghiệp
+Trường Cao đẳng Công nghiệp Bắc Ninh
+Trường Cao đẳng Công nghiệp Dệt – May Nam Định
+Trường Cao đẳng Công Thương Thái Nguyên
+Trường Cao đẳng Du lịch – Thương mại Nghệ An
+Trường Cao đẳng Kỹ thuật Công nghệ Hòa Bình
+Trường Cao đẳng Kỹ thuật Công nghệ Nam Định
+Trường Cao đẳng Kỹ thuật công nghệ Sơn La
+Trường Cao đẳng Kỹ thuật và Công nghệ tỉnh Hà Giang
+Trường Cao đẳng Lào Cai
+Trường Cao đẳng nghề An Nhất Vinh
+Trường Cao đẳng nghề Bắc Giang
+Trường Cao đẳng nghề Bắc Nam
+Trường Cao đẳng nghề Bách nghệ Hải Phòng
+Trường Cao đẳng nghề Cơ điện Tây Bắc
+Trường Cao đẳng nghề Cơ điện và Thủy lợi
+Trường Cao đẳng nghề Cơ điện xây dựng Tam Điệp
+Trường Cao đẳng nghề Cơ giới Ninh Bình
+Trường Cao đẳng nghề Công nghệ Giấy và Cơ điện
+Trường Cao đẳng nghề Công nghệ Hà Tĩnh
+Trường Cao đẳng nghề Công nghệ LICOGI Thanh Hóa
+Trường Cao đẳng nghề Công nghệ và Nông Lâm Đông Bắc
+Trường Cao đẳng nghề Công nghệ và Nông Lâm Phú Thọ
+Trường Cao đẳng nghề Công nghệ Việt– Hàn Bắc Giang
+Trường Cao đẳng nghề Công nghệ, Kinh tế và Chế biến lâm sản
+Trường Cao đẳng nghề Công nghệ, Kinh tế và Thủy sản
+Trường Cao đẳng nghề Công nghiệp Hải Phòng
+Trường Cao đẳng nghề Công nghiệp Thanh Hóa
+Trường Cao đẳng nghề Công nghiệp Việt Bắc – Vinacomin
+Trường Cao đẳng nghề Công thương Việt Nam
+Trường Cao đẳng nghề Đại An
+Trường Cao đẳng nghề dân tộc nội trú Bắc Kạn
+Trường Cao đẳng nghề Dịch vụ Hàng không AIRSERCO
+Trường Cao đẳng nghề Điện Biên
+Trường Cao đẳng nghề Du lịch và dịch vụ Hải Phòng
+Trường Cao đẳng nghề Duyên Hải
+Trường Cao đẳng Nghề Giao thông Cơ điện Quảng Ninh
+Trường Cao đẳng nghề Giao thông Vận tải Đường thủy I
+Trường Cao đẳng nghề Giao thông vận tải trung ương II
+Trường Cao đẳng nghề Hà Nam
+Trường Cao đẳng nghề Hải Dương
+Trường Cao đẳng nghề Kinh tế – Công nghệ VICET
+Trường Cao đẳng nghề Kinh tế – Kỹ thuật Bắc Bộ
+Trường Cao đẳng nghề Kinh tế – Kỹ thuật số 1 Nghệ An
+Trường Cao đẳng nghề Kinh tế – Kỹ thuật Tô Hiệu
+Trường Cao đẳng nghề Kỹ thuật – Công nghệ LOD
+Trường Cao đẳng nghề Kỹ thuật Công nghiệp Việt Nam – Hàn Quốc Nghệ An
+Trường Cao đẳng Nghề Kỹ thuật y tế Thăng Long
+Trường Cao đẳng Nghề Kỹ thuật–Công nghệ Tuyên Quang
+Trường Cao đẳng nghề Lam Kinh
+Trường Cao đẳng nghề Lạng Sơn
+Trường Cao đẳng nghề Lao động – Xã hội Hải Phòng
+Trường Cao đẳng nghề LILAMA–1
+Trường Cao đẳng nghề Phú Thọ
+Trường Cao đẳng nghề Quản lý và Công nghệ
+Trường Cao đẳng nghề số 1 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 13 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 19 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 2 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 20 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 3 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 4 – Bộ Quốc phòng
+Trường Cao đẳng nghề Sông Đà
+Trường Cao đẳng nghề Thái Bình
+Trường Cao đẳng nghề Thương mại và Công nghiệp
+Trường Cao đẳng nghề Việt – Hàn Quảng Ninh
+Trường Cao đẳng nghề Việt Xô số 1
+Trường Cao đẳng nghề Việt–Đức Hà Tĩnh
+Trường Cao đẳng nghề Viglacera
+Trường Cao đẳng nghề Vĩnh Phúc
+Trường Cao đẳng nghề Yên Bái
+Trường Cao đẳng Than – Khoáng sản Việt Nam
+Trường Cao đẳng Việt Đức Nghệ An
+Trường Cao đẳng VMU
+Trường Cao đẳng Cơ điện – Xây dựng và Nông Lâm Trung Bộ
+Trường Cao đẳng Công nghệ Quốc tế LILAMA–2
+Trường Cao đẳng Công nghệ Tây Nguyên
+Trường Cao đẳng Công nghệ và Nông Lâm Nam Bộ
+Trường Cao đẳng Dầu khí
+Trường Cao đẳng Đồng Khởi
+Trường Cao đẳng Du lịch Cần Thơ
+Trường Cao đẳng Du lịch Đà Lạt
+Trường Cao đẳng Du lịch Đà Nẵng
+Trường Cao đẳng Du lịch Huế
+Trường Cao đẳng Du lịch Nha Trang
+Trường Cao đẳng Du lịch Vũng Tàu
+Trường Cao đẳng Hòa Bình Xuân Lộc
+Trường Cao đẳng Kỹ nghệ Dung Quất
+Trường Cao đẳng Kỹ thuật Công nghệ Bà Rịa – Vũng Tàu
+Trường Cao đẳng Kỹ thuật Công nghệ Nha Trang
+Trường Cao đẳng Kỹ thuật Công nghệ Quy Nhơn
+Trường Cao đẳng Kỹ thuật Đắk Lắk
+Trường Cao đẳng Kỹ thuật Đồng Nai
+Trường Cao đẳng nghề An Giang
+Trường Cao đẳng nghề Bạc Liêu
+Trường Cao đẳng nghề Bình Phước
+Trường Cao đẳng nghề Bình Thuận
+Trường Cao đẳng nghề Cần Thơ
+Trường Cao đẳng nghề Cơ giới Quảng Ngãi
+Trường Cao đẳng nghề Cơ giới và Thủy lợi
+Trường Cao đẳng nghề Công nghệ cao Đồng An
+Trường Cao đẳng nghề Công nghệ cao Đồng Nai
+Trường Cao đẳng nghề Công nghệ Sài Gòn
+Trường Cao đẳng nghề Đà Lạt
+Trường Cao đẳng nghề Đà Nẵng
+Trường Cao đẳng nghề Đồng Tháp
+Trường Cao đẳng nghề Hoa Sen
+Trường Cao đẳng Nghề Khách sạn Du lịch Quốc tế IMPERIAL
+Trường Cao đẳng nghề Kiên Giang
+Trường Cao đẳng nghề Kỹ thuật Công nghệ LADEC
+Trường Cao đẳng nghề Kỹ thuật thiết bị Y tế Bình Dương
+Trường Cao đẳng nghề Long An
+Trường Cao đẳng nghề Nguyễn Tri Phương
+Trường Cao đẳng nghề Nguyễn Văn Trỗi
+Trường Cao đẳng nghề Ninh Thuận
+Trường Cao đẳng nghề Phú Yên
+Trường Cao đẳng nghề Quảng Bình
+Trường Cao đẳng nghề Quảng Nam
+Trường Cao đẳng nghề Quốc tế Nam Việt
+Trường Cao đẳng nghề số 21 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 22 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 23 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 5 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 8 – Bộ Quốc phòng
+Trường Cao đẳng nghề số 9 – Bộ Quốc phòng
+Trường Cao đẳng nghề Sóc Trăng
+Trường Cao đẳng nghề Tây Ninh
+Trường Cao đẳng nghề Tây Sài Gòn
+Trường Cao đẳng Nghề Thừa Thiên Huế
+Trường Cao đẳng nghề Tiền Giang
+Trường Cao đẳng nghề Trà Vinh
+Trường Cao đẳng nghề Trần Đại Nghĩa
+Trường Cao đẳng nghề Việt Nam – Hàn Quốc Cà Mau
+Trường Cao đẳng nghề Việt Nam – Singapore
+Trường Cao đẳng nghề Việt Nam–Hàn Quốc Quảng Ngãi
+Trường Cao đẳng nghề Việt–Úc Đà Nẵng
+Trường Cao đẳng nghề Vĩnh Long
+Trường Cao đẳng Quốc tế Vabis
+Trường Cao đẳng Thaco
+Trường Cao đẳng Việt Nam–Hàn Quốc Bình Dương

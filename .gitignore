@@ -2,5 +2,9 @@ data/
 */__pycache__/
 __pycache__/
 .env
+data_*
+university*
+uni*.csv
+*.csv
 
 

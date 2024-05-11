@@ -8,8 +8,8 @@ import time
 import re
 import unicodedata
 
-input_file = "uni_names.txt"
-output_file = "uni_info.txt"
+input_file = "random_crawl_src/uni_names.txt"
+output_file = "random_crawl_src/uni_info.txt"
 all_uni_names = set()
 unis = []
 cao_dang = []

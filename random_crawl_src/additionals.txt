@@ -1,0 +1,98 @@
+Đại học Bình Dương,DBD,Bình Dương
+Đại học Cảnh Sát Nhân Dân,CSS,Hà Nội
+Đại học Bình Dương,DBD,Bình Dương
+Đại học Cảnh Sát Nhân Dân,CSS,Hà Nội
+Đại học Bình Dương,DBD,Bình Dương
+Đại học Buôn Ma Thuột,BMU,Đắk Lắk
+Đại học Cảnh Sát Nhân Dân,CSS,Hà Nội
+Đại học Cần Thơ,TCT,Cần Thơ
+Đại học Chu Văn An,DCA,Hưng Yên
+Đại học Công nghệ Đồng Nai,DCD,Đồng Nai
+Đại học Công Nghệ Vạn Xuân,DVX,Nghệ An
+Đại học Công Nghệ và Quản Lý Hữu Nghị,DCQ,Hà Nội
+Đại học Công nghiệp Hà Nội,DCN,Hà Nội
+Đại học Công nghiệp Thực phẩm TP HCM,DCT,TP HCM
+Đại học Công nghiệp TP HCM,HUI,TP HCM
+Đại Học Công Nghiệp Việt Hung,VHD,Hà Nội
+Đại học Đại Nam,DDN,Hà Nội
+Đại học Dân Lập Duy Tân,DDT,Đà Nẵng
+Đại Học Đông Á,DAD,Đà Nẵng
+Đại học Đồng Nai,DNU,Đồng Nai
+Đại học Dược Hà Nội,DKH,Hà Nội
+Đại học Gia Định,GDU,TP HCM
+Đại học Giao thông Vận tải ( Cơ sở Phía Bắc ),GHA,Hà Nội
+Đại học Giao thông Vận tải ( Cơ sở Phía Nam),GSA,TP HCM
+Đại học Giao thông vận tải TP HCM,GTS,TP HCM
+Đại học Hải Phòng,THP,Hải Phòng
+Đại học Hạ Long,HLU,Quảng Ninh
+Đại học Hàng hải Việt Nam,HHA,Hải Phòng
+Đại học Hà Nội,NHF,Hà Nội
+Đại học Hòa Bình,ETU,Hà Nội
+Khoa Quốc Tế - Đại học Thái Nguyên,DTQ,Thái Nguyên
+Đại học Kiến trúc Hà Nội,KTA,Hà Nội
+Đại học Kiến trúc tại Trung tâm đào tạo cơ sở Cần Thơ,KTS,Cần Thơ
+Đại học Kiến trúc tại Trung tâm đào tạo cơ sở Đà Lạt,KTS,Lâm Đồng
+Đại học Kiến trúc TP HCM,KTS,TP HCM
+Đại học Kinh tế Công nghiệp Long An,DLA,Long An
+Đại học Kinh tế Kỹ thuật Công nghiệp Hà Nội,DKK,Hà Nội
+Đại học Kinh tế Kỹ thuật công nghiệp Nam Định,DKD,Nam Định
+Đại học Kinh tế quốc dân,KHA,Hà Nội
+Đại học Kinh tế - Tài chính TP HCM,UEF,TP HCM
+Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Nam ),HCN,Đồng Nai
+Đại học Kỹ thuật Y tế Hải Dương,DKY,Hải Dương
+Đại học Mở Hà Nội,MHN,Hà Nội
+Đại học Mở TP HCM,MBS,TP HCM
+Đại học Ngân hàng TP HCM,NHS,TP HCM
+Đại học Nội vụ Hà Nội,DNV,Hà Nội
+Đại học Phạm Văn Đồng,DPQ,Quảng Ngãi
+Đại học Phòng Cháy Chữa Cháy ( Phía Bắc ),PCH,Hà Nội
+Đại học Phòng Cháy Chữa Cháy (phía Nam),PCS,Đồng Nai
+Đại học Phương Đông,DPD,Hà Nội
+Đại học Phú Yên,DPY,Phú Yên
+Đại học Quản lý và Công nghệ Hải Phòng,DHP,Hải Phòng
+Đại học Quốc tế Sài Gòn,TTQ,TP HCM
+Đại học Sài Gòn,SGD,TP HCM
+Đại học Sư phạm Hà Nội 2,SP2,Vĩnh Phúc
+Đại học Sư phạm Kỹ thuật TP HCM,SPK,TP HCM
+Đại học Sư phạm Kỹ thuật Vĩnh Long,VLU,Vĩnh Long
+Đại học Sư phạm Thể dục thể thao TP HCM,STS,TP HCM
+Đại học Sư phạm TP HCM,SPS,TP HCM
+Đại học Tài nguyên và Môi trường Hà Nội,DMT,Hà Nội
+Đại học Tây Đô,DTD,Cần Thơ
+Đại học Thái Bình Dương,TBD,Khánh Hòa
+Đại học Thành Đô,TDD,Hà Nội
+Đại học Thương mại,TMA,Hà Nội
+Đại học Thủy Lợi ( Cơ sở 1 ),TLA,Hà Nội
+Đại học Tôn Đức Thắng,DTT,TP HCM
+Đại học Trưng Vương,DVP,Vĩnh Phúc
+Đại học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa,DVD,Thanh Hóa
+Đại học Xây dựng Hà Nội,XDA,Hà Nội
+Đại học Xây dựng Miền Tây,MTU,Vĩnh Long
+Đại học Y Dược Cần Thơ,YCT,Cần Thơ
+Đại học Y Dược Thái Bình,YTB,Thái Bình
+Đại học Y Dược TP HCM,YDS,TP HCM
+Đại học Y Hà Nội,YHB,Hà Nội
+Đại học Y khoa Phạm Ngọc Thạch,TYS,TP HCM
+Đại học Y tế Công cộng,YTC,Hà Nội
+Học viện Báo chí và Tuyên truyền,HBT,Hà Nội
+Học viện Chính sách và Phát triển,HCP,Hà Nội
+Học viện Công nghệ Bưu chính Viễn thông (phía Bắc),BVH,Hà Nội
+Học viện Hải Quân,HQH,Khánh Hòa
+Học viện Hàng không Việt Nam,HHK,TP HCM
+Học viện Kĩ Thuật Quân Sự - Hệ Quân sự,KQH,Hà Nội
+Học viện Phòng Không - Không Quân,PKH,Hà Nội
+Học viện Quân Y - Hệ Quân sự,YQH,Hà Nội
+Học viện Tài chính,HTC,Hà Nội
+Khoa Du Lịch - Đại học Huế,DHD,Huế
+Khoa Kỹ thuật và Công Nghệ - ĐH Huế,DHE,Huế
+Khoa Luật - Đại học Quốc gia Hà Nội,QHL,Hà Nội
+Khoa Quốc Tế - ĐH Huế,DHI,Huế
+Khoa Y - Đại học Quốc Gia TP HCM,QSY,TP HCM
+Phân Hiệu Đại học Đà Nẵng tại Kon Tum,DDP,Kon Tum
+Phân Hiệu Đại học Huế tại Quảng Trị,DHQ,Huế
+Phân hiệu Đại học Thái Nguyên tại Lào Cai,DTP,Lào Cai
+Phân hiệu ĐH Tài nguyên và Môi trường tại Thanh Hoá,DMT,Thanh Hóa
+Trường Sĩ Quan Chính Trị - Đại học Chính Trị,LCH,Hà Nội
+Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn,LAH
+Trường Sĩ Quan Pháo Binh,PBH,Hà Nội
+Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại học Thông Tin Liên Lạc,TTH,Khánh Hòa

@@ -52,7 +52,7 @@ def get_uni_info(driver, uni_type, url, uni):
 driver = webdriver.Chrome()  
 url = 'https://diemthi.vnexpress.net/tra-cuu-dai-hoc'
 input_file = "random_crawl_src/data-1715525250280.csv"
-output_file = "random_crawl_src/additionals.txt"
+output_file = "random_crawl_src/data/additionals.txt"
 df = pd.read_csv(input_file)
 names = df['name'].tolist()
 

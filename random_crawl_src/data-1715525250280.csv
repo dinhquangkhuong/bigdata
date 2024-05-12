@@ -1,0 +1,107 @@
+"id","name","code","localcation"
+"1","Đại học Bình Dương",NULL,NULL
+"2","Đại học Buôn Ma Thuột",NULL,NULL
+"3","Đại học Cảnh Sát Nhân Dân",NULL,NULL
+"4","Đại học Cần Thơ",NULL,NULL
+"5","Đại học Chu Văn An",NULL,NULL
+"6","Đại học Công nghệ Đồng Nai",NULL,NULL
+"7","Đại học Công nghệ Giao thông vận tải",NULL,NULL
+"8","Đại học Công Nghệ Vạn Xuân",NULL,NULL
+"9","Đại học Công Nghệ và Quản Lý Hữu Nghị",NULL,NULL
+"10","Đại học Công nghiệp Hà Nội",NULL,NULL
+"11","Đại học Công nghiệp Thực phẩm TP HCM",NULL,NULL
+"12","Đại học Công nghiệp TP HCM",NULL,NULL
+"13","Đại Học Công Nghiệp Việt Hung",NULL,NULL
+"14","Đại học Đại Nam",NULL,NULL
+"15","Đại học Dân Lập Duy Tân",NULL,NULL
+"16","Đại Học Đông Á",NULL,NULL
+"17","Đại học Đồng Nai",NULL,NULL
+"18","Đại học Dược Hà Nội",NULL,NULL
+"19","Đại học Gia Định",NULL,NULL
+"20","Đại học Giao thông Vận tải ( Cơ sở Phía Bắc )",NULL,NULL
+"21","Đại học Giao thông Vận tải ( Cơ sở Phía Nam)",NULL,NULL
+"22","Đại học Giao thông vận tải TP HCM",NULL,NULL
+"23","Đại học Hải Phòng",NULL,NULL
+"24","Đại học Hạ Long",NULL,NULL
+"25","Đại học Hàng hải Việt Nam",NULL,NULL
+"26","Đại học Hà Nội",NULL,NULL
+"27","Đại học Hòa Bình",NULL,NULL
+"28","Đại học Khoa Học - Đại học Thái Nguyên",NULL,NULL
+"29","Đại học Kiến trúc Hà Nội",NULL,NULL
+"30","Đại học Kiến trúc tại Trung tâm đào tạo cơ sở Cần Thơ",NULL,NULL
+"31","Đại học Kiến trúc tại Trung tâm đào tạo cơ sở Đà Lạt",NULL,NULL
+"32","Đại học Kiến trúc TP HCM",NULL,NULL
+"33","Đại học Kinh tế Công nghiệp Long An",NULL,NULL
+"34","Đại học Kinh Tế - Đại học Huế",NULL,NULL
+"35","Đại học Kinh tế Kỹ thuật Công nghiệp Hà Nội",NULL,NULL
+"36","Đại học Kinh tế Kỹ thuật công nghiệp Nam Định",NULL,NULL
+"37","Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM",NULL,NULL
+"38","Đại học Kinh Tế  & Quản Trị Kinh Doanh - Đại học Thái Nguyên",NULL,NULL
+"39","Đại học Kinh tế quốc dân",NULL,NULL
+"40","Đại học Kinh tế - Tài chính TP HCM",NULL,NULL
+"41","Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Nam )",NULL,NULL
+"42","Đại học Kỹ thuật Y tế Hải Dương",NULL,NULL
+"43","Đại học Mở Hà Nội",NULL,NULL
+"44","Đại học Mở TP HCM",NULL,NULL
+"45","Đại học Ngân hàng TP HCM",NULL,NULL
+"46","Đại học Nội vụ Hà Nội",NULL,NULL
+"47","Đại học Nông Lâm TP HCM",NULL,NULL
+"48","Đại học Phạm Văn Đồng",NULL,NULL
+"49","Đại học Phòng Cháy Chữa Cháy ( Phía Bắc )",NULL,NULL
+"50","Đại học Phòng Cháy Chữa Cháy (phía Nam)",NULL,NULL
+"51","Đại học Phương Đông",NULL,NULL
+"52","Đại học Phú Yên",NULL,NULL
+"53","Đại học Quản lý và Công nghệ Hải Phòng",NULL,NULL
+"54","Đại học Quốc tế Sài Gòn",NULL,NULL
+"55","Đại học Sài Gòn",NULL,NULL
+"56","Đại học Sao Đỏ",NULL,NULL
+"57","Đại Học Sư Phạm - Đại học Thái Nguyên",NULL,NULL
+"58","Đại học Sư phạm Hà Nội",NULL,NULL
+"59","Đại học Sư phạm Kỹ thuật TP HCM",NULL,NULL
+"60","Đại học Sư phạm Kỹ thuật Vĩnh Long",NULL,NULL
+"61","Đại học Sư phạm Thể dục thể thao TP HCM",NULL,NULL
+"62","Đại học Sư phạm TP HCM",NULL,NULL
+"63","Đại học Tài nguyên và Môi trường Hà Nội",NULL,NULL
+"64","Đại học Tây Đô",NULL,NULL
+"65","Đại học Thái Bình Dương",NULL,NULL
+"66","Đại học Thành Đô",NULL,NULL
+"67","Đại học Thương mại",NULL,NULL
+"68","Đại học Thủy Lợi ( Cơ sở 1 )",NULL,NULL
+"69","Đại học Tôn Đức Thắng",NULL,NULL
+"70","Đại học Trưng Vương",NULL,NULL
+"71","Đại học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",NULL,NULL
+"72","Đại học Văn hoá TP HCM",NULL,NULL
+"73","Đại học Xây dựng Hà Nội",NULL,NULL
+"74","Đại học Xây dựng Miền Tây",NULL,NULL
+"75","Đại học Y Dược Cần Thơ",NULL,NULL
+"76","Đại học Y Dược Thái Bình",NULL,NULL
+"77","Đại học Y Dược TP HCM",NULL,NULL
+"78","Đại học Y Hà Nội",NULL,NULL
+"79","Đại học Y khoa Phạm Ngọc Thạch",NULL,NULL
+"80","Đại học Y tế Công cộng",NULL,NULL
+"81","Học viện Báo chí và Tuyên truyền",NULL,NULL
+"82","Học viện Chính sách và Phát triển",NULL,NULL
+"83","Học viện Công nghệ Bưu chính Viễn thông (phía Bắc)",NULL,NULL
+"84","Học viện Hải Quân",NULL,NULL
+"85","Học viện Hàng không Việt Nam",NULL,NULL
+"86","Học viện Kĩ Thuật Quân Sự - Hệ Quân sự",NULL,NULL
+"87","Học viện Phòng Không - Không Quân",NULL,NULL
+"88","Học viện Quản Lý Giáo Dục",NULL,NULL
+"89","Học viện Quân Y - Hệ Quân sự",NULL,NULL
+"90","Học viện Tài chính",NULL,NULL
+"91","Khoa Du Lịch - Đại học Huế",NULL,NULL
+"92","Khoa Giáo Dục Thể Chất - Đại học Huế",NULL,NULL
+"93","Khoa Kỹ thuật và Công Nghệ - ĐH Huế",NULL,NULL
+"94","Khoa Luật - Đại học Quốc gia Hà Nội",NULL,NULL
+"95","Khoa Quốc Tế - ĐH Huế",NULL,NULL
+"96","Khoa Y - Đại học Quốc Gia TP HCM",NULL,NULL
+"97","Khoa Y Dược - Đại học Đà Nẵng",NULL,NULL
+"98","Phân Hiệu Đại học Đà Nẵng tại Kon Tum",NULL,NULL
+"99","Phân Hiệu Đại học Huế tại Quảng Trị",NULL,NULL
+"100","Phân hiệu Đại học Thái Nguyên tại Lào Cai",NULL,NULL
+"101","Phân hiệu ĐH Tài nguyên và Môi trường tại Thanh Hoá",NULL,NULL
+"102","Trường Sĩ Quan Chính Trị - Đại học Chính Trị",NULL,NULL
+"103","Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",NULL,NULL
+"104","Trường Sĩ Quan Pháo Binh",NULL,NULL
+"105","Trường Sĩ  Quan Tăng - Thiết Giáp",NULL,NULL
+"106","Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại học Thông Tin Liên Lạc",NULL,NULL

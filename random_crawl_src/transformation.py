@@ -6,4 +6,4 @@ df = pd.read_csv(input_file, sep=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 columns_to_drops = ["URL", "Total", "Methods"]
 df_modified = df.drop(columns=columns_to_drops)
 
-df_modified.to_csv("random_crawl_src/final.csv", index=False)
+df_modified.to_csv("random_crawl_src/data/final.csv", index=False)

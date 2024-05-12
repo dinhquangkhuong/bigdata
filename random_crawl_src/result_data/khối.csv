@@ -1,0 +1,13 @@
+ID,Value,Descriptions
+1,Khối A,"Đây là khối tự nhiên, có rất nhiều ngành nghề thuộc khối A học sinh có thể lựa chọn theo học như: Quản trị kinh doanh, Kinh tế, Công nghệ thông tin, Luật…"
+2,Khối B,"Đây là khối tập trung chủ yếu vào các ngành Sức khỏe (Y, Dược…), Khoa học, Thủy sản, Nông – Lâm – Ngư nghiệp…"
+3,Khối C,"Là khối được các trường đào tạo khối ngành Khoa học xã hội, Văn học, báo chí, Nhân văn, Phát luật…xét tuyển."
+4,Khối D,"Các trường có khối Kinh tế, Ngoại ngữ, Công nghệ thông tin, Tài chính, Quản trị kinh doanh…sử dụng để xét tuyển."
+5,Khối H,"Đây là khối ngành năng khiếu dành cho những học sinh có đam mê vẽ, có khả năng hội họa."
+6,Khối K,"Khối K là khối dành có các môn thi là Toán – Lí và một môn chuyên ngành thí sinh theo học ở bậc trung cấp/cao đẳng. Đây là khối dành cho thí sinh có nhu cầu liên thông lên đại học và đã tốt nghiệp trung cấp chuyên nghiệp hoặc cao đẳng"
+7,Khối M,"Khối M là khối được các trường đào tạo những ngành Điện ảnh truyền hình, Thanh nhạc, Giáo viên mầm non…xét tuyển."
+8,Khối N,"Là khối tập trung vào khả năng âm nhạc, thí sinh dự thi vào các trường xét tuyển khối N cần có năng khiếu âm nhạc, khả năng thanh nhạc hoặc một vài năng khiếu khác."
+9,Khối R,"Là khối xét tuyển vào các chuyên ngành như: Báo chí, Nghệ thuật…"
+10,Khối S,"Là khối xét tuyển vào các chuyên ngành như: Báo chí, Nghệ thuật…"
+11,Khối T,"Khối T là khối thiên về khả năng thể dục thể thao và vận động của thí sinh. Các trường xét tuyển bằng các tổ hợp môn này."
+12,Khối V,"Là khối tập trung vào năng khiếu vẽ, khả năng hội họa của thí sinh bên cạnh các môn tự nhiên khác. Các trường có chuyên ngành Kiến trúc, vẽ sẽ là những trường xét tuyển bằng tổ hợp khối này."

@@ -5,32 +5,6 @@ from bs4 import BeautifulSoup
 
 jsonEn = JSONEncoder(ensure_ascii=False)
 
-# def __printOne__(values: List[Any]):
-#   for value in values[:-1]:
-#     print("\"", value, "\",", sep="",end="")
-#
-#   print("\"", values[-1], "\"")
-#
-# def toCsvInStdOut(headers: List[str], values: List[List[str]]):
-#   __printOne__(headers)
-#
-#   for value in values:
-#     __printOne__(value)
-#
-# def parseToStdOut(raw):
-#   t = parseTable(raw)
-#   uni_data = list(map(lambda i: i[0], t))
-#   uni_subject = list(map(lambda i: i[1], t))
-#
-#   toCsvInStdOut([
-#     "Tên",
-#     # "Mã",
-#     "Điểm đầu vào",
-#     "Môn thi",
-#     "Học phí",
-#     "Ghi chú",
-#   ], uni_data)
-
 def parseSubject(link):
 
   return {
@@ -38,7 +12,7 @@ def parseSubject(link):
     'code': link.text, # vd: A01, C01, ... 
   }
 
-def parseRow(row: Tag, uni_name):
+def parseRow(row: Tag, uni_name, year):
   columns = row.find_all("td")
   if (columns.__len__() < 7): return None
 
@@ -47,26 +21,20 @@ def parseRow(row: Tag, uni_name):
   subject_code = columns[1].find_all("span")[-1].text
 
   return [
-    [
-      uni_name,
-      subject_code, # code
-      subject_name,
-      columns[2].find("span").text, # entry point
-      columns[4].text, # fee
-      columns[5].text, # note
-    ],
-    [
-      subject_code,
-      subject_name,
-      subjectsInfo, # subjects title
-      uni_name,
-    ]
+    uni_name,
+    subject_code, # code
+    subject_name,
+    columns[2].find("span").text, # entry point
+    columns[4].text, # fee
+    columns[5].text, # note
+    subjectsInfo, # subjects title
+    year,
   ]
 
-def parseTable(table: str, uni_name):
+def parseTable(table: str, uni_name, year):
   web_page = BeautifulSoup(table, 'lxml')
   rows = web_page.find_all("tr", class_="university__benchmark") #type: ignore
-  parseRowAlt = lambda row: parseRow(row, uni_name=uni_name)
+  parseRowAlt = lambda row: parseRow(row, uni_name=uni_name, year=year)
   return list(filter(lambda ele: ele is not None, map(parseRowAlt, rows)))
 
 
@@ -83,40 +51,35 @@ headers = [
   "entry_point",
   "fee",
   "note",
-]
-
-subject_code_header = [
-  "subject_code",
-  "subject_name",
   "subject_raw",
-  "university",
+  "year",
 ]
 
 
 def makeHeader():
   # uni_data = "university_data/{uni_name}".format(uni_name=uni_name)
-  uni_subject = "university_subject/1_header"
-  uni_subject_code = "university_subject_code/1_header"
+  # uni_subject = "university_subject/1_header"
+  uni_subject_code = "university_subject_code/01_header"
 
   # uni_data_f = open(uni_data + '.csv', 'a', encoding='utf-8')
-  uni_subject_f = open(uni_subject + '.csv', 'a', encoding='utf-8')
+  # uni_subject_f = open(uni_subject + '.csv', 'a', encoding='utf-8')
   uni_subject_code_f = open(uni_subject_code + '.csv', 'a', encoding='utf-8')
 
-  __oneLine__(headers, uni_subject_f)
-  __oneLine__(subject_code_header, uni_subject_code_f)
+  __oneLine__(headers, uni_subject_code_f)
+  # __oneLine__(subject_code_header, uni_subject_code_f)
 
   uni_subject_code_f.close()
-  uni_subject_f.close()
+  # uni_subject_f.close()
 
 
-def toCsv(html_raw: str, uni_name):
-  table = parseTable(html_raw, uni_name)
+def toCsv(html_raw: str, uni_name, year):
+  table = parseTable(html_raw, uni_name, year)
   # uni_data_raw = list(map(lambda i: i[0], table))
-  uni_subject_raw = list(map(lambda i: i[1], table))
+  uni_subject_raw = table
 
   # uni_data = "university_data/{uni_name}".format(uni_name=uni_name)
   # uni_subject = "university_subject/{uni_name}".format(uni_name=uni_name)
-  uni_subject_code = "university_subject_code/{uni_name}".format(uni_name=uni_name)
+  uni_subject_code = "university_subject_code/{uni_name}-{year}".format(uni_name=uni_name, year=year)
 
   # uni_data_f = open(uni_data + '.csv', 'a', encoding='utf-8')
   # uni_subject_f = open(uni_subject + '.csv', 'a', encoding='utf-8')

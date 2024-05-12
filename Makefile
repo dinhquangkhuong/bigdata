@@ -25,3 +25,8 @@ webuni:
 	rm -f university_subject/*
 	python src/uni
 
+init:
+	mkdir university_data
+	mkdir university_subject_code
+	mkdir university_subject
+

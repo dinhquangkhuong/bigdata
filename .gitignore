@@ -7,5 +7,6 @@ university*
 uni*.csv
 *.csv
 *.bak
+*.sql
 venv
 

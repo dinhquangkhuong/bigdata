@@ -2,7 +2,6 @@ from json import JSONEncoder
 from typing import Any, List
 from bs4.element import Tag
 from bs4 import BeautifulSoup
-from lxml.html import LabelElement
 
 jsonEn = JSONEncoder(ensure_ascii=False)
 
@@ -57,10 +56,10 @@ def parseRow(row: Tag, uni_name):
       columns[5].text, # note
     ],
     [
-      uni_name,
       subject_code,
       subject_name,
       subjectsInfo, # subjects title
+      uni_name,
     ]
   ]
 
@@ -87,9 +86,10 @@ headers = [
 ]
 
 subject_code_header = [
-  "university",
   "subject_code",
+  "subject_name",
   "subject_raw",
+  "university",
 ]
 
 
@@ -111,28 +111,28 @@ def makeHeader():
 
 def toCsv(html_raw: str, uni_name):
   table = parseTable(html_raw, uni_name)
-  uni_data_raw = list(map(lambda i: i[0], table))
+  # uni_data_raw = list(map(lambda i: i[0], table))
   uni_subject_raw = list(map(lambda i: i[1], table))
 
   # uni_data = "university_data/{uni_name}".format(uni_name=uni_name)
-  uni_subject = "university_subject/{uni_name}".format(uni_name=uni_name)
+  # uni_subject = "university_subject/{uni_name}".format(uni_name=uni_name)
   uni_subject_code = "university_subject_code/{uni_name}".format(uni_name=uni_name)
 
   # uni_data_f = open(uni_data + '.csv', 'a', encoding='utf-8')
-  uni_subject_f = open(uni_subject + '.csv', 'a', encoding='utf-8')
+  # uni_subject_f = open(uni_subject + '.csv', 'a', encoding='utf-8')
   uni_subject_code_f = open(uni_subject_code + '.csv', 'a', encoding='utf-8')
 
 
   # __oneLine__(headers, uni_subject_f)
-  for value in uni_data_raw:
-    __oneLine__(value, uni_subject_f)
+  # for value in uni_data_raw:
+  #   __oneLine__(value, uni_subject_f)
 
   # __oneLine__(subject_code_header, uni_subject_code_f)
   for value in uni_subject_raw:
     __oneLine__(value, uni_subject_code_f)
 
   # uni_data_f.close()
-  uni_subject_f.close()
+  # uni_subject_f.close()
   uni_subject_code_f.close()
 
 

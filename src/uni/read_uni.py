@@ -1,5 +1,4 @@
 from bs4.element import Tag
-from requests_html import HTML, Element, HTMLSession
 from bs4 import BeautifulSoup
 
 def parseSubject(link):
@@ -27,23 +26,4 @@ def parseTable(table: str):
   web_page = BeautifulSoup(table, 'lxml')
   rows = web_page.find_all("tr", class_="university__benchmark") #type: ignore
   return list(filter(lambda ele: ele is not None, map(parseRow, rows)))
-
-session = HTMLSession()
-
-url = "https://diemthi.vnexpress.net/tra-cuu-dai-hoc/loadbenchmark/id/349/year/-1/sortby/1/block_name/all" 
-
-respone = session.get(url).json()
-
-html_raw = respone['html']
-
-t = parseTable(html_raw)
-
-toCsvInStdOut([
-  "Tên",
-  "Mã",
-  "Điểm đầu vào",
-  "Môn thi",
-  "Học phí",
-  "Ghi chú",
-], t)
 

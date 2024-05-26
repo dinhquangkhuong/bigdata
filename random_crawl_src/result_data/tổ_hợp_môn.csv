@@ -1,0 +1,190 @@
+ID,Value,Subjects included
+1,A00,Toán – Vật lí – Hóa học
+2,A01,Toán – Vật lí – Tiếng Anh
+3,A02,Toán – Vật lí – Sinh học
+4,A03,Toán – Vật lí – Lịch sử
+5,A04,Toán – Vật lí – Địa lí
+6,A05,Toán – Hóa học – Lịch sử
+7,A06,Toán – Hóa học – Địa lí
+8,A07,Toán – Lịch sử – Địa lí
+9,A08,Toán – Lịch sử – Giáo dục công dân
+10,A09,Toán – Địa lý – Giáo dục công dân
+11,A10,Toán – Lý – Giáo dục công dân
+12,A11,Toán – Hóa – Giáo dục công dân
+13,A12,Toán – Khoa học tự nhiên – KH xã hội
+14,A14,Toán – Khoa học tự nhiên – Địa lí
+15,A15,Toán – KH tự nhiên – Giáo dục công dân
+16,A16,Toán – Khoa học tự nhiên – Ngữ văn
+17,A17,Toán – Vật lý – Khoa học xã hội
+18,A18,Toán – Hóa học – Khoa học xã hội
+19,B00,Toán – Hóa học – Sinh học
+20,B01,Toán – Sinh học – Lịch sử
+21,B02,Toán – Sinh học – Địa lí
+22,B03,Toán – Sinh học – Ngữ văn
+23,B04,Toán – Sinh học – Giáo dục công dân
+24,B05,Toán – Sinh học – Khoa học xã hội
+25,B08,Toán – Sinh học – Tiếng Anh
+26,C00,Ngữ văn – Lịch sử – Địa lí
+27,C01,Ngữ văn – Toán – Vật lí
+28,C02,Ngữ văn – Toán- Hóa học
+29,C03,Ngữ văn – Toán – Lịch sử
+30,C04,Ngữ văn – Toán – Địa lí
+31,C05,Ngữ văn – Vật lí – Hóa học
+32,C06,Ngữ văn – Vật lí – Sinh học
+33,C07,Ngữ văn- Vật lí – Lịch sử
+34,C08,Ngữ văn – Hóa học – Sinh
+35,C09,Ngữ văn – Vật lí – Địa lí
+36,C10,Ngữ văn – Hóa học – Lịch sử
+37,C12,Ngữ văn – Sinh học – Lịch sử
+38,C13,Ngữ văn – Sinh học – Địa
+39,C14,Ngữ văn – Toán – Giáo dục công dân
+40,C15,Ngữ văn – Toán – Khoa học xã hội
+41,C16,Ngữ văn – Vật lí – Giáo dục công dân
+42,C17,Ngữ văn – Hóa học – Giáo dục công dân
+43,C19,Ngữ văn – Lịch sử – Giáo dục công dân
+44,C20,Ngữ văn – Địa lí – Giáo dục công dân
+45,D01,Ngữ văn – Toán- Tiếng Anh
+46,D02,Ngữ văn – Toán – Tiếng Nga
+47,D03,Ngữ văn – Toán – Tiếng Pháp
+48,D04,Ngữ văn – Toán – Tiếng Trung
+49,D05,Ngữ văn – Toán – Tiếng Đức
+50,D06,Ngữ văn – Toán – Tiếng Nhật
+51,D07,Toán – Hóa học – Tiếng Anh
+52,D08,Toán – Sinh học – Tiếng Anh
+53,D09,Toán – Lịch sử – Tiếng Anh
+54,D10,Toán – Địa lí – Tiếng Anh
+55,D11,Ngữ văn – Vật lí – Tiếng Anh
+56,D12,Ngữ văn – Hóa học – Tiếng Anh
+57,D13,Ngữ văn – Sinh học – Tiếng Anh
+58,D14,Ngữ văn – Lịch sử – Tiếng Anh
+59,D15,Ngữ văn – Địa lí – Tiếng Anh
+60,D16,Toán – Địa lí – Tiếng Đức
+61,D17,Toán – Địa lí – Tiếng Nga
+62,D18,Toán – Địa lí – Tiếng Nhật
+63,D19,Toán – Địa lí – Tiếng Pháp
+64,D20,Toán – Địa lí – Tiếng Trung
+65,D21,Toán – Hóa học – Tiếng Đức
+66,D22,Toán – Hóa học – Tiếng Nga
+67,D23,Toán – Hóa học – Tiếng Nhật
+68,D24,Toán – Hóa học – Tiếng Pháp
+69,D25,Toán – Hóa học – Tiếng Trung
+70,D26,Toán – Vật lí – Tiếng Đức
+71,D27,Toán – Vật lí – Tiếng Nga
+72,D28,Toán – Vật lí – Tiếng Nhật
+73,D29,Toán – Vật lí – Tiếng Pháp
+74,D30,Toán – Vật lí – Tiếng Trung
+75,D31,Toán – Sinh học – Tiếng Đức
+76,D32,Toán – Sinh học – Tiếng Nga
+77,D33,Toán – Sinh học – Tiếng Nhật
+78,D34,Toán – Sinh học – Tiếng Pháp
+79,D35,Toán – Sinh học – Tiếng Trung
+80,D41,Ngữ văn – Địa lí – Tiếng Đức
+81,D42,Ngữ văn – Địa lí – Tiếng Nga
+82,D43,Ngữ văn – Địa lí – Tiếng Nhật
+83,D44,Ngữ văn – Địa lí – Tiếng Pháp
+84,D45,Ngữ văn – Địa lí – Tiếng Trung
+85,D52,Ngữ văn – Vật lí – Tiếng Nga
+86,D54,Ngữ văn – Vật lí – Tiếng Pháp
+87,D55,Ngữ văn – Vật lí – Tiếng Trung
+88,D61,Ngữ văn – Lịch sử – Tiếng Đức
+89,D62,Ngữ văn – Lịch sử – Tiếng Nga
+90,D63,Ngữ văn – Lịch sử – Tiếng Nhật
+91,D64,Ngữ văn – Lịch sử – Tiếng Pháp
+92,D65,Ngữ văn – Lịch sử – Tiếng Trung
+93,D66,Ngữ văn – Giáo dục công dân – Tiếng Anh
+94,D68,Ngữ văn – Giáo dục công dân – Tiếng Nga
+95,D69,Ngữ Văn – Giáo dục công dân – Tiếng Nhật
+96,D70,Ngữ Văn – Giáo dục công dân – Tiếng Pháp
+97,D72,Ngữ văn – Khoa học tự nhiên – Tiếng Anh
+98,D73,Ngữ văn – Khoa học tự nhiên – Tiếng Đức
+99,D74,Ngữ văn – Khoa học tự nhiên – Tiếng Nga
+100,D75,Ngữ văn – Khoa học tự nhiên – Tiếng Nhật
+101,D76,Ngữ văn – Khoa học tự nhiên – Tiếng Pháp
+102,D77,Ngữ văn – Khoa học tự nhiên – Tiếng Trung
+103,D78,Ngữ văn – Khoa học xã hội – Tiếng Anh
+104,D79,Ngữ văn – Khoa học xã hội – Tiếng Đức
+105,D80,Ngữ văn – Khoa học xã hội – Tiếng Nga
+106,D81,Ngữ văn – Khoa học xã hội – Tiếng Nhật
+107,D82,Ngữ văn – Khoa học xã hội – Tiếng Pháp
+108,D83,Ngữ văn – Khoa học xã hội -Tiếng Trung
+109,D84,Toán – Giáo dục công dân – Tiếng Anh
+110,D85,Toán – Giáo dục công dân- Tiếng Đức
+111,D86,Toán – Giáo dục công dân – Tiếng Nga
+112,D87,Toán – Giáo dục công dân – Tiếng Pháp
+113,D88,Toán – Giáo dục công dân – Tiếng Nhật
+114,D90,Toán – Khoa học tự nhiên – Tiếng Anh
+115,D91,Toán – Khoa học tự nhiên – Tiếng Pháp
+116,D92,Toán – Khoa học tự nhiên – Tiếng Đức
+117,D93,Toán – Khoa học tự nhiên – Tiếng Nga
+118,D94,Toán – Khoa học tự nhiên – Tiếng Nhật
+119,D95,Toán – Khoa học tự nhiên – Tiếng Trung
+120,D96,Toán – Khoa học xã hội – Anh
+121,D97,Toán – Khoa học xã hội – Tiếng Pháp
+122,D98,Toán – Khoa học xã hội – Tiếng Đức
+123,D99,Toán – Khoa học xã hội – Tiếng Nga
+124,H00,Ngữ văn – Năng khiếu vẽ Nghệ thuật 1 – Năng khiếu vẽ Nghệ thuật 2
+125,H01,Toán – Ngữ văn – Vẽ
+126,H02,Toán – Vẽ Hình họa mỹ thuật – Vẽ trang trí màu
+127,H03,Toán – Khoa học tự nhiên – Vẽ Năng khiếu
+128,H04,Toán – Tiếng Anh – Vẽ Năng khiếu
+129,H05,Ngữ văn – Khoa học xã hội – Vẽ Năng khiếu
+130,H06,Ngữ văn – Tiếng Anh – Vẽ mỹ thuật
+131,H07,Toán – Hình họa – Trang trí
+132,H08,Ngữ văn – Lịch sử – Vẽ mỹ thuật
+133,K01,Toán – Tiếng Anh – Tin học
+134,M00,Ngữ văn – Toán – Đọc diễn cảm – Hát
+135,M01,Ngữ văn – Lịch sử – Năng khiếu
+136,M02,Toán – Năng khiếu 1 – Năng khiếu 2
+137,M03,Văn – Năng khiếu 1 – Năng khiếu 2
+138,M04,Toán – Đọc kể diễn cảm – Hát Múa
+139,M09,"Toán – NK Mầm non 1( kể chuyện, đọc, diễn cảm) – NK Mầm non 2 (Hát)"
+140,M10,Toán – Tiếng Anh – NK1
+141,M11,Ngữ văn – Năng khiếu báo chí – Tiếng Anh
+142,M13,Toán – Sinh học – Năng khiếu
+143,M14,Ngữ văn – Năng khiếu báo chí – Toán
+144,M15,Ngữ văn – Năng khiếu báo chí – Tiếng Anh
+145,M16,Ngữ văn – Năng khiếu báo chí – Vật lí
+146,M17,Ngữ văn – Năng khiếu báo chí – Lịch sử
+147,M18,Ngữ văn – Năng khiếu Ảnh báo chí – Toán
+148,M19,Ngữ văn – Năng khiếu Ảnh báo chí – Tiếng Anh
+149,M20,Ngữ văn – Năng khiếu Ảnh báo chí – Vật lí
+150,M21,Ngữ văn – Năng khiếu Ảnh báo chí – Lịch sử
+151,M22,Ngữ văn – Năng khiếu quay phim truyền hình – Toán
+152,M23,Ngữ văn – Năng khiếu quay phim truyền hình – Tiếng Anh
+153,M24,Ngữ văn – Năng khiếu quay phim truyền hình – Vật lí
+154,M25,Ngữ văn – Năng khiếu quay phim truyền hình – Lịch sử
+155,N00,Ngữ văn – Năng khiếu Âm nhạc 1 – Năng khiếu Âm nhạc 2
+156,N01,"Ngữ văn – xướng âm, biểu diễn nghệ thuật"
+157,N02,Ngữ văn – Ký xướng âm – Hát hoặc biểu diễn nhạc cụ
+158,N03,"Ngữ văn – Ghi âm-xướng âm, chuyên môn"
+159,N04,Ngữ Văn – Năng khiếu thuyết trình – Năng khiếu
+160,N05,Ngữ Văn – Xây dựng kịch bản sự kiện – Năng khiếu
+161,N06,"Ngữ văn – Ghi âm, xướng âm – Chuyên môn"
+162,N07,"Ngữ văn – Ghi âm, xướng âm – Chuyên môn"
+163,N08,Ngữ văn – Hòa thanh – Phát triển chủ đề và phổ thơ
+164,N09,"Ngữ văn – Hòa thanh – Bốc thăm đề, chỉ huy tại chỗ"
+165,R00,Ngữ văn – Lịch sử – Năng khiếu báo chí
+166,R01,Ngữ văn – Địa lý – Năng khiếu Biểu diễn nghệ thuật
+167,R02,Ngữ văn – Toán – Năng khiếu Biểu diễn nghệ thuật
+168,R03,Ngữ văn – tiếng Anh – Năng khiếu Biểu diễn nghệ thuật
+169,R04,Ngữ văn – Năng khiếu Biểu diễn nghệ thuật – Năng khiếu Kiến thức văn hóa –xã hội – nghệ thuật
+170,R05,Ngữ văn – tiếng Anh – Năng khiếu kiến thức truyền thông
+171,S00,Ngữ văn – Năng khiếu SKĐA 1 – Năng khiếu SKĐA 2
+172,S01,Toán – Năng khiếu 1 – Năng khiếu 2
+173,T00,Toán – Sinh học – Năng khiếu TDTT
+174,T01,Toán – Ngữ văn – Năng khiếu TDTT
+175,T02,Ngữ văn – Sinh – Năng khiếu TDTT
+176,T03,Ngữ văn – Địa – Năng khiếu TDTT
+177,T04,Toán – Lý – Năng khiếu TDTT
+178,T05,Ngữ văn – Giáo dục công dân – Năng kiếu
+179,V00,Toán – Vật lí – Vẽ Hình họa mỹ thuật
+180,V01,Toán – Ngữ văn – Vẽ Hình họa mỹ thuật
+181,V02,Vẽ mỹ thuật – Toán – Tiếng Anh
+182,V03,Vẽ mỹ thuật – Toán – Hóa
+183,V05,Ngữ văn – Vật lí – Vẽ mỹ thuật
+184,V06,Toán – Địa lí – Vẽ mỹ thuật
+185,V07,Toán – tiếng Đức – Vẽ mỹ thuật
+186,V08,Toán – tiếng Nga – Vẽ mỹ thuật
+187,V09,Toán – tiếng Nhật – Vẽ mỹ thuật
+188,V10,Toán – tiếng Pháp – Vẽ mỹ thuật
+189,V11,Toán – tiếng Trung – Vẽ mỹ thuật

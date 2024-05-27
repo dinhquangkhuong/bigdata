@@ -4,20 +4,10 @@ networks:
   dbnet:
 
 services:
-  postgresdb:
-    container_name: "postgres-bigdata"
-    image: postgres
-    networks:
-      - dbnet 
-    env_file:
-      - .dockerfile.env
   superset:
     image: apache/superset
-    networks:
-      - dbnet
+    network_mode: "host"
     container_name: "superset-bigdata"
-    depends_on:
-      - postgresdb
     env_file:
       - .dockerfile.env
     environment:

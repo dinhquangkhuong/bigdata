@@ -1,343 +1,344 @@
-Trường Quốc Tế - Đại học Quốc Gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-quoc-te-dai-hoc-quoc-gia-ha-noi-417, QHQ, Hà Nội, Tổng chỉ tiêu: 2, { Xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo và quy định của Đại học Quốc gia Hà Nội. | Xét tuyển điểm thi Đánh giá năng lực (HSA) do Đại học Quốc gia Hà Nội tổ chức. | Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2023. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp. | Xét kết quả A-Level, SAT, ACT, IB (bằng Tú tài quốc tế International Baccalaureate). }
-Đại học Công nghệ - Đại học Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-415, QHI, Hà Nội, Tổng chỉ tiêu: 1.850, { Xét tuyển thẳng. | Xét tuyển dựa vào kết quả thi tốt nghiệp THPT. | Dựa vào kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế. | Xét kết hợp chứng chỉ quốc tế và điểm thi tốt nghiệp THPT. | Xét thí sinh diện dự bị đại học. }
-Đại học Giáo dục - Đại học Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi-418, QHS, Hà Nội, None, None
-Đại học Kinh Tế - Đại học Quốc Gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi-413, QHE, Hà Nội, Tổng chỉ tiêu: 2, { Phương thức xét tuyển kết quả thi tốt nghiệp THPT năm 2023. | Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do Đại học Quốc gia Hà Nội tổ chức năm 2023. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả học tập bậc THPT và kết hợp phỏng vấn. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả thi tốt nghiệp THPT năm 2023. | Xét tuyển thẳng theo quy chế tuyển sinh của Bộ Giáo dục và Đào tạo. | Xét tuyển thẳng theo quy định của Đại học Quốc gia Hà Nội. | Ưu tiên xét tuyển theo quy chế của Bộ Giáo dục và Đào tạo và theo Quy định của Đại học Quốc gia Hà Nội. | Xét tuyển chứng chỉ quốc tế khác như SAT, ACT, A-level. | Xét tuyển thí sinh thuộc các trường dự bị đại học. | Xét tuyển sinh viên quốc tế. | Tuyển sinh ngành Quản trị Kinh doanh dành cho các tài năng thể thao. }
-Đại học Khoa học tự nhiên - Đại học Quốc Gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-419, QHT, Hà Nội, Tổng chỉ tiêu: 1.800, { Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo và đề án của trường. | Xét kết quả thi tốt nghiệp THPT. | Xét kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế. | Kết hợp điểm thi tốt nghiệp THPT và chứng chỉ quốc tế. }
-Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi-420, QHX, Hà Nội, Tổng chỉ tiêu: 2.000, { Xét tuyển thẳng. | Xét kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế, kết hợp điểm thi tốt nghiệp THPT với chứng chỉ quốc tế. | Xét kết quả thi tốt nghiệp THPT. }
-Đại học Ngoại ngữ - Đại học Quốc Gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi-414, QHF, Hà Nội, Tổng chỉ tiêu: 1.650, { Xét tuyển thẳng với thí sinh có giải quốc gia, quốc tế, là học sinh trường chuyên; theo quy định của Bộ Giáo dục và Đào tạo | Xét tuyển chứng chỉ ngoại ngữ quốc tế với điểm thi tốt nghiệpTHPT | Sử dụng kết quả bài thi đánh giá năng lực của Đại học Quốc gia Hà Nội | Xét kết quả thi tốt nghiệp THPT }
-Đại học Y Dược - Đại học Quốc Gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-421, QHY, Hà Nội, None, None
-Đại học Việt Nhật - Đại học Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-viet-nhat-dai-hoc-quoc-gia-ha-noi-498, VJU, Hà Nội, None, None
-Trường Quản trị và Kinh doanh - ĐH Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi-499, QHD, Hà Nội, None, None
-Khoa Các khoa học liên ngành - Đại học Quốc gia Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-cac-khoa-hoc-lien-nganh-dai-hoc-quoc-gia-ha-noi-507, QHK, Hà Nội, None, None
-Đại học Quốc tế - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-dai-hoc-quoc-gia-tp-hcm-286, QSQ, TP HCM, None, None
-Đại học An Giang - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-an-giang-dai-hoc-quoc-gia-tp-hcm-450, QSA, An Giang, None, None
-Đại học Bách khoa - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-dai-hoc-quoc-gia-tp-hcm-283, QSB, TP HCM, Tổng chỉ tiêu: 5.150, { Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo và Đại học Quốc gia TP HCM. | Ưu tiên xét tuyển theo quy định của Đại học Quốc gia TP HCM. | Xét tuyển thí sinh có chứng chỉ tuyển sinh quốc tế hoặc thí sinh người nước ngoài (chỉ áp dụng cho chương trình giảng dạy bằng tiếng Anh, tiên tiến). | Xét tuyển thí sinh dự tính du học nước ngoài vào chương trình chuyển tiếp quốc tế (Australia, New Zealand). | Xét tuyển kết hợp nhiều tiêu chí. }
-Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tp-hcm-284, QSC, TP HCM, Tổng chỉ tiêu: 1.800, { Tuyển thẳng và ưu tiên xét tuyển | Xét tuyển dựa trên điểm thi | Xét tuyển dựa trên các chứng chỉ quốc tế | Xét tuyển theo tiêu chí riêng của chương trình liên kết với Đại học Birmingham City, Anh }
-Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tp-hcm-287, QST, TP HCM, None, None
-Đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tp-hcm-288, QSX, TP HCM, None, None
-Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tp-hcm-285, QSK, TP HCM, None, None
-Khoa Ngoại Ngữ - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-ngoai-ngu-dai-hoc-thai-nguyen-223, DTF, Thái Nguyên, None, None
-Đại học Công Nghệ Thông Tin và Truyền Thông - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen-221, DTC, Thái Nguyên, None, None
-Khoa Quốc Tế - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-quoc-te-dai-hoc-thai-nguyen-226, DTQ, Thái Nguyên, None, None
-Đại học Kỹ Thuật Công Nghiệp - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-cong-nghiep-dai-hoc-thai-nguyen-224, DTK, Thái Nguyên, None, None
-Đại học Nông Lâm - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-dai-hoc-thai-nguyen-225, DTN, Thái Nguyên, None, None
-Đại học Y Dược - Đại học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-thai-nguyen-228, DTY, Thái Nguyên, None, None
-Đại học Khoa Học - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-dai-hoc-hue-214, DHT, Huế, None, None
-Đại học Bách khoa Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-ha-noi-349, BKA, Hà Nội, Tổng chỉ tiêu: 7.985, { Xét tuyển tài năng với học sinh đạt giải học sinh giỏi cấp tỉnh; dự thi học sinh giỏi quốc gia, có chứng chỉ quốc tế; học lực giỏi THPT và là học sinh trường chuyên/dự thi Olympia vòng tháng/ IELTS 6.0 | Xét tuyển dựa theo kết quả kỳ thi đánh giá tư duy | Xét tuyển dựa theo kết quả thi tốt nghiệp THPT 2023 }
-Đại học Luật - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luat-dai-hoc-hue-208, DHA, Huế, None, None
-Đại học Nghệ Thuật - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nghe-thuat-dai-hoc-hue-218, DHN, Huế, None, None
-Đại học Ngoại Ngữ - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-hue-217, DHF, Huế, None, None
-Đại học Nông Lâm - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-dai-hoc-hue-211, DHL, Huế, None, None
-Đại học Sư Phạm - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-dai-hoc-hue-213, DHS, Huế, None, None
-Đại học Y Dược - Đại học Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-hue-215, DHY, Huế, None, None
-Đại học Kiến trúc Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kien-truc-da-nang-313, KTD, Đà Nẵng, None, None
-Đại học Bách Khoa - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-dai-hoc-da-nang-308, DDK, Đà Nẵng, None, None
-Đại học Kinh Tế - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-dai-hoc-da-nang-309, DDQ, Đà Nẵng, None, None
-Đại học Sư Phạm - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-dai-hoc-da-nang-310, DDS, Đà Nẵng, None, None
-Đại học Ngoại Ngữ - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-da-nang-307, DDF, Đà Nẵng, None, None
-Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-479, DSK, Đà Nẵng, None, None
-Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-viet-han-500, VKU, Đà Nẵng, None, None
-Đại học Kinh tế TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-tp-hcm-272, KSA, TP HCM, None, None
-Đại học Ngoại thương (phía Bắc), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-thuong-phia-bac-338, NTH, Hà Nội, Tổng chỉ tiêu: 4.100, { Xét học bạ với thí sinh tham gia kỳ thi học sinh giỏi, khoa học kỹ thuật quốc gia; đạt giải ba trở lên kỳ thi học sinh giỏi cấp thành phố; là học sinh trường chuyên | Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với học bạ; điểm SAT, ACT, A-Level hoặc điểm thi tốt nghiệp THPT | Xét tuyển kết quả thi tốt nghiệp THPT | Sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội, Đại học Quốc gia TP HCM | Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo }
-Đại học Ngoại thương (phía Nam), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-thuong-phia-nam-279, NTS, TP HCM, Tổng chỉ tiêu: 4.100, { Xét học bạ với thí sinh tham gia kỳ thi học sinh giỏi, khoa học kỹ thuật quốc gia; đạt giải ba trở lên kỳ thi học sinh giỏi cấp thành phố; là học sinh trường chuyên | Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với học bạ; điểm SAT, ACT, A-Level hoặc điểm thi tốt nghiệp THPT | Xét tuyển kết quả thi tốt nghiệp THPT | Sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội, Đại học Quốc gia TP HCM | Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo }
-Đại học Sư phạm Hà Nội 2, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ha-noi-2-462, SP2, Vĩnh Phúc, None, None
-Đại Học Sư Phạm Nghệ Thuật Trung Ương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-nghe-thuat-trung-uong-379, GNT, Hà Nội, None, None
-Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-the-duc-the-thao-ha-noi-434, TDH, Hà Nội, None, None
-Đại học Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-vinh-246, TDV, Nghệ An, None, None
-Đại học Đà Lạt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-da-lat-207, TDL, Lâm Đồng, None, None
-Đại học Đồng Tháp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dong-thap-248, SPD, Đồng Tháp, None, None
-Đại học Kiên Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kien-giang-496, TKG, Kiên Giang, None, None
-Đại học Nha Trang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nha-trang-330, TSN, Khánh Hòa, Tổng chỉ tiêu: 3.600, { Tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo | Căn cứ kết quả thi đánh giá năng lực của Đại học Quốc gia TP HCM, Đại học Quốc gia Hà Nội | Xét học bạ ba năm THPT | Dựa vào điểm thi tốt nghiệp THPT 2023 }
-Đại học Quy Nhơn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quy-nhon-465, DQN, Bình Định, None, None
-Đại học Sư phạm Kỹ thuật Hưng Yên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-hung-yen-205, SKH, Hưng Yên, None, None
-Đại học Tây Bắc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tay-bac-250, TTB, Sơn La, None, None
-Đại học Tây Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tay-nguyen-453, TTN, Đắk Lắk, None, None
-Đại học Việt Đức, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-viet-duc-295, VGU, Bình Dương, None, None
-Học viện Y Dược học cổ truyền Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-390, HYD, Hà Nội, None, None
-Đại học Y Dược Hải Phòng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-hai-phong-321, YPB, Hải Phòng, None, None
-Đại học Điều Dưỡng Nam Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dieu-duong-nam-dinh-324, YDD, Nam Định, None, None
-Đại học Kỹ thuật Y Dược Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-y-duoc-da-nang-315, YDN, Đà Nẵng, None, None
-Học Viện Âm Nhạc Quốc Gia Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-am-nhac-quoc-gia-viet-nam-407, NVH, Hà Nội, None, None
-Đại học Văn hóa Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hoa-ha-noi-428, VHH, Hà Nội, None, None
-Đại học Mỹ Thuật Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-my-thuat-viet-nam-403, MTH, Hà Nội, None, None
-Đại Học Sân Khấu Điện Ảnh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-san-khau-dien-anh-422, SKD, Hà Nội, None, None
-Đại học Mỹ Thuật TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-my-thuat-tp-hcm-276, MTS, TP HCM, None, None
-Đại học Thể dục Thể thao TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-the-duc-the-thao-tp-hcm-305, TDS, TP HCM, None, None
-Đại học Tài nguyên và Môi trường TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-nguyen-va-moi-truong-tp-hcm-262, DTM, TP HCM, None, None
-Học Viện Âm Nhạc Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-am-nhac-hue-219, HVA, Huế, None, None
-Đại Học Thể Dục Thể Thao Bắc Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-the-duc-the-thao-bac-ninh-460, TDB, Bắc Ninh, None, None
-Đại học Điện lực, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dien-luc-358, DDL, Hà Nội, Tổng chỉ tiêu: 3.650, { Xét học bạ năm học kỳ THPT (trừ kỳ II lớp 12). | Xét kết quả thi tốt nghiệp THPT 2023. | Xét kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội. | Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo. }
-Đại học Công nghệ TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-tp-hcm-256, DKC, TP HCM, Tổng chỉ tiêu: 9.900, { Xét tuyển kết quả thi tốt nghiệp THPT 2023 | Sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP HCM | Xét học bạ (lớp 12 hoặc lớp 11 và kỳ I lớp 12) }
-Đại học Công Nghiệp Quảng Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-quang-ninh-337, DDM, Quảng Ninh, None, None
-Đại Học Công Nghiệp Việt Trì, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-viet-tri-437, VUI, Phú Thọ, None, None
-Đại học Xây dựng Miền Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-xay-dung-mien-trung-201, XDT, Phú Yên, None, None
-Đại Học Lao động – Xã hội ( Cơ sở Sơn Tây ), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lao-dong-xa-hoi-co-so-son-tay-364, DLT, Hà Nội, None, None
-Đại Học Sư Phạm Kỹ Thuật Nam Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-nam-dinh-323, SKN, Nam Định, None, None
-Học viện Nông nghiệp Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-nong-nghiep-viet-nam-488, HVN, Hà Nội, Tổng chỉ tiêu: 3.000, { Nhập từng phương thức | Hết một cái bấm enter xuống dòng | Hệ thống sẽ tự động hiển thị số 1, 2, 3 khi lên trang ạ }
-Đại học Lâm nghiệp (Cơ sở 1), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lam-nghiep-co-so-1-398, LNH, Hà Nội, None, None
-Đại Học Thủy Lợi ( Cơ sở 2 ), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thuy-loi-co-so-2-292, TLS, TP HCM, Tổng chỉ tiêu: 5.500, { Xét học bạ | Căn cứ kết quả thi tốt nghiệp THPT 2023 | Xét tuyển thí sinh thi đánh giá tư duy năm 2023 của Đại học Bách khoa Hà Nội | Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo | Ưu tiên xét tuyển kết hợp học bạ với thí sinh: đạt giải học sinh giỏi cấp tỉnh trở lên, là học sinh trường chuyên, học lực giỏi ba năm THPT, đạt chứng chỉ tiếng Anh quốc tế }
-Đại học Nông Lâm Bắc Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-bac-giang-316, DBG, Bắc Giang, None, None
-Đại học Tài chính Marketing, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-marketing-258, DMS, TP HCM, None, None
-Đại học Tài Chính Kế Toán, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-ke-toan-345, DKQ, Quảng Ngãi, None, None
-Học viện Thanh Thiếu Niên Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-thanh-thieu-nien-viet-nam-388, HTN, Hà Nội, None, None
-Học viện Ngoại giao, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ngoai-giao-386, HQT, Hà Nội, None, None
-Học Viện Hành Chính Quốc Gia (phía Nam), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-hanh-chinh-quoc-gia-phia-nam-268, HCS, TP HCM, None, None
-Học viện Công nghệ Bưu chính Viễn thông (phía Nam), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam-252, BVS, TP HCM, Tổng chỉ tiêu: 4.280, { Xét tuyển bằng điểm thi tốt nghiệp THPT 2023 | Sử dụng kết quả thi đánh giá năng lực, tư duy | Xét tuyển theo đề án riêng với thí sinh có các chứng chỉ SAT, ACT, IELTS và tương đương; đạt giải học sinh cấp tỉnh trở lên }
-Đại học Luật Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luat-ha-noi-399, LPH, Hà Nội, None, None
-Học viện Ngân hàng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ngan-hang-405, NHH, Hà Nội, Tổng chỉ tiêu: 3.300, { Xét tuyển thẳng. | Xét tuyển dựa vào kết quả học tập bậc THPT. | Xét tuyển dựa vào chứng chỉ quốc tế. | Xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực. | Xét tuyển dựa vào kết quả thi tốt nghiệp THPT. }
-Đại học Công Nghiệp Dệt May Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-det-may-ha-noi-352, CCM, Hà Nội, None, None
-Học viện Tòa án, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-toa-an-486, HTA, Hà Nội, None, None
-Đại học Công đoàn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-doan-397, LDA, Hà Nội, None, None
-Học viện Phụ nữ Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-phu-nu-viet-nam-485, HPN, Hà Nội, None, None
-Học viện Cảnh sát nhân dân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-canh-sat-nhan-dan-353, CSH, Hà Nội, None, None
-Đại học Khoa Học Và Công Nghệ Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi-391, KCN, None, None
-Đại học Kiểm sát Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kiem-sat-ha-noi-363, DKS, Hà Nội, None, None
-Đại học Thủ Đô Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thu-do-ha-noi-385, HNM, Hà Nội, None, None
-Học viện Cán bộ TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-can-bo-tp-hcm-487, HVC, TP HCM, None, None
-Đại học Bạc Liêu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bac-lieu-449, DBL, Bạc Liêu, None, None
-Đại học Thủ Dầu Một, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thu-dau-mot-447, TDM, Bình Dương, None, None
-Đại học Hà Tĩnh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ha-tinh-240, HHT, Hà Tĩnh, None, None
-Đại học Khánh Hòa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khanh-hoa-497, UKH, Khánh Hòa, None, None
-Đại học Kinh Tế Nghệ An, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-nghe-an-242, CEA, Nghệ An, None, None
-Đại học Y Khoa Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-khoa-vinh-247, YKV, Nghệ An, None, None
-Đại học Hoa Lư, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hoa-lu-241, DNB, Ninh Bình, None, None
-Đại học Hùng Vương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hung-vuong-436, THV, Phú Thọ, None, None
-Đại Học Quảng Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-binh-339, DQB, Quảng Bình, None, None
-Đại học Quảng Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-nam-237, DQU, Quảng Nam, None, None
-Đại học Thái Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thai-binh-238, DTB, Thái Bình, None, None
-Đại học Hồng Đức, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hong-duc-341, HDT, Thanh Hóa, None, None
-Đại học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-340, DVD, Thanh Hóa, None, None
-Đại học Tiền Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tien-giang-347, TTG, Tiền Giang, None, None
-Đại học Trà Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tra-vinh-317, DVT, Trà Vinh, None, None
-Đại học Tân Trào, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tan-trao-464, TQU, Tuyên Quang, None, None
-Đại Học Đông Đô, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dong-do-360, DDU, Hà Nội, None, None
-Đại Học FPT, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-fpt-377, FPT, Hà Nội, None, None
-Đại học Kinh doanh và Công nghệ Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-doanh-va-cong-nghe-ha-noi-371, DQK, Hà Nội, None, None
-Đại học Nguyễn Trãi, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nguyen-trai-406, NTU, Hà Nội, None, None
-Đại học Phenikaa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phenikaa-372, DTA, Hà Nội, None, None
-Đại học Tài Chính Ngân Hàng Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-ngan-hang-ha-noi-376, FBU, Hà Nội, None, None
-Đại học Thăng Long, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thang-long-373, DTL, Hà Nội, None, None
-Đại học Võ Trường Toản, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-vo-truong-toan-202, VTT, Hậu Giang, None, None
-Đại học Hoa Sen, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hoa-sen-261, HSU, TP HCM, None, None
-Đại học Hùng Vương TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hung-vuong-tp-hcm-477, DHV, TP HCM, None, None
-Đại học Ngoại ngữ - Tin học TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-tin-hoc-tp-hcm-259, DNT, TP HCM, None, None
-Đại học Nguyễn Tất Thành, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nguyen-tat-thanh-280, NTT, TP HCM, None, None
-Đại học Quốc tế Hồng Bàng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-hong-bang-270, HIU, TP HCM, None, None
-Đại học Văn Hiến, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hien-264, DVH, TP HCM, None, None
-Đại học Văn Lang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-lang-265, DVL, TP HCM, None, None
-Đại học Bà Rịa Vũng Tàu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ba-ria-vung-tau-435, BVU, Bà Rịa- Vũng Tàu, None, None
-Đại học Công Nghệ Đông Á, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-dong-a-455, DDA, Hà Nội, None, None
-Đại học Kinh Bắc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-bac-459, UKB, Bắc Ninh, None, None
-Đại Học Quốc Tế Bắc Hà, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-bac-ha-354, DBH, Hà Nội, None, None
-Đại học Kinh tế Kỹ thuật Bình Dương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-ky-thuat-binh-duong-444, DKB, Bình Dương, None, None
-Đại học Quang Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-trung-466, DQT, Bình Định, None, None
-Đại học Phan Thiết, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phan-thiet-249, DPT, Bình Thuận, None, None
-Đại học Nam Cần Thơ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nam-can-tho-231, DNC, Cần Thơ, None, None
-Đại học Công nghệ Miền Đông, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-mien-dong-478, DMD, Hà Nội, None, None
-Đại học Lạc Hồng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lac-hong-439, DLH, Đồng Nai, None, None
-Đại Học Hà Hoa Tiên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ha-hoa-tien-332, DHH, Hà Nam, None, None
-Đại Học Thành Đông, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thanh-dong-333, DDB, Hải Dương, None, None
-Đại học Yersin Đà Lạt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-yersin-da-lat-206, DYD, Lâm Đồng, None, None
-Đại học Tân Tạo, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tan-tao-452, TTU, Long An, None, None
-Đại Học Lương Thế Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luong-the-vinh-322, DTV, Nam Định, None, None
-Đại học Công nghiệp Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-vinh-243, DCV, Nghệ An, None, None
-Đại học Phan Châu Trinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phan-chau-trinh-236, DPC, Quảng Nam, None, None
-Đại học Dân Lập Phú Xuân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dan-lap-phu-xuan-216, DPX, Huế, None, None
-Đại học Cửu Long, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cuu-long-342, DCL, Vĩnh Long, None, None
-Học viện Biên Phòng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-bien-phong-350, BPH, Hà Nội, None, None
-Học viện Hậu Cần - Hệ Quân sự, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-hau-can-he-quan-su-482, HEH, Hà Nội, None, None
-Học viện Khoa Học Quân Sự - Hệ Quân sự, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-khoa-hoc-quan-su-he-quan-su-495, NQH, Hà Nội, None, None
-Học viện Kỹ thuật mật mã, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ky-thuat-mat-ma-393, KMA, Hà Nội, None, None
-Trường Sĩ Quan Phòng Hóa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-phong-hoa-384, HGH, Hà Nội, None, None
-Trường Sĩ Quan Đặc Công, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-dac-cong-355, DCH, Hà Nội, None, None
-Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-441, LBH, Đồng Nai, None, None
-Trường Sĩ Quan Không Quân - Hệ Đại học, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-khong-quan-he-dai-hoc-327, KGH, Khánh Hòa, None, None
-Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-446, SNH, Bình Dương, None, None
-Học viện An Ninh Nhân Dân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-an-ninh-nhan-dan-348, ANH, Hà Nội, None, None
-Học viện Chính Trị Công An Nhân Dân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-chinh-tri-cong-an-nhan-dan-481, HCA, Hà Nội, None, None
-Học viện quốc tế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-quoc-te-508, AIS, None, None
-Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Bắc ), https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-bac-456, HCB, Bắc Ninh, None, None
-Đại học An Ninh Nhân Dân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-an-ninh-nhan-dan-251, ANS, Hà Nội, None, None
-Đại học Dầu khí Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dau-khi-viet-nam-412, PVU, Bà Rịa- Vũng Tàu, None, None
-Viện Nghiên cứu và Đào tạo Việt - Anh - Đại học Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang-476, DDV, Đà Nẵng, None, None
-Cao Đẳng Kinh Tế – Kỹ Thuật – Đại Học Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-dai-hoc-thai-nguyen-29, DTU, Thái Nguyên, None, None
-Cao Đẳng Công Nghiệp Quốc Phòng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-quoc-phong-171, QPH, Phú Thọ, None, None
-Cao Đẳng Công Nghệ Và Kỹ Thuật Ô Tô, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-ky-thuat-o-to-151, COT, Hà Nội, None, None
-Cao Đẳng An Ninh Nhân Dân 1, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-an-ninh-nhan-dan-1-467, AD1, Hà Nội, None, None
-Cao Đẳng Xây Dựng Số 2, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-so-2-81, CXS, TP HCM, None, None
-Cao Đẳng Kỹ Thuật Cao Thắng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cao-thang-71, CKC, TP HCM, None, None
-Cao Đẳng Sư Phạm Bà Rịa – Vũng Tàu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ba-ria-vung-tau-159, C52, Bà Rịa- Vũng Tàu, None, None
-Cao Đẳng Sư Phạm Bắc Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-bac-ninh-187, C19, Bắc Ninh, None, None
-Cao Đẳng Sư Phạm Cao Bằng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-cao-bang-95, C06, Cao Bằng, None, None
-Cao Đẳng Sư Phạm Điện Biên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-dien-bien-177, C62, Điện Biên, None, None
-Cao Đẳng Sư Phạm Gia Lai, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-gia-lai-20, C38, Gia Lai, None, None
-Cao Đẳng Sư Phạm Hòa Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-hoa-binh-17, C23, Hòa Bình, None, None
-Cao Đẳng Sư Phạm Kiên Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-kien-giang-163, C54, Kiên Giang, None, None
-Cao Đẳng Sư Phạm Lạng Sơn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-lang-son-196, C10, Lạng Sơn, None, None
-Cao Đẳng Sư Phạm Long An, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-long-an-180, C49, Long An, None, None
-Cao Đẳng Sư Phạm Nam Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-nam-dinh-106, C25, Nam Định, None, None
-Cao Đẳng Sư Phạm Nghệ An, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-nghe-an-48, C29, Nghệ An, None, None
-Cao Đẳng Sư Phạm Quảng Trị, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-quang-tri-2, C32, Quảng Trị, None, None
-Cao Đẳng Sư Phạm Tây Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tay-ninh-47, C46, Tây Ninh, None, None
-Cao Đẳng Sư Phạm Thái Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thai-binh-41, C26, Thái Bình, None, None
-Cao Đẳng Sư Phạm Thừa Thiên Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thua-thien-hue-14, C33, Huế, None, None
-Cao Đẳng Sư Phạm Trung Ương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-trung-uong-146, CM1, Hà Nội, None, None
-Cao Đẳng Sư Phạm TW Nha Trang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tw-nha-trang-111, CM2, Khánh Hòa, None, None
-Cao Đẳng Sư Phạm Trung Ương TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-trung-uong-tp-hcm-75, CM3, TP HCM, None, None
-Cao Đẳng Sư Phạm Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thai-nguyen-21, C12, Thái Nguyên, None, None
-Cao Đẳng Sư Phạm Yên Bái, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-yen-bai-58, C13, Yên Bái, None, None
-Cao Đẳng Cộng Đồng Bắc Kạn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-bac-kan-194, C11, Bắc Kạn, None, None
-Cao Đẳng Bến Tre, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ben-tre-160, C56, Bến Tre, None, None
-Cao Đẳng Bình Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-binh-dinh-197, C37, Bình Định, None, None
-Cao Đẳng Sư Phạm Bình Phước, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-binh-phuoc-182, C43, Bình Phước, None, None
-Cao Đẳng Cần Thơ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-can-tho-31, C55, Cần Thơ, None, None
-Cao Đẳng Cộng Đồng Cà Mau, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ca-mau-105, D61, Cà Mau, None, None
-Cao Đẳng Cộng Đồng Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ha-noi-143, CHN, Hà Nội, None, None
-Cao Đẳng Cộng Đồng Hậu Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-hau-giang-4, D64, Hậu Giang, None, None
-Cao Đẳng Cộng Đồng Đồng Tháp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-dong-thap-53, D50, Đồng Tháp, None, None
-Cao Đẳng Cộng Đồng Lai Châu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-lai-chau-1, CLC, Lai Châu, None, None
-Cao Đẳng Cộng Đồng Sóc Trăng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-soc-trang-162, CST, Sóc Trăng, None, None
-Cao Đẳng Sư Phạm Đà Lạt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-da-lat-10, C42, Lâm Đồng, None, None
-Cao Đẳng Sư Phạm Ngô Gia Tự Bắc Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ngo-gia-tu-bac-giang-96, C18, Bắc Giang, None, None
-Cao Đẳng Sơn La, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-son-la-56, C14, Sơn La, None, None
-Cao Đẳng Cộng Đồng Vĩnh Long, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-vinh-long-130, D57, Vĩnh Long, None, None
-Cao Đẳng Sư Phạm Vĩnh Phúc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-vinh-phuc-191, C16, Vĩnh Phúc, None, None
-Cao Đẳng Đại Việt Sài Gòn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dai-viet-sai-gon-473, CSG, Hà Nội, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Điện Biên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-dien-bien-178, CDB, Điện Biên, None, None
-Cao Đẳng Y Tế Sơn La, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-son-la-57, YSL, Sơn La, None, None
-Cao Đẳng Y Tế Phú Thọ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-phu-tho-170, CYP, Phú Thọ, None, None
-Cao Đẳng Y Tế Quảng Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-quang-ninh-125, CYQ, Quảng Ninh, None, None
-Cao Đẳng Y Tế Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thai-nguyen-28, CYI, Thái Nguyên, None, None
-Cao Đẳng Y Tế Ninh Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ninh-binh-46, CNY, Ninh Bình, None, None
-Cao Đẳng Y Tế Bạch Mai, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-bach-mai-469, CBM, Hà Nội, None, None
-Cao Đẳng Y Tế Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hue-16, CYY, Huế, None, None
-Cao Đẳng Y Tế Hà Đông, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-dong-155, CYM, Hà Nội, None, None
-Cao Đẳng Y Tế Hà Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-nam-116, CYH, Hà Nam, None, None
-Cao Đẳng Y Tế Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-noi-156, CYZ, Hà Nội, None, None
-Cao Đẳng Y Tế Bình Dương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-duong-176, CBY, Bình Dương, None, None
-Cao Đẳng Y Tế Hải Phòng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hai-phong-101, CYF, Hải Phòng, None, None
-Cao Đẳng Y Tế Hưng Yên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hung-yen-8, CHY, Hưng Yên, None, None
-Cao Đẳng Y Tế Lâm Đồng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-lam-dong-13, CLY, Lâm Đồng, None, None
-Cao Đẳng Y Tế Thái Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thai-binh-42, CYE, Thái Bình, None, None
-Cao Đẳng Y Tế Hà Tĩnh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-tinh-44, CYN, Hà Tĩnh, None, None
-Cao Đẳng Y Tế Thanh Hóa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thanh-hoa-127, CYT, Thanh Hóa, None, None
-Cao Đẳng Y Tế Bình Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-dinh-198, CYR, Bình Định, None, None
-Cao Đẳng Y Tế Khánh Hòa, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-khanh-hoa-112, CYK, Khánh Hòa, None, None
-Cao Đẳng Y Tế Quảng Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-quang-nam-40, CYU, Quảng Nam, None, None
-Cao Đẳng Y Tế Đồng Nai, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-dong-nai-173, CYD, Đồng Nai, None, None
-Cao Đẳng Y Tế Bạc Liêu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-bac-lieu-179, CYB, Bạc Liêu, None, None
-Cao Đẳng Y Tế Cà Mau, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ca-mau-104, CMY, Cà Mau, None, None
-Cao Đẳng Y Tế Cần Thơ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-can-tho-34, CYC, Cần Thơ, None, None
-Cao Đẳng Y Tế Đồng Tháp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-dong-thap-52, CYA, Đồng Tháp, None, None
-Cao Đẳng Y Tế Tiền Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-tien-giang-133, CYV, Tiền Giang, None, None
-Cao Đẳng Y Tế Trà Vinh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-tra-vinh-98, YTV, Trà Vinh, None, None
-Cao Đẳng Cơ Khí Luyện Kim, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-co-khi-luyen-kim-24, CKL, Thái Nguyên, None, None
-Cao Đẳng Công Nghệ và Kinh Tế Công Nghiệp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-cong-nghiep-27, CXD, Thái Nguyên, None, None
-Cao Đẳng Công Nghiệp Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-thai-nguyen-22, CCB, Thái Nguyên, None, None
-Cao Đẳng Công Nghiệp Thực Phẩm, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-thuc-pham-169, CTP, Phú Thọ, None, None
-Cao Đẳng Công Nghiệp và Xây Dựng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-va-xay-dung-122, CCX, Quảng Ninh, None, None
-Cao Đẳng Công Nghiệp Việt Đức, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-viet-duc-23, CCV, Thái Nguyên, None, None
-Cao Đẳng Kinh Tế – Tài Chính Thái Nguyên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-tai-chinh-thai-nguyen-25, CKT, Thái Nguyên, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Phú Thọ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-phu-tho-168, CPP, Phú Thọ, None, None
-Cao Đẳng Kỹ Thuật Công Nghiệp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghiep-97, CCE, Bắc Giang, None, None
-Cao Đẳng Nông Lâm Đông Bắc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-lam-dong-bac-123, CDP, Quảng Ninh, None, None
-Cao Đẳng Thương Mại và Du Lịch, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-va-du-lich-26, CTM, Thái Nguyên, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật và Du Lịch Hạ Long, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-va-du-lich-ha-long-124, CVD, Quảng Ninh, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật Việt Bắc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-viet-bac-30, CNV, Thái Nguyên, None, None
-Cao Đẳng Cộng Đồng Hà Tây, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ha-tay-157, D20, Hà Nội, None, None
-Cao Đẳng Cộng Đồng Hải Phòng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-hai-phong-102, D03, Hải Phòng, None, None
-Cao Đẳng Công Nghệ Và Kinh Tế Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-ha-noi-142, CHK, Hà Nội, None, None
-Cao Đẳng Công Nghệ Viettronics, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-viettronics-100, CVT, Hải Phòng, None, None
-Cao Đẳng Công Nghiệp Hưng Yên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-hung-yen-7, CCY, Hưng Yên, None, None
-Cao Đẳng Công Nghiệp Nam Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-nam-dinh-107, CND, Nam Định, None, None
-Cao Đẳng Công Nghệ và Thương Mại Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-thuong-mai-ha-noi-135, CBT, Hà Nội, None, None
-Cao Đẳng Điện Tử - Điện Lạnh Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-tu-dien-lanh-ha-noi-145, CLH, Hà Nội, None, None
-Cao Đẳng Du Lịch Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-du-lich-ha-noi-138, CDH, Hà Nội, None, None
-Cao Đẳng Dược Trung Ương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-duoc-trung-uong-119, CYS, Hải Dương, None, None
-Cao Đẳng Hàng Hải I, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hang-hai-i-99, CHH, Hải Phòng, None, None
-Cao Đẳng Kinh Tế – Kỹ Thuật Thương Mại, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-thuong-mai-152, CTH, Hà Nội, None, None
-Cao Đẳng Kinh Tế - Kỹ Thuật Trung Ương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-trung-uong-153, CTW, Hà Nội, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Vĩnh Phúc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-vinh-phuc-192, CKA, Vĩnh Phúc, None, None
-Cao Đẳng Kinh Tế Công Nghiệp Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-cong-nghiep-ha-noi-137, CCK, Hà Nội, None, None
-Cao Đẳng Thủy Sản, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuy-san-189, CSB, Bắc Ninh, None, None
-Cao Đẳng Múa Việt Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-mua-viet-nam-158, CMH, Hà Nội, None, None
-Cao Đẳng Nghệ Thuật Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nghe-thuat-ha-noi-150, CNT, Hà Nội, None, None
-Cao Đẳng Nông Nghiệp và Phát Triển Nông Thôn Bắc Bộ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-nghiep-va-phat-trien-nong-thon-bac-bo-149, CNP, Hà Nội, None, None
-Cao Đẳng Phát Thanh Truyền Hình I, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phat-thanh-truyen-hinh-i-114, CPT, Hà Nam, None, None
-Cao Đẳng Thống Kê, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thong-ke-190, CTE, Bắc Ninh, None, None
-Cao đẳng Công Nghệ Thông Tin TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thong-tin-tp-hcm-472, CDC, Hà Nội, None, None
-Cao Đẳng Thương Mại Và Du Lịch Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-va-du-lich-ha-noi-147, CMD, Hà Nội, None, None
-Cao Đẳng Thủy Lợi Bắc Bộ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuy-loi-bac-bo-115, CTL, Hà Nam, None, None
-Cao Đẳng Truyền Hình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-truyen-hinh-140, CDT0131, Hà Nội, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật Thái Bình, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-thai-binh-43, CNB, Thái Bình, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật Du Lịch Yên Bái, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-du-lich-yen-bai-59, CVY, Yên Bái, None, None
-Cao Đẳng Xây Dựng Công Trình Đô Thị, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-cong-trinh-do-thi-139, CDT, Hà Nội, None, None
-Cao Đẳng Xây Dựng Nam Định, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-nam-dinh-108, CXN, Nam Định, None, None
-Cao Đẳng Xây Dựng Số 1, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-so-1-154, CXH, Hà Nội, None, None
-Cao Đẳng Công Nghiệp Huế, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-hue-15, CCH, Huế, None, None
-Cao Đẳng Giao Thông Vận Tải II, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-ii-85, CGD, Đà Nẵng, None, None
-Cao Đẳng Giao Thông Vận Tải Miền Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-mien-trung-49, CGN, Nghệ An, None, None
-Cao Đẳng Tài Nguyên và Môi Trường Miền Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-tai-nguyen-va-moi-truong-mien-trung-126, CMM, Thanh Hóa, None, None
-Cao Đẳng Kỹ Thuật Công Nghiệp Quảng Ngãi, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghiep-quang-ngai-131, CCQ, Quảng Ngãi, None, None
-Cao đẳng Văn Hóa, Thể Thao Và Du Lịch Nguyễn Du, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-the-thao-va-du-lich-nguyen-du-45, CVH, Hà Tĩnh, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật Nghệ An, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-nghe-an-51, CVV, Nghệ An, None, None
-Cao Đẳng Y Tế Bình Thuận, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-thuan-55, CYX, Bình Thuận, None, None
-Cao Đẳng Công Nghệ Kinh Tế Và Thủy Lợi Miền Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-kinh-te-va-thuy-loi-mien-trung-36, CEM, Quảng Nam, None, None
-Cao Đẳng Điện Lực Miền Trung, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-luc-mien-trung-38, CLD, Quảng Nam, None, None
-Cao Đẳng Kinh Tế – Kế Hoạch Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ke-hoach-da-nang-88, CKK, Đà Nẵng, None, None
-Cao Đẳng Kỹ Thuật-Công Nghệ Vạn Xuân, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghe-van-xuan-80, CVX, TP HCM, None, None
-Cao Đẳng Lương Thực Thực Phẩm, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-luong-thuc-thuc-pham-89, CLT, Đà Nẵng, None, None
-Cao Đẳng Thương Mại, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-91, CMS, Đà Nẵng, None, None
-Cao Đẳng Công Nghệ Và Kinh Tế Bảo Lộc, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-bao-loc-11, CBL, Lâm Đồng, None, None
-Cao Đẳng Sư Phạm Kon Tum, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-kon-tum-185, C36, Kon Tum, None, None
-Cao Đẳng Bách Khoa Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-khoa-da-nang-87, CKB, Đà Nẵng, None, None
-Cao Đẳng Công Nghệ Thủ Đức, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thu-duc-62, CCO, TP HCM, None, None
-Cao Đẳng Công Nghiệp Cao Su, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-cao-su-183, CSC, Bình Phước, None, None
-Cao Đẳng Công Thương TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-thuong-tp-hcm-67, CES, TP HCM, None, None
-Cao Đẳng Điện Lực TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-luc-tp-hcm-64, CDE, TP HCM, None, None
-Cao Đẳng Giao Thông Vận Tải TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-tp-hcm-70, CGT, TP HCM, None, None
-Cao Đẳng Kinh Tế-Công Nghệ TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-cong-nghe-tp-hcm-68, CET, TP HCM, None, None
-Cao Đẳng Kinh Tế Đối Ngoại, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-doi-ngoai-72, CKD, TP HCM, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-tp-hcm-76, CPL, TP HCM, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Vinatex TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-vinatex-tp-hcm-63, CCS, TP HCM, None, None
-Cao Đẳng Kinh Tế TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-tp-hcm-66, CEP, TP HCM, None, None
-Cao Đẳng Kỹ Thuật Lý Tự Trọng TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-ly-tu-trong-tp-hcm-74, CKP, TP HCM, None, None
-Cao Đẳng Mỹ Thuật Trang Trí Đồng Nai, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-my-thuat-trang-tri-dong-nai-174, CDN, Đồng Nai, None, None
-Cao Đẳng Phát Thanh Truyền Hình II, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phat-thanh-truyen-hinh-ii-77, CPS, TP HCM, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật TP HCM, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-tp-hcm-82, CVN, TP HCM, None, None
-Cao Đẳng Cơ Điện Và Nông Nghiệp Nam Bộ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-co-dien-va-nong-nghiep-nam-bo-33, CEN, Cần Thơ, None, None
-Cao Đẳng Cộng Đồng Kiên Giang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-kien-giang-165, D54, Kiên Giang, None, None
-Cao Đẳng Kinh Tế – Kỹ Thuật Cần Thơ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-can-tho-32, CEC, Cần Thơ, None, None
-Cao Đẳng Nông Nghiệp Nam Bộ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-nghiep-nam-bo-132, CNN, Tiền Giang, None, None
-Cao Đẳng Asean, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-asean-9, CSA, Hưng Yên, None, None
-Cao Đẳng Lạc Việt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-lac-viet-90, CLV, Đà Nẵng, None, None
-Cao Đẳng Bách Khoa Hưng Yên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-khoa-hung-yen-6, CBK, Hưng Yên, None, None
-Cao Đẳng Bách Việt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-viet-61, CBV, TP HCM, None, None
-Cao Đẳng Bán Công Công Nghệ và Quản Trị Doanh Nghiệp, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ban-cong-cong-nghe-va-quan-tri-doanh-nghiep-60, CBC, TP HCM, None, None
-Cao Đẳng Công Nghệ Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-ha-noi-148, CNH, Hà Nội, None, None
-Cao Đẳng Công Nghệ và Quản Trị Sonadezi, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-quan-tri-sonadezi-172, CDS, Đồng Nai, None, None
-Cao Đẳng Đại Việt, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dai-viet-141, CEO, Hà Nội, None, None
-Cao Đẳng Hoan Châu, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hoan-chau-50, CNA, Nghệ An, None, None
-Cao Đẳng Kinh Tế – Kỹ Thuật Hà Nội, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-ha-noi-144, CKN, Hà Nội, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Miền Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-mien-nam-73, CKM, TP HCM, None, None
-Cao Đẳng Ngoại Ngữ – Công Nghệ Việt Nhật, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ngoai-ngu-cong-nghe-viet-nhat-188, CNC, Bắc Ninh, None, None
-Cao Đẳng Phương Đông – Đà Nẵng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phuong-dong-da-nang-92, CPN, Đà Nẵng, None, None
-Cao Đẳng Phương Đông -Quảng Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phuong-dong-quang-nam-39, CPD, Quảng Nam, None, None
-Cao Đẳng Tư Thục Đức Trí, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-tu-thuc-duc-tri-84, CDA, Đà Nẵng, None, None
-Cao Đẳng An Ninh Nhân Dân 2, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-an-ninh-nhan-dan-2-468, AD2, Hà Nội, None, None
-Cao Đẳng Dược Phú Thọ, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-duoc-phu-tho-167, CDU, Phú Thọ, None, None
-Cao Đẳng Công Nghệ và Kinh Doanh Việt Tiến, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-doanh-viet-tien-83, CCZ, Đà Nẵng, None, None
-Cao Đẳng Sư Phạm Hưng Yên, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-hung-yen-5, C22, Hưng Yên, None, None
-Cao Đẳng Sư Phạm Lào Cai, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-lao-cai-18, C08, Lào Cai, None, None
-Cao Đẳng Công Nghệ Thông Tin Hữu Nghị Việt Hàn, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thong-tin-huu-nghi-viet-han-86, CHV, Đà Nẵng, None, None
-Trường Sĩ Quan Không Quân - Hệ Cao đẳng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-khong-quan-he-cao-dang-326, KGC, Khánh Hòa, None, None
-Cao Đẳng Hải Dương, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hai-duong-117, C21, Hải Dương, None, None
-Cao Đẳng Sư Phạm Quảng Ninh, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-quang-ninh-120, C17, Quảng Ninh, None, None
-Cao Đẳng Sư Phạm Hà Nam, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ha-nam-113, C24, Hà Nam, None, None
-Cao Đẳng Sư Phạm Tuyên Quang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tuyen-quang-195, C09, Tuyên Quang, None, None
-Cao Đẳng Kinh Tế Kỹ Thuật Lâm Đồng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-lam-dong-12, CKZ, Lâm Đồng, None, None
-Cao Đẳng Giao Thông Vận Tải 3, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-3-69, CGS, TP HCM, None, None
-Cao Đẳng Văn Hóa Nghệ Thuật và Du Lịch Nha Trang, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-va-du-lich-nha-trang-110, CDK, Khánh Hòa, None, None
-Cao Đẳng Sư Phạm Ninh Thuận, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ninh-thuan-181, C45, Ninh Thuận, None, None
-Cao Đẳng Sư Phạm Sóc Trăng, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-soc-trang-161, C59, Sóc Trăng, None, None
-Cao Đẳng Sư Phạm Cà Mau, https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ca-mau-103, C61, Cà Mau, None, None
+Name,URL,Code,Location,Total,Methods
+Trường Quốc Tế - Đại học Quốc Gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-quoc-te-dai-hoc-quoc-gia-ha-noi-417,QHQ,Hà Nội,Tổng chỉ tiêu: 2,"{ Xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo và quy định của Đại học Quốc gia Hà Nội. | Xét tuyển điểm thi Đánh giá năng lực (HSA) do Đại học Quốc gia Hà Nội tổ chức. | Xét tuyển theo kết quả kỳ thi tốt nghiệp THPT năm 2023. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp. | Xét kết quả A-Level,SAT,ACT,IB (bằng Tú tài quốc tế International Baccalaureate). }"
+Đại học Công nghệ - Đại học Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-415,QHI,Hà Nội,Tổng chỉ tiêu: 1.850,"{ Xét tuyển thẳng. | Xét tuyển dựa vào kết quả thi tốt nghiệp THPT. | Dựa vào kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế. | Xét kết hợp chứng chỉ quốc tế và điểm thi tốt nghiệp THPT. | Xét thí sinh diện dự bị đại học. }"
+Đại học Giáo dục - Đại học Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi-418,QHS,Hà Nội,None,None
+Đại học Kinh Tế - Đại học Quốc Gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi-413,QHE,Hà Nội,Tổng chỉ tiêu: 2,"{ Phương thức xét tuyển kết quả thi tốt nghiệp THPT năm 2023. | Xét tuyển theo kết quả thi ĐGNL học sinh bậc THPT do Đại học Quốc gia Hà Nội tổ chức năm 2023. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả học tập bậc THPT và kết hợp phỏng vấn. | Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả thi tốt nghiệp THPT năm 2023. | Xét tuyển thẳng theo quy chế tuyển sinh của Bộ Giáo dục và Đào tạo. | Xét tuyển thẳng theo quy định của Đại học Quốc gia Hà Nội. | Ưu tiên xét tuyển theo quy chế của Bộ Giáo dục và Đào tạo và theo Quy định của Đại học Quốc gia Hà Nội. | Xét tuyển chứng chỉ quốc tế khác như SAT,ACT,A-level. | Xét tuyển thí sinh thuộc các trường dự bị đại học. | Xét tuyển sinh viên quốc tế. | Tuyển sinh ngành Quản trị Kinh doanh dành cho các tài năng thể thao. }"
+Đại học Khoa học tự nhiên - Đại học Quốc Gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-419,QHT,Hà Nội,Tổng chỉ tiêu: 1.800,"{ Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo và đề án của trường. | Xét kết quả thi tốt nghiệp THPT. | Xét kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế. | Kết hợp điểm thi tốt nghiệp THPT và chứng chỉ quốc tế. }"
+Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi-420,QHX,Hà Nội,Tổng chỉ tiêu: 2.000,"{ Xét tuyển thẳng. | Xét kết quả thi đánh giá năng lực. | Xét chứng chỉ quốc tế,kết hợp điểm thi tốt nghiệp THPT với chứng chỉ quốc tế. | Xét kết quả thi tốt nghiệp THPT. }"
+Đại học Ngoại ngữ - Đại học Quốc Gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi-414,QHF,Hà Nội,Tổng chỉ tiêu: 1.650,"{ Xét tuyển thẳng với thí sinh có giải quốc gia,quốc tế,là học sinh trường chuyên; theo quy định của Bộ Giáo dục và Đào tạo | Xét tuyển chứng chỉ ngoại ngữ quốc tế với điểm thi tốt nghiệpTHPT | Sử dụng kết quả bài thi đánh giá năng lực của Đại học Quốc gia Hà Nội | Xét kết quả thi tốt nghiệp THPT }"
+Đại học Y Dược - Đại học Quốc Gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-421,QHY,Hà Nội,None,None
+Đại học Việt Nhật - Đại học Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-viet-nhat-dai-hoc-quoc-gia-ha-noi-498,VJU,Hà Nội,None,None
+Trường Quản trị và Kinh doanh - ĐH Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi-499,QHD,Hà Nội,None,None
+Khoa Các khoa học liên ngành - Đại học Quốc gia Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-cac-khoa-hoc-lien-nganh-dai-hoc-quoc-gia-ha-noi-507,QHK,Hà Nội,None,None
+Đại học Quốc tế - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-dai-hoc-quoc-gia-tp-hcm-286,QSQ,TP HCM,None,None
+Đại học An Giang - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-an-giang-dai-hoc-quoc-gia-tp-hcm-450,QSA,An Giang,None,None
+Đại học Bách khoa - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-dai-hoc-quoc-gia-tp-hcm-283,QSB,TP HCM,Tổng chỉ tiêu: 5.150,"{ Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo và Đại học Quốc gia TP HCM. | Ưu tiên xét tuyển theo quy định của Đại học Quốc gia TP HCM. | Xét tuyển thí sinh có chứng chỉ tuyển sinh quốc tế hoặc thí sinh người nước ngoài (chỉ áp dụng cho chương trình giảng dạy bằng tiếng Anh,tiên tiến). | Xét tuyển thí sinh dự tính du học nước ngoài vào chương trình chuyển tiếp quốc tế (Australia,New Zealand). | Xét tuyển kết hợp nhiều tiêu chí. }"
+Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tp-hcm-284,QSC,TP HCM,Tổng chỉ tiêu: 1.800,"{ Tuyển thẳng và ưu tiên xét tuyển | Xét tuyển dựa trên điểm thi | Xét tuyển dựa trên các chứng chỉ quốc tế | Xét tuyển theo tiêu chí riêng của chương trình liên kết với Đại học Birmingham City,Anh }"
+Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tp-hcm-287,QST,TP HCM,None,None
+Đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tp-hcm-288,QSX,TP HCM,None,None
+Đại học Kinh tế - Luật - Đại học Quốc gia TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tp-hcm-285,QSK,TP HCM,None,None
+Khoa Ngoại Ngữ - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-ngoai-ngu-dai-hoc-thai-nguyen-223,DTF,Thái Nguyên,None,None
+Đại học Công Nghệ Thông Tin và Truyền Thông - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen-221,DTC,Thái Nguyên,None,None
+Khoa Quốc Tế - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/khoa-quoc-te-dai-hoc-thai-nguyen-226,DTQ,Thái Nguyên,None,None
+Đại học Kỹ Thuật Công Nghiệp - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-cong-nghiep-dai-hoc-thai-nguyen-224,DTK,Thái Nguyên,None,None
+Đại học Nông Lâm - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-dai-hoc-thai-nguyen-225,DTN,Thái Nguyên,None,None
+Đại học Y Dược - Đại học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-thai-nguyen-228,DTY,Thái Nguyên,None,None
+Đại học Khoa Học - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-dai-hoc-hue-214,DHT,Huế,None,None
+Đại học Bách khoa Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-ha-noi-349,BKA,Hà Nội,Tổng chỉ tiêu: 7.985,"{ Xét tuyển tài năng với học sinh đạt giải học sinh giỏi cấp tỉnh; dự thi học sinh giỏi quốc gia,có chứng chỉ quốc tế; học lực giỏi THPT và là học sinh trường chuyên/dự thi Olympia vòng tháng/ IELTS 6.0 | Xét tuyển dựa theo kết quả kỳ thi đánh giá tư duy | Xét tuyển dựa theo kết quả thi tốt nghiệp THPT 2023 }"
+Đại học Luật - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luat-dai-hoc-hue-208,DHA,Huế,None,None
+Đại học Nghệ Thuật - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nghe-thuat-dai-hoc-hue-218,DHN,Huế,None,None
+Đại học Ngoại Ngữ - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-hue-217,DHF,Huế,None,None
+Đại học Nông Lâm - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-dai-hoc-hue-211,DHL,Huế,None,None
+Đại học Sư Phạm - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-dai-hoc-hue-213,DHS,Huế,None,None
+Đại học Y Dược - Đại học Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-dai-hoc-hue-215,DHY,Huế,None,None
+Đại học Kiến trúc Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kien-truc-da-nang-313,KTD,Đà Nẵng,None,None
+Đại học Bách Khoa - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bach-khoa-dai-hoc-da-nang-308,DDK,Đà Nẵng,None,None
+Đại học Kinh Tế - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-dai-hoc-da-nang-309,DDQ,Đà Nẵng,None,None
+Đại học Sư Phạm - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-dai-hoc-da-nang-310,DDS,Đà Nẵng,None,None
+Đại học Ngoại Ngữ - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-dai-hoc-da-nang-307,DDF,Đà Nẵng,None,None
+Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-479,DSK,Đà Nẵng,None,None
+Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-viet-han-500,VKU,Đà Nẵng,None,None
+Đại học Kinh tế TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-tp-hcm-272,KSA,TP HCM,None,None
+Đại học Ngoại thương (phía Bắc),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-thuong-phia-bac-338,NTH,Hà Nội,Tổng chỉ tiêu: 4.100,"{ Xét học bạ với thí sinh tham gia kỳ thi học sinh giỏi/ khoa học kỹ thuật quốc gia; đạt giải ba trở lên kỳ thi học sinh giỏi cấp thành phố; là học sinh trường chuyên | Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với học bạ; điểm SAT/ ACT/ A-Level hoặc điểm thi tốt nghiệp THPT | Xét tuyển kết quả thi tốt nghiệp THPT | Sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội/ Đại học Quốc gia TP HCM | Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo }"
+Đại học Ngoại thương (phía Nam),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-thuong-phia-nam-279,NTS,TP HCM,Tổng chỉ tiêu: 4.100,"{ Xét học bạ với thí sinh tham gia kỳ thi học sinh giỏi/ khoa học kỹ thuật quốc gia; đạt giải ba trở lên kỳ thi học sinh giỏi cấp thành phố; là học sinh trường chuyên | Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế với học bạ; điểm SAT/ ACT/ A-Level hoặc điểm thi tốt nghiệp THPT | Xét tuyển kết quả thi tốt nghiệp THPT | Sử dụng kết quả kỳ thi Đánh giá năng lực của Đại học Quốc gia Hà Nội/ Đại học Quốc gia TP HCM | Xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo }"
+Đại học Sư phạm Hà Nội 2,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ha-noi-2-462,SP2,Vĩnh Phúc,None,None
+Đại Học Sư Phạm Nghệ Thuật Trung Ương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-nghe-thuat-trung-uong-379,GNT,Hà Nội,None,None
+Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-the-duc-the-thao-ha-noi-434,TDH,Hà Nội,None,None
+Đại học Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-vinh-246,TDV,Nghệ An,None,None
+Đại học Đà Lạt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-da-lat-207,TDL,Lâm Đồng,None,None
+Đại học Đồng Tháp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dong-thap-248,SPD,Đồng Tháp,None,None
+Đại học Kiên Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kien-giang-496,TKG,Kiên Giang,None,None
+Đại học Nha Trang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nha-trang-330,TSN,Khánh Hòa,Tổng chỉ tiêu: 3.600,"{ Tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo | Căn cứ kết quả thi đánh giá năng lực của Đại học Quốc gia TP HCM,Đại học Quốc gia Hà Nội | Xét học bạ ba năm THPT | Dựa vào điểm thi tốt nghiệp THPT 2023 }"
+Đại học Quy Nhơn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quy-nhon-465,DQN,Bình Định,None,None
+Đại học Sư phạm Kỹ thuật Hưng Yên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-hung-yen-205,SKH,Hưng Yên,None,None
+Đại học Tây Bắc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tay-bac-250,TTB,Sơn La,None,None
+Đại học Tây Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tay-nguyen-453,TTN,Đắk Lắk,None,None
+Đại học Việt Đức,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-viet-duc-295,VGU,Bình Dương,None,None
+Học viện Y Dược học cổ truyền Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-390,HYD,Hà Nội,None,None
+Đại học Y Dược Hải Phòng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-duoc-hai-phong-321,YPB,Hải Phòng,None,None
+Đại học Điều Dưỡng Nam Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dieu-duong-nam-dinh-324,YDD,Nam Định,None,None
+Đại học Kỹ thuật Y Dược Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-y-duoc-da-nang-315,YDN,Đà Nẵng,None,None
+Học Viện Âm Nhạc Quốc Gia Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-am-nhac-quoc-gia-viet-nam-407,NVH,Hà Nội,None,None
+Đại học Văn hóa Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hoa-ha-noi-428,VHH,Hà Nội,None,None
+Đại học Mỹ Thuật Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-my-thuat-viet-nam-403,MTH,Hà Nội,None,None
+Đại Học Sân Khấu Điện Ảnh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-san-khau-dien-anh-422,SKD,Hà Nội,None,None
+Đại học Mỹ Thuật TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-my-thuat-tp-hcm-276,MTS,TP HCM,None,None
+Đại học Thể dục Thể thao TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-the-duc-the-thao-tp-hcm-305,TDS,TP HCM,None,None
+Đại học Tài nguyên và Môi trường TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-nguyen-va-moi-truong-tp-hcm-262,DTM,TP HCM,None,None
+Học Viện Âm Nhạc Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-am-nhac-hue-219,HVA,Huế,None,None
+Đại Học Thể Dục Thể Thao Bắc Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-the-duc-the-thao-bac-ninh-460,TDB,Bắc Ninh,None,None
+Đại học Điện lực,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dien-luc-358,DDL,Hà Nội,Tổng chỉ tiêu: 3.650,"{ Xét học bạ năm học kỳ THPT (trừ kỳ II lớp 12). | Xét kết quả thi tốt nghiệp THPT 2023. | Xét kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội. | Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo. }"
+Đại học Công nghệ TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-tp-hcm-256,DKC,TP HCM,Tổng chỉ tiêu: 9.900,"{ Xét tuyển kết quả thi tốt nghiệp THPT 2023 | Sử dụng kết quả kỳ thi đánh giá năng lực của Đại học Quốc gia TP HCM | Xét học bạ (lớp 12 hoặc lớp 11 và kỳ I lớp 12) }"
+Đại học Công Nghiệp Quảng Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-quang-ninh-337,DDM,Quảng Ninh,None,None
+Đại Học Công Nghiệp Việt Trì,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-viet-tri-437,VUI,Phú Thọ,None,None
+Đại học Xây dựng Miền Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-xay-dung-mien-trung-201,XDT,Phú Yên,None,None
+Đại Học Lao động – Xã hội ( Cơ sở Sơn Tây ),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lao-dong-xa-hoi-co-so-son-tay-364,DLT,Hà Nội,None,None
+Đại Học Sư Phạm Kỹ Thuật Nam Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-su-pham-ky-thuat-nam-dinh-323,SKN,Nam Định,None,None
+Học viện Nông nghiệp Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-nong-nghiep-viet-nam-488,HVN,Hà Nội,Tổng chỉ tiêu: 3.000,"{ Nhập từng phương thức | Hết một cái bấm enter xuống dòng | Hệ thống sẽ tự động hiển thị số 1,2,3 khi lên trang ạ }"
+Đại học Lâm nghiệp (Cơ sở 1),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lam-nghiep-co-so-1-398,LNH,Hà Nội,None,None
+Đại Học Thủy Lợi ( Cơ sở 2 ),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thuy-loi-co-so-2-292,TLS,TP HCM,Tổng chỉ tiêu: 5.500,"{ Xét học bạ | Căn cứ kết quả thi tốt nghiệp THPT 2023 | Xét tuyển thí sinh thi đánh giá tư duy năm 2023 của Đại học Bách khoa Hà Nội | Xét tuyển thẳng theo quy chế của Bộ Giáo dục và Đào tạo | Ưu tiên xét tuyển kết hợp học bạ với thí sinh: đạt giải học sinh giỏi cấp tỉnh trở lên,là học sinh trường chuyên,học lực giỏi ba năm THPT,đạt chứng chỉ tiếng Anh quốc tế }"
+Đại học Nông Lâm Bắc Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nong-lam-bac-giang-316,DBG,Bắc Giang,None,None
+Đại học Tài chính Marketing,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-marketing-258,DMS,TP HCM,None,None
+Đại học Tài Chính Kế Toán,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-ke-toan-345,DKQ,Quảng Ngãi,None,None
+Học viện Thanh Thiếu Niên Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-thanh-thieu-nien-viet-nam-388,HTN,Hà Nội,None,None
+Học viện Ngoại giao,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ngoai-giao-386,HQT,Hà Nội,None,None
+Học Viện Hành Chính Quốc Gia (phía Nam),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-hanh-chinh-quoc-gia-phia-nam-268,HCS,TP HCM,None,None
+Học viện Công nghệ Bưu chính Viễn thông (phía Nam),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam-252,BVS,TP HCM,Tổng chỉ tiêu: 4.280,"{ Xét tuyển bằng điểm thi tốt nghiệp THPT 2023 | Sử dụng kết quả thi đánh giá năng lực,tư duy | Xét tuyển theo đề án riêng với thí sinh có các chứng chỉ SAT,ACT,IELTS và tương đương; đạt giải học sinh cấp tỉnh trở lên }"
+Đại học Luật Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luat-ha-noi-399,LPH,Hà Nội,None,None
+Học viện Ngân hàng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ngan-hang-405,NHH,Hà Nội,Tổng chỉ tiêu: 3.300,"{ Xét tuyển thẳng. | Xét tuyển dựa vào kết quả học tập bậc THPT. | Xét tuyển dựa vào chứng chỉ quốc tế. | Xét tuyển dựa vào kết quả kỳ thi đánh giá năng lực. | Xét tuyển dựa vào kết quả thi tốt nghiệp THPT. }"
+Đại học Công Nghiệp Dệt May Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-det-may-ha-noi-352,CCM,Hà Nội,None,None
+Học viện Tòa án,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-toa-an-486,HTA,Hà Nội,None,None
+Đại học Công đoàn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-doan-397,LDA,Hà Nội,None,None
+Học viện Phụ nữ Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-phu-nu-viet-nam-485,HPN,Hà Nội,None,None
+Học viện Cảnh sát nhân dân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-canh-sat-nhan-dan-353,CSH,Hà Nội,None,None
+Đại học Khoa Học Và Công Nghệ Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi-391,KCN,None,None
+Đại học Kiểm sát Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kiem-sat-ha-noi-363,DKS,Hà Nội,None,None
+Đại học Thủ Đô Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thu-do-ha-noi-385,HNM,Hà Nội,None,None
+Học viện Cán bộ TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-can-bo-tp-hcm-487,HVC,TP HCM,None,None
+Đại học Bạc Liêu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-bac-lieu-449,DBL,Bạc Liêu,None,None
+Đại học Thủ Dầu Một,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thu-dau-mot-447,TDM,Bình Dương,None,None
+Đại học Hà Tĩnh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ha-tinh-240,HHT,Hà Tĩnh,None,None
+Đại học Khánh Hòa,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-khanh-hoa-497,UKH,Khánh Hòa,None,None
+Đại học Kinh Tế Nghệ An,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-nghe-an-242,CEA,Nghệ An,None,None
+Đại học Y Khoa Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-y-khoa-vinh-247,YKV,Nghệ An,None,None
+Đại học Hoa Lư,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hoa-lu-241,DNB,Ninh Bình,None,None
+Đại học Hùng Vương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hung-vuong-436,THV,Phú Thọ,None,None
+Đại Học Quảng Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-binh-339,DQB,Quảng Bình,None,None
+Đại học Quảng Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-nam-237,DQU,Quảng Nam,None,None
+Đại học Thái Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thai-binh-238,DTB,Thái Bình,None,None
+Đại học Hồng Đức,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hong-duc-341,HDT,Thanh Hóa,None,None
+"Đại học Văn Hóa,Thể Thao Và Du Lịch Thanh Hóa",https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-340,DVD,Thanh Hóa,None,None
+Đại học Tiền Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tien-giang-347,TTG,Tiền Giang,None,None
+Đại học Trà Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tra-vinh-317,DVT,Trà Vinh,None,None
+Đại học Tân Trào,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tan-trao-464,TQU,Tuyên Quang,None,None
+Đại Học Đông Đô,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dong-do-360,DDU,Hà Nội,None,None
+Đại Học FPT,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-fpt-377,FPT,Hà Nội,None,None
+Đại học Kinh doanh và Công nghệ Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-doanh-va-cong-nghe-ha-noi-371,DQK,Hà Nội,None,None
+Đại học Nguyễn Trãi,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nguyen-trai-406,NTU,Hà Nội,None,None
+Đại học Phenikaa,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phenikaa-372,DTA,Hà Nội,None,None
+Đại học Tài Chính Ngân Hàng Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tai-chinh-ngan-hang-ha-noi-376,FBU,Hà Nội,None,None
+Đại học Thăng Long,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thang-long-373,DTL,Hà Nội,None,None
+Đại học Võ Trường Toản,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-vo-truong-toan-202,VTT,Hậu Giang,None,None
+Đại học Hoa Sen,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hoa-sen-261,HSU,TP HCM,None,None
+Đại học Hùng Vương TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-hung-vuong-tp-hcm-477,DHV,TP HCM,None,None
+Đại học Ngoại ngữ - Tin học TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ngoai-ngu-tin-hoc-tp-hcm-259,DNT,TP HCM,None,None
+Đại học Nguyễn Tất Thành,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nguyen-tat-thanh-280,NTT,TP HCM,None,None
+Đại học Quốc tế Hồng Bàng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-hong-bang-270,HIU,TP HCM,None,None
+Đại học Văn Hiến,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-hien-264,DVH,TP HCM,None,None
+Đại học Văn Lang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-van-lang-265,DVL,TP HCM,None,None
+Đại học Bà Rịa Vũng Tàu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ba-ria-vung-tau-435,BVU,Bà Rịa- Vũng Tàu,None,None
+Đại học Công Nghệ Đông Á,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-dong-a-455,DDA,Hà Nội,None,None
+Đại học Kinh Bắc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-bac-459,UKB,Bắc Ninh,None,None
+Đại Học Quốc Tế Bắc Hà,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quoc-te-bac-ha-354,DBH,Hà Nội,None,None
+Đại học Kinh tế Kỹ thuật Bình Dương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-kinh-te-ky-thuat-binh-duong-444,DKB,Bình Dương,None,None
+Đại học Quang Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-quang-trung-466,DQT,Bình Định,None,None
+Đại học Phan Thiết,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phan-thiet-249,DPT,Bình Thuận,None,None
+Đại học Nam Cần Thơ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-nam-can-tho-231,DNC,Cần Thơ,None,None
+Đại học Công nghệ Miền Đông,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghe-mien-dong-478,DMD,Hà Nội,None,None
+Đại học Lạc Hồng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-lac-hong-439,DLH,Đồng Nai,None,None
+Đại Học Hà Hoa Tiên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ha-hoa-tien-332,DHH,Hà Nam,None,None
+Đại Học Thành Đông,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-thanh-dong-333,DDB,Hải Dương,None,None
+Đại học Yersin Đà Lạt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-yersin-da-lat-206,DYD,Lâm Đồng,None,None
+Đại học Tân Tạo,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-tan-tao-452,TTU,Long An,None,None
+Đại Học Lương Thế Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-luong-the-vinh-322,DTV,Nam Định,None,None
+Đại học Công nghiệp Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cong-nghiep-vinh-243,DCV,Nghệ An,None,None
+Đại học Phan Châu Trinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-phan-chau-trinh-236,DPC,Quảng Nam,None,None
+Đại học Dân Lập Phú Xuân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dan-lap-phu-xuan-216,DPX,Huế,None,None
+Đại học Cửu Long,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-cuu-long-342,DCL,Vĩnh Long,None,None
+Học viện Biên Phòng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-bien-phong-350,BPH,Hà Nội,None,None
+Học viện Hậu Cần - Hệ Quân sự,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-hau-can-he-quan-su-482,HEH,Hà Nội,None,None
+Học viện Khoa Học Quân Sự - Hệ Quân sự,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-khoa-hoc-quan-su-he-quan-su-495,NQH,Hà Nội,None,None
+Học viện Kỹ thuật mật mã,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-ky-thuat-mat-ma-393,KMA,Hà Nội,None,None
+Trường Sĩ Quan Phòng Hóa,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-phong-hoa-384,HGH,Hà Nội,None,None
+Trường Sĩ Quan Đặc Công,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-dac-cong-355,DCH,Hà Nội,None,None
+Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-441,LBH,Đồng Nai,None,None
+Trường Sĩ Quan Không Quân - Hệ Đại học,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-khong-quan-he-dai-hoc-327,KGH,Khánh Hòa,None,None
+Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-446,SNH,Bình Dương,None,None
+Học viện An Ninh Nhân Dân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-an-ninh-nhan-dan-348,ANH,Hà Nội,None,None
+Học viện Chính Trị Công An Nhân Dân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-chinh-tri-cong-an-nhan-dan-481,HCA,Hà Nội,None,None
+Học viện quốc tế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/hoc-vien-quoc-te-508,AIS,None,None
+Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Bắc ),https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-bac-456,HCB,Bắc Ninh,None,None
+Đại học An Ninh Nhân Dân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-an-ninh-nhan-dan-251,ANS,Hà Nội,None,None
+Đại học Dầu khí Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/dai-hoc-dau-khi-viet-nam-412,PVU,Bà Rịa- Vũng Tàu,None,None
+Viện Nghiên cứu và Đào tạo Việt - Anh - Đại học Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang-476,DDV,Đà Nẵng,None,None
+Cao Đẳng Kinh Tế – Kỹ Thuật – Đại Học Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-dai-hoc-thai-nguyen-29,DTU,Thái Nguyên,None,None
+Cao Đẳng Công Nghiệp Quốc Phòng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-quoc-phong-171,QPH,Phú Thọ,None,None
+Cao Đẳng Công Nghệ Và Kỹ Thuật Ô Tô,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-ky-thuat-o-to-151,COT,Hà Nội,None,None
+Cao Đẳng An Ninh Nhân Dân 1,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-an-ninh-nhan-dan-1-467,AD1,Hà Nội,None,None
+Cao Đẳng Xây Dựng Số 2,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-so-2-81,CXS,TP HCM,None,None
+Cao Đẳng Kỹ Thuật Cao Thắng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cao-thang-71,CKC,TP HCM,None,None
+Cao Đẳng Sư Phạm Bà Rịa – Vũng Tàu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ba-ria-vung-tau-159,C52,Bà Rịa- Vũng Tàu,None,None
+Cao Đẳng Sư Phạm Bắc Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-bac-ninh-187,C19,Bắc Ninh,None,None
+Cao Đẳng Sư Phạm Cao Bằng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-cao-bang-95,C06,Cao Bằng,None,None
+Cao Đẳng Sư Phạm Điện Biên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-dien-bien-177,C62,Điện Biên,None,None
+Cao Đẳng Sư Phạm Gia Lai,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-gia-lai-20,C38,Gia Lai,None,None
+Cao Đẳng Sư Phạm Hòa Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-hoa-binh-17,C23,Hòa Bình,None,None
+Cao Đẳng Sư Phạm Kiên Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-kien-giang-163,C54,Kiên Giang,None,None
+Cao Đẳng Sư Phạm Lạng Sơn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-lang-son-196,C10,Lạng Sơn,None,None
+Cao Đẳng Sư Phạm Long An,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-long-an-180,C49,Long An,None,None
+Cao Đẳng Sư Phạm Nam Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-nam-dinh-106,C25,Nam Định,None,None
+Cao Đẳng Sư Phạm Nghệ An,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-nghe-an-48,C29,Nghệ An,None,None
+Cao Đẳng Sư Phạm Quảng Trị,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-quang-tri-2,C32,Quảng Trị,None,None
+Cao Đẳng Sư Phạm Tây Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tay-ninh-47,C46,Tây Ninh,None,None
+Cao Đẳng Sư Phạm Thái Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thai-binh-41,C26,Thái Bình,None,None
+Cao Đẳng Sư Phạm Thừa Thiên Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thua-thien-hue-14,C33,Huế,None,None
+Cao Đẳng Sư Phạm Trung Ương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-trung-uong-146,CM1,Hà Nội,None,None
+Cao Đẳng Sư Phạm TW Nha Trang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tw-nha-trang-111,CM2,Khánh Hòa,None,None
+Cao Đẳng Sư Phạm Trung Ương TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-trung-uong-tp-hcm-75,CM3,TP HCM,None,None
+Cao Đẳng Sư Phạm Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-thai-nguyen-21,C12,Thái Nguyên,None,None
+Cao Đẳng Sư Phạm Yên Bái,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-yen-bai-58,C13,Yên Bái,None,None
+Cao Đẳng Cộng Đồng Bắc Kạn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-bac-kan-194,C11,Bắc Kạn,None,None
+Cao Đẳng Bến Tre,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ben-tre-160,C56,Bến Tre,None,None
+Cao Đẳng Bình Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-binh-dinh-197,C37,Bình Định,None,None
+Cao Đẳng Sư Phạm Bình Phước,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-binh-phuoc-182,C43,Bình Phước,None,None
+Cao Đẳng Cần Thơ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-can-tho-31,C55,Cần Thơ,None,None
+Cao Đẳng Cộng Đồng Cà Mau,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ca-mau-105,D61,Cà Mau,None,None
+Cao Đẳng Cộng Đồng Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ha-noi-143,CHN,Hà Nội,None,None
+Cao Đẳng Cộng Đồng Hậu Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-hau-giang-4,D64,Hậu Giang,None,None
+Cao Đẳng Cộng Đồng Đồng Tháp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-dong-thap-53,D50,Đồng Tháp,None,None
+Cao Đẳng Cộng Đồng Lai Châu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-lai-chau-1,CLC,Lai Châu,None,None
+Cao Đẳng Cộng Đồng Sóc Trăng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-soc-trang-162,CST,Sóc Trăng,None,None
+Cao Đẳng Sư Phạm Đà Lạt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-da-lat-10,C42,Lâm Đồng,None,None
+Cao Đẳng Sư Phạm Ngô Gia Tự Bắc Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ngo-gia-tu-bac-giang-96,C18,Bắc Giang,None,None
+Cao Đẳng Sơn La,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-son-la-56,C14,Sơn La,None,None
+Cao Đẳng Cộng Đồng Vĩnh Long,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-vinh-long-130,D57,Vĩnh Long,None,None
+Cao Đẳng Sư Phạm Vĩnh Phúc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-vinh-phuc-191,C16,Vĩnh Phúc,None,None
+Cao Đẳng Đại Việt Sài Gòn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dai-viet-sai-gon-473,CSG,Hà Nội,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Điện Biên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-dien-bien-178,CDB,Điện Biên,None,None
+Cao Đẳng Y Tế Sơn La,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-son-la-57,YSL,Sơn La,None,None
+Cao Đẳng Y Tế Phú Thọ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-phu-tho-170,CYP,Phú Thọ,None,None
+Cao Đẳng Y Tế Quảng Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-quang-ninh-125,CYQ,Quảng Ninh,None,None
+Cao Đẳng Y Tế Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thai-nguyen-28,CYI,Thái Nguyên,None,None
+Cao Đẳng Y Tế Ninh Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ninh-binh-46,CNY,Ninh Bình,None,None
+Cao Đẳng Y Tế Bạch Mai,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-bach-mai-469,CBM,Hà Nội,None,None
+Cao Đẳng Y Tế Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hue-16,CYY,Huế,None,None
+Cao Đẳng Y Tế Hà Đông,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-dong-155,CYM,Hà Nội,None,None
+Cao Đẳng Y Tế Hà Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-nam-116,CYH,Hà Nam,None,None
+Cao Đẳng Y Tế Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-noi-156,CYZ,Hà Nội,None,None
+Cao Đẳng Y Tế Bình Dương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-duong-176,CBY,Bình Dương,None,None
+Cao Đẳng Y Tế Hải Phòng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hai-phong-101,CYF,Hải Phòng,None,None
+Cao Đẳng Y Tế Hưng Yên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-hung-yen-8,CHY,Hưng Yên,None,None
+Cao Đẳng Y Tế Lâm Đồng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-lam-dong-13,CLY,Lâm Đồng,None,None
+Cao Đẳng Y Tế Thái Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thai-binh-42,CYE,Thái Bình,None,None
+Cao Đẳng Y Tế Hà Tĩnh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ha-tinh-44,CYN,Hà Tĩnh,None,None
+Cao Đẳng Y Tế Thanh Hóa,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-thanh-hoa-127,CYT,Thanh Hóa,None,None
+Cao Đẳng Y Tế Bình Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-dinh-198,CYR,Bình Định,None,None
+Cao Đẳng Y Tế Khánh Hòa,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-khanh-hoa-112,CYK,Khánh Hòa,None,None
+Cao Đẳng Y Tế Quảng Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-quang-nam-40,CYU,Quảng Nam,None,None
+Cao Đẳng Y Tế Đồng Nai,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-dong-nai-173,CYD,Đồng Nai,None,None
+Cao Đẳng Y Tế Bạc Liêu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-bac-lieu-179,CYB,Bạc Liêu,None,None
+Cao Đẳng Y Tế Cà Mau,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-ca-mau-104,CMY,Cà Mau,None,None
+Cao Đẳng Y Tế Cần Thơ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-can-tho-34,CYC,Cần Thơ,None,None
+Cao Đẳng Y Tế Đồng Tháp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-dong-thap-52,CYA,Đồng Tháp,None,None
+Cao Đẳng Y Tế Tiền Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-tien-giang-133,CYV,Tiền Giang,None,None
+Cao Đẳng Y Tế Trà Vinh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-tra-vinh-98,YTV,Trà Vinh,None,None
+Cao Đẳng Cơ Khí Luyện Kim,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-co-khi-luyen-kim-24,CKL,Thái Nguyên,None,None
+Cao Đẳng Công Nghệ và Kinh Tế Công Nghiệp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-cong-nghiep-27,CXD,Thái Nguyên,None,None
+Cao Đẳng Công Nghiệp Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-thai-nguyen-22,CCB,Thái Nguyên,None,None
+Cao Đẳng Công Nghiệp Thực Phẩm,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-thuc-pham-169,CTP,Phú Thọ,None,None
+Cao Đẳng Công Nghiệp và Xây Dựng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-va-xay-dung-122,CCX,Quảng Ninh,None,None
+Cao Đẳng Công Nghiệp Việt Đức,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-viet-duc-23,CCV,Thái Nguyên,None,None
+Cao Đẳng Kinh Tế – Tài Chính Thái Nguyên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-tai-chinh-thai-nguyen-25,CKT,Thái Nguyên,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Phú Thọ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-phu-tho-168,CPP,Phú Thọ,None,None
+Cao Đẳng Kỹ Thuật Công Nghiệp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghiep-97,CCE,Bắc Giang,None,None
+Cao Đẳng Nông Lâm Đông Bắc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-lam-dong-bac-123,CDP,Quảng Ninh,None,None
+Cao Đẳng Thương Mại và Du Lịch,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-va-du-lich-26,CTM,Thái Nguyên,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật và Du Lịch Hạ Long,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-va-du-lich-ha-long-124,CVD,Quảng Ninh,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật Việt Bắc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-viet-bac-30,CNV,Thái Nguyên,None,None
+Cao Đẳng Cộng Đồng Hà Tây,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-ha-tay-157,D20,Hà Nội,None,None
+Cao Đẳng Cộng Đồng Hải Phòng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-hai-phong-102,D03,Hải Phòng,None,None
+Cao Đẳng Công Nghệ Và Kinh Tế Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-ha-noi-142,CHK,Hà Nội,None,None
+Cao Đẳng Công Nghệ Viettronics,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-viettronics-100,CVT,Hải Phòng,None,None
+Cao Đẳng Công Nghiệp Hưng Yên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-hung-yen-7,CCY,Hưng Yên,None,None
+Cao Đẳng Công Nghiệp Nam Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-nam-dinh-107,CND,Nam Định,None,None
+Cao Đẳng Công Nghệ và Thương Mại Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-thuong-mai-ha-noi-135,CBT,Hà Nội,None,None
+Cao Đẳng Điện Tử - Điện Lạnh Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-tu-dien-lanh-ha-noi-145,CLH,Hà Nội,None,None
+Cao Đẳng Du Lịch Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-du-lich-ha-noi-138,CDH,Hà Nội,None,None
+Cao Đẳng Dược Trung Ương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-duoc-trung-uong-119,CYS,Hải Dương,None,None
+Cao Đẳng Hàng Hải I,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hang-hai-i-99,CHH,Hải Phòng,None,None
+Cao Đẳng Kinh Tế – Kỹ Thuật Thương Mại,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-thuong-mai-152,CTH,Hà Nội,None,None
+Cao Đẳng Kinh Tế - Kỹ Thuật Trung Ương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-trung-uong-153,CTW,Hà Nội,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Vĩnh Phúc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-vinh-phuc-192,CKA,Vĩnh Phúc,None,None
+Cao Đẳng Kinh Tế Công Nghiệp Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-cong-nghiep-ha-noi-137,CCK,Hà Nội,None,None
+Cao Đẳng Thủy Sản,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuy-san-189,CSB,Bắc Ninh,None,None
+Cao Đẳng Múa Việt Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-mua-viet-nam-158,CMH,Hà Nội,None,None
+Cao Đẳng Nghệ Thuật Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nghe-thuat-ha-noi-150,CNT,Hà Nội,None,None
+Cao Đẳng Nông Nghiệp và Phát Triển Nông Thôn Bắc Bộ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-nghiep-va-phat-trien-nong-thon-bac-bo-149,CNP,Hà Nội,None,None
+Cao Đẳng Phát Thanh Truyền Hình I,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phat-thanh-truyen-hinh-i-114,CPT,Hà Nam,None,None
+Cao Đẳng Thống Kê,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thong-ke-190,CTE,Bắc Ninh,None,None
+Cao đẳng Công Nghệ Thông Tin TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thong-tin-tp-hcm-472,CDC,Hà Nội,None,None
+Cao Đẳng Thương Mại Và Du Lịch Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-va-du-lich-ha-noi-147,CMD,Hà Nội,None,None
+Cao Đẳng Thủy Lợi Bắc Bộ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuy-loi-bac-bo-115,CTL,Hà Nam,None,None
+Cao Đẳng Truyền Hình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-truyen-hinh-140,CDT0131,Hà Nội,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật Thái Bình,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-thai-binh-43,CNB,Thái Bình,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật Du Lịch Yên Bái,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-du-lich-yen-bai-59,CVY,Yên Bái,None,None
+Cao Đẳng Xây Dựng Công Trình Đô Thị,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-cong-trinh-do-thi-139,CDT,Hà Nội,None,None
+Cao Đẳng Xây Dựng Nam Định,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-nam-dinh-108,CXN,Nam Định,None,None
+Cao Đẳng Xây Dựng Số 1,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-xay-dung-so-1-154,CXH,Hà Nội,None,None
+Cao Đẳng Công Nghiệp Huế,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-hue-15,CCH,Huế,None,None
+Cao Đẳng Giao Thông Vận Tải II,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-ii-85,CGD,Đà Nẵng,None,None
+Cao Đẳng Giao Thông Vận Tải Miền Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-mien-trung-49,CGN,Nghệ An,None,None
+Cao Đẳng Tài Nguyên và Môi Trường Miền Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-tai-nguyen-va-moi-truong-mien-trung-126,CMM,Thanh Hóa,None,None
+Cao Đẳng Kỹ Thuật Công Nghiệp Quảng Ngãi,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghiep-quang-ngai-131,CCQ,Quảng Ngãi,None,None
+"Cao đẳng Văn Hóa,Thể Thao Và Du Lịch Nguyễn Du",https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-the-thao-va-du-lich-nguyen-du-45,CVH,Hà Tĩnh,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật Nghệ An,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-nghe-an-51,CVV,Nghệ An,None,None
+Cao Đẳng Y Tế Bình Thuận,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-y-te-binh-thuan-55,CYX,Bình Thuận,None,None
+Cao Đẳng Công Nghệ Kinh Tế Và Thủy Lợi Miền Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-kinh-te-va-thuy-loi-mien-trung-36,CEM,Quảng Nam,None,None
+Cao Đẳng Điện Lực Miền Trung,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-luc-mien-trung-38,CLD,Quảng Nam,None,None
+Cao Đẳng Kinh Tế – Kế Hoạch Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ke-hoach-da-nang-88,CKK,Đà Nẵng,None,None
+Cao Đẳng Kỹ Thuật-Công Nghệ Vạn Xuân,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-cong-nghe-van-xuan-80,CVX,TP HCM,None,None
+Cao Đẳng Lương Thực Thực Phẩm,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-luong-thuc-thuc-pham-89,CLT,Đà Nẵng,None,None
+Cao Đẳng Thương Mại,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-thuong-mai-91,CMS,Đà Nẵng,None,None
+Cao Đẳng Công Nghệ Và Kinh Tế Bảo Lộc,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-te-bao-loc-11,CBL,Lâm Đồng,None,None
+Cao Đẳng Sư Phạm Kon Tum,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-kon-tum-185,C36,Kon Tum,None,None
+Cao Đẳng Bách Khoa Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-khoa-da-nang-87,CKB,Đà Nẵng,None,None
+Cao Đẳng Công Nghệ Thủ Đức,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thu-duc-62,CCO,TP HCM,None,None
+Cao Đẳng Công Nghiệp Cao Su,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghiep-cao-su-183,CSC,Bình Phước,None,None
+Cao Đẳng Công Thương TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-thuong-tp-hcm-67,CES,TP HCM,None,None
+Cao Đẳng Điện Lực TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dien-luc-tp-hcm-64,CDE,TP HCM,None,None
+Cao Đẳng Giao Thông Vận Tải TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-tp-hcm-70,CGT,TP HCM,None,None
+Cao Đẳng Kinh Tế-Công Nghệ TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-cong-nghe-tp-hcm-68,CET,TP HCM,None,None
+Cao Đẳng Kinh Tế Đối Ngoại,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-doi-ngoai-72,CKD,TP HCM,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-tp-hcm-76,CPL,TP HCM,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Vinatex TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-vinatex-tp-hcm-63,CCS,TP HCM,None,None
+Cao Đẳng Kinh Tế TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-tp-hcm-66,CEP,TP HCM,None,None
+Cao Đẳng Kỹ Thuật Lý Tự Trọng TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ky-thuat-ly-tu-trong-tp-hcm-74,CKP,TP HCM,None,None
+Cao Đẳng Mỹ Thuật Trang Trí Đồng Nai,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-my-thuat-trang-tri-dong-nai-174,CDN,Đồng Nai,None,None
+Cao Đẳng Phát Thanh Truyền Hình II,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phat-thanh-truyen-hinh-ii-77,CPS,TP HCM,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật TP HCM,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-tp-hcm-82,CVN,TP HCM,None,None
+Cao Đẳng Cơ Điện Và Nông Nghiệp Nam Bộ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-co-dien-va-nong-nghiep-nam-bo-33,CEN,Cần Thơ,None,None
+Cao Đẳng Cộng Đồng Kiên Giang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-dong-kien-giang-165,D54,Kiên Giang,None,None
+Cao Đẳng Kinh Tế – Kỹ Thuật Cần Thơ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-can-tho-32,CEC,Cần Thơ,None,None
+Cao Đẳng Nông Nghiệp Nam Bộ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-nong-nghiep-nam-bo-132,CNN,Tiền Giang,None,None
+Cao Đẳng Asean,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-asean-9,CSA,Hưng Yên,None,None
+Cao Đẳng Lạc Việt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-lac-viet-90,CLV,Đà Nẵng,None,None
+Cao Đẳng Bách Khoa Hưng Yên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-khoa-hung-yen-6,CBK,Hưng Yên,None,None
+Cao Đẳng Bách Việt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-bach-viet-61,CBV,TP HCM,None,None
+Cao Đẳng Bán Công Công Nghệ và Quản Trị Doanh Nghiệp,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ban-cong-cong-nghe-va-quan-tri-doanh-nghiep-60,CBC,TP HCM,None,None
+Cao Đẳng Công Nghệ Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-ha-noi-148,CNH,Hà Nội,None,None
+Cao Đẳng Công Nghệ và Quản Trị Sonadezi,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-quan-tri-sonadezi-172,CDS,Đồng Nai,None,None
+Cao Đẳng Đại Việt,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-dai-viet-141,CEO,Hà Nội,None,None
+Cao Đẳng Hoan Châu,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hoan-chau-50,CNA,Nghệ An,None,None
+Cao Đẳng Kinh Tế – Kỹ Thuật Hà Nội,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-ha-noi-144,CKN,Hà Nội,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Miền Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-mien-nam-73,CKM,TP HCM,None,None
+Cao Đẳng Ngoại Ngữ – Công Nghệ Việt Nhật,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-ngoai-ngu-cong-nghe-viet-nhat-188,CNC,Bắc Ninh,None,None
+Cao Đẳng Phương Đông – Đà Nẵng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phuong-dong-da-nang-92,CPN,Đà Nẵng,None,None
+Cao Đẳng Phương Đông -Quảng Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-phuong-dong-quang-nam-39,CPD,Quảng Nam,None,None
+Cao Đẳng Tư Thục Đức Trí,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-tu-thuc-duc-tri-84,CDA,Đà Nẵng,None,None
+Cao Đẳng An Ninh Nhân Dân 2,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-an-ninh-nhan-dan-2-468,AD2,Hà Nội,None,None
+Cao Đẳng Dược Phú Thọ,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-duoc-phu-tho-167,CDU,Phú Thọ,None,None
+Cao Đẳng Công Nghệ và Kinh Doanh Việt Tiến,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-va-kinh-doanh-viet-tien-83,CCZ,Đà Nẵng,None,None
+Cao Đẳng Sư Phạm Hưng Yên,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-hung-yen-5,C22,Hưng Yên,None,None
+Cao Đẳng Sư Phạm Lào Cai,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-lao-cai-18,C08,Lào Cai,None,None
+Cao Đẳng Công Nghệ Thông Tin Hữu Nghị Việt Hàn,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-cong-nghe-thong-tin-huu-nghi-viet-han-86,CHV,Đà Nẵng,None,None
+Trường Sĩ Quan Không Quân - Hệ Cao đẳng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/truong-si-quan-khong-quan-he-cao-dang-326,KGC,Khánh Hòa,None,None
+Cao Đẳng Hải Dương,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-hai-duong-117,C21,Hải Dương,None,None
+Cao Đẳng Sư Phạm Quảng Ninh,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-quang-ninh-120,C17,Quảng Ninh,None,None
+Cao Đẳng Sư Phạm Hà Nam,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ha-nam-113,C24,Hà Nam,None,None
+Cao Đẳng Sư Phạm Tuyên Quang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-tuyen-quang-195,C09,Tuyên Quang,None,None
+Cao Đẳng Kinh Tế Kỹ Thuật Lâm Đồng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-kinh-te-ky-thuat-lam-dong-12,CKZ,Lâm Đồng,None,None
+Cao Đẳng Giao Thông Vận Tải 3,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-giao-thong-van-tai-3-69,CGS,TP HCM,None,None
+Cao Đẳng Văn Hóa Nghệ Thuật và Du Lịch Nha Trang,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-van-hoa-nghe-thuat-va-du-lich-nha-trang-110,CDK,Khánh Hòa,None,None
+Cao Đẳng Sư Phạm Ninh Thuận,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ninh-thuan-181,C45,Ninh Thuận,None,None
+Cao Đẳng Sư Phạm Sóc Trăng,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-soc-trang-161,C59,Sóc Trăng,None,None
+Cao Đẳng Sư Phạm Cà Mau,https://diemthi.vnexpress.net/tra-cuu-dai-hoc/cao-dang-su-pham-ca-mau-103,C61,Cà Mau,None,None
